@@ -1,0 +1,1002 @@
+Date of entry,Reason for admission,Symptoms,Assignment,Status,Date of last status update,Treatment plan,Diagnosis,Name,Address,Sex,Age,Risk Factors,Co-morbities,Past diagnoses,Past procedures,Medications,Height (cm),Weight (kg),Blood type,Blood pressure (sys),Blood pressure (dia),Body temperature,Pulse,Date of vital signals measurement,Laboratory results,Date of laboratory test,Clinical notes
+,None,no symptoms,,,,,,Michelle Bass,,Male,51,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,COPD,wheezing,,,,,,Ashley Carpenter,,Female,86,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,None,"no symptoms, no symptoms",,,,,,Courtney Jones,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,COPD,"chronic cough, chronic cough, wheezing, chronic cough",,,,,,Roy Combs,,Female,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chronic cough, wheezing, chronic cough associated with COPD."
+,Hypertension,"headache, nosebleeds",,,,,,Patrick Snow,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, nosebleeds associated with Hypertension."
+,HIV,"weight loss, weight loss, weight loss",,,,,,Lisa Baker,,Male,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, weight loss, weight loss associated with HIV."
+,HIV,"night sweats, weight loss",,,,,,Kimberly Newman,,Female,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, weight loss associated with HIV."
+,Typhoid,"rash, abdominal pain, weakness, rash",,,,,,Kathleen Cohen,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, abdominal pain, weakness, rash associated with Typhoid."
+,None,"no symptoms, no symptoms",,,,,,Brandon Mclean,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Diabetes,"increased thirst, fatigue, frequent urination, fatigue",,,,,,Maria Morales,,Female,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, fatigue, frequent urination, fatigue associated with Diabetes."
+,Asthma,shortness of breath,,,,,,Jennifer Burke,,Female,84,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Ulcer,"vomiting, vomiting, nausea",,,,,,Mrs. Lauren Sandoval,,Male,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, vomiting, nausea associated with Ulcer."
+,Hypertension,"shortness of breath, headache, nosebleeds, dizziness",,,,,,Andre Romero,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, headache, nosebleeds, dizziness associated with Hypertension."
+,Asthma,"chest tightness, shortness of breath, shortness of breath, wheezing",,,,,,Katherine Smith,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath, shortness of breath, wheezing associated with Asthma."
+,Heart Disease,irregular heartbeat,,,,,,Brittany Griffin,,Female,48,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Diabetes,"increased thirst, frequent urination",,,,,,Kristin Santos,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+,HIV,"weight loss, weight loss, weight loss",,,,,,Ralph Acevedo,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, weight loss, weight loss associated with HIV."
+,Malaria,"chills, chills, muscle pain, fever",,,,,,Karen Robinson,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, muscle pain, fever associated with Malaria."
+,Heart Disease,"chest pain, shortness of breath",,,,,,Mark Crawford,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath associated with Heart Disease."
+,Ulcer,"stomach pain, stomach pain, bloating, vomiting",,,,,,Brooke Collins,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, bloating, vomiting associated with Ulcer."
+,Typhoid,"fever, weakness",,,,,,Donald Woodward,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness associated with Typhoid."
+,HIV,"night sweats, swollen lymph nodes",,,,,,Kristin Duncan,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,Hypertension,headache,,,,,,Austin Harrison,,Male,36,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,None,"healthy, no symptoms",,,,,,Christopher Gray,,Female,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Diabetes,"increased thirst, frequent urination, frequent urination",,,,,,Daniel Lam,,Male,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, frequent urination associated with Diabetes."
+,Heart Disease,shortness of breath,,,,,,Jamie Hamilton,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,Hypertension,"dizziness, headache, headache, nosebleeds",,,,,,Robert Lewis,,Female,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, headache, headache, nosebleeds associated with Hypertension."
+,Typhoid,fever,,,,,,Pamela Taylor,,Male,33,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Typhoid.
+,Diabetes,increased thirst,,,,,,Wanda Fowler,,Male,43,,,,,,,,,,,,,,,,Patient presents with symptoms of increased thirst associated with Diabetes.
+,Ulcer,"stomach pain, stomach pain, stomach pain, nausea",,,,,,Amanda Garcia,,Female,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, stomach pain, nausea associated with Ulcer."
+,Diabetes,"frequent urination, increased thirst, frequent urination",,,,,,Brittany Russell,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, increased thirst, frequent urination associated with Diabetes."
+,COPD,"chronic cough, chronic cough, wheezing, shortness of breath",,,,,,Jordan Nixon,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chronic cough, wheezing, shortness of breath associated with COPD."
+,Ulcer,bloating,,,,,,Faith Pratt,,Female,21,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,Diabetes,"fatigue, fatigue, increased thirst",,,,,,Felicia Reed,,Female,37,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, increased thirst associated with Diabetes."
+,Asthma,"chest tightness, wheezing",,,,,,Deborah Tran,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing associated with Asthma."
+,COPD,"chronic cough, wheezing",,,,,,Scott Dunn,,Female,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, wheezing associated with COPD."
+,None,"healthy, healthy",,,,,,Ivan Shaffer,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,COPD,wheezing,,,,,,Stephen Miller,,Female,33,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Malaria,"headache, headache, chills, headache",,,,,,Lisa Richardson,,Female,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, chills, headache associated with Malaria."
+,COPD,"shortness of breath, chronic cough",,,,,,Sara Craig,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+,Diabetes,"blurred vision, increased thirst, blurred vision",,,,,,Joanna White,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst, blurred vision associated with Diabetes."
+,Heart Disease,"chest pain, chest pain, chest pain",,,,,,William Wu,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, chest pain, chest pain associated with Heart Disease."
+,HIV,"swollen lymph nodes, night sweats, weight loss, weight loss",,,,,,Alexander Barnes,,Female,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats, weight loss, weight loss associated with HIV."
+,Asthma,wheezing,,,,,,Christina Rodriguez,,Female,67,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with Asthma.
+,Ulcer,vomiting,,,,,,Eric Patton,,Male,23,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,Diabetes,"increased thirst, frequent urination",,,,,,Jessica Fleming,,Female,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+,Diabetes,"fatigue, frequent urination, blurred vision, frequent urination",,,,,,Christine Hinton,,Male,86,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, frequent urination, blurred vision, frequent urination associated with Diabetes."
+,HIV,"night sweats, night sweats, weight loss",,,,,,David Vargas,,Female,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, night sweats, weight loss associated with HIV."
+,HIV,"weight loss, swollen lymph nodes, night sweats, swollen lymph nodes",,,,,,Amanda Brady,,Male,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+,None,no symptoms,,,,,,Jeffrey Russell,,Male,47,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,None,"no symptoms, healthy",,,,,,Natalie Brown,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,HIV,"swollen lymph nodes, night sweats",,,,,,Nicole Berger,,Male,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats associated with HIV."
+,Ulcer,"bloating, nausea, stomach pain, stomach pain",,,,,,Maria Scott,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, nausea, stomach pain, stomach pain associated with Ulcer."
+,COPD,"chest tightness, wheezing, chest tightness",,,,,,Martin Yu,,Female,30,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing, chest tightness associated with COPD."
+,Malaria,"fever, chills, chills",,,,,,Alan Rhodes,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, chills, chills associated with Malaria."
+,Ulcer,"stomach pain, stomach pain, vomiting",,,,,,Daniel King,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, vomiting associated with Ulcer."
+,COPD,chronic cough,,,,,,Joshua Gonzales,,Male,49,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,Heart Disease,"chest pain, shortness of breath",,,,,,Dawn Brown,,Female,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath associated with Heart Disease."
+,Malaria,"muscle pain, fever, fever, chills",,,,,,Sandra Brown,,Male,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, fever, fever, chills associated with Malaria."
+,Hypertension,"dizziness, dizziness, dizziness, headache",,,,,,Mallory Stone,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness, dizziness, headache associated with Hypertension."
+,Asthma,shortness of breath,,,,,,Adrian Thomas,,Female,59,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,COPD,"chronic cough, shortness of breath, chest tightness, wheezing",,,,,,Daniel Lopez,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath, chest tightness, wheezing associated with COPD."
+,Typhoid,"weakness, weakness",,,,,,Clayton Reyes,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, weakness associated with Typhoid."
+,COPD,"wheezing, chronic cough",,,,,,Christopher Rangel,,Female,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chronic cough associated with COPD."
+,Malaria,"muscle pain, chills, muscle pain, headache",,,,,,Kelly Parker,,Female,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, chills, muscle pain, headache associated with Malaria."
+,Hypertension,"nosebleeds, nosebleeds",,,,,,Paul Miller,,Female,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+,Typhoid,"rash, rash, fever",,,,,,Parker Cunningham,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, fever associated with Typhoid."
+,None,no symptoms,,,,,,David Salinas,,Male,28,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Typhoid,"rash, rash, abdominal pain",,,,,,William Owen,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, abdominal pain associated with Typhoid."
+,Hypertension,"headache, dizziness",,,,,,Jeffery Jordan,,Male,70,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, dizziness associated with Hypertension."
+,Ulcer,"nausea, vomiting, nausea",,,,,,Jonathan Sanchez,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, vomiting, nausea associated with Ulcer."
+,Malaria,headache,,,,,,Helen Wilson,,Female,57,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Malaria.
+,Ulcer,"bloating, nausea, bloating, stomach pain",,,,,,Derrick Patterson,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, nausea, bloating, stomach pain associated with Ulcer."
+,Hypertension,"nosebleeds, headache",,,,,,Matthew Butler,,Female,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, headache associated with Hypertension."
+,Heart Disease,"irregular heartbeat, chest pain",,,,,,Sandra Nelson,,Male,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, chest pain associated with Heart Disease."
+,Malaria,"chills, fever, chills, muscle pain",,,,,,Thomas White,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, fever, chills, muscle pain associated with Malaria."
+,COPD,"chronic cough, chest tightness, chronic cough",,,,,,Thomas Reed,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chest tightness, chronic cough associated with COPD."
+,Hypertension,nosebleeds,,,,,,Michelle Golden,,Female,31,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Ulcer,"stomach pain, bloating",,,,,,Sabrina Jones,,Female,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating associated with Ulcer."
+,COPD,chest tightness,,,,,,Mr. Wesley Ramos Jr.,,Male,43,,,,,,,,,,,,,,,,Patient presents with symptoms of chest tightness associated with COPD.
+,Malaria,"headache, muscle pain, fever",,,,,,Rick Ortega,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, fever associated with Malaria."
+,HIV,"night sweats, fever, swollen lymph nodes, weight loss",,,,,,Christopher Logan,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, fever, swollen lymph nodes, weight loss associated with HIV."
+,COPD,"chest tightness, chronic cough, shortness of breath",,,,,,Lisa Graham,,Male,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough, shortness of breath associated with COPD."
+,Heart Disease,"chest pain, chest pain",,,,,,Gregory Figueroa,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, chest pain associated with Heart Disease."
+,Typhoid,"rash, rash, weakness, fever",,,,,,Paul Phillips,,Male,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, weakness, fever associated with Typhoid."
+,Ulcer,"bloating, vomiting, stomach pain, stomach pain",,,,,,Eric Blair,,Male,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, stomach pain, stomach pain associated with Ulcer."
+,Asthma,"chest tightness, chest tightness, shortness of breath, wheezing",,,,,,Christina Olson,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, wheezing associated with Asthma."
+,Malaria,"muscle pain, muscle pain, fever",,,,,,Joshua Perez,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, fever associated with Malaria."
+,None,"healthy, healthy",,,,,,Wayne Woods,,Female,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,None,no symptoms,,,,,,John West,,Male,72,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Malaria,"muscle pain, muscle pain, muscle pain, fever",,,,,,Craig Jimenez,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, muscle pain, fever associated with Malaria."
+,Hypertension,"headache, shortness of breath",,,,,,Brandi Smith,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, shortness of breath associated with Hypertension."
+,None,"no symptoms, healthy",,,,,,Jason Hines,,Female,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Asthma,"shortness of breath, shortness of breath",,,,,,Lori Brown,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with Asthma."
+,Hypertension,"nosebleeds, shortness of breath, headache",,,,,,Mark Soto,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, headache associated with Hypertension."
+,Hypertension,"nosebleeds, shortness of breath",,,,,,Cassandra Wells,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+,Diabetes,"fatigue, blurred vision",,,,,,Kristina Lewis,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, blurred vision associated with Diabetes."
+,Ulcer,stomach pain,,,,,,Cassidy Evans,,Female,55,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,Heart Disease,"chest pain, shortness of breath, shortness of breath, chest pain",,,,,,Derek Berry,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath, shortness of breath, chest pain associated with Heart Disease."
+,Diabetes,"increased thirst, blurred vision, blurred vision",,,,,,Teresa Powers,,Male,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision, blurred vision associated with Diabetes."
+,None,"healthy, healthy",,,,,,Gregory Townsend,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Hypertension,"headache, nosebleeds, dizziness",,,,,,Jason Rodriguez,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, nosebleeds, dizziness associated with Hypertension."
+,Typhoid,"fever, rash, rash",,,,,,Carlos Franco,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+,Hypertension,"dizziness, shortness of breath, nosebleeds",,,,,,Dr. Alan Fitzgerald,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, shortness of breath, nosebleeds associated with Hypertension."
+,Asthma,"coughing, coughing, coughing, shortness of breath",,,,,,Kelly Tate,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, coughing, shortness of breath associated with Asthma."
+,Hypertension,"shortness of breath, shortness of breath",,,,,,Courtney Gonzalez,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with Hypertension."
+,Heart Disease,"shortness of breath, shortness of breath, fatigue",,,,,,Gloria Cisneros,,Male,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, fatigue associated with Heart Disease."
+,Hypertension,"dizziness, shortness of breath, dizziness, nosebleeds",,,,,,Sarah Griffin,,Female,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+,Malaria,"muscle pain, headache",,,,,,Steven Bautista,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, headache associated with Malaria."
+,Asthma,"chest tightness, shortness of breath",,,,,,Miss Tiffany Williamson,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+,Typhoid,"weakness, abdominal pain",,,,,,Connie Martinez,,Female,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain associated with Typhoid."
+,Hypertension,"nosebleeds, nosebleeds",,,,,,Anita Ward,,Female,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+,Heart Disease,shortness of breath,,,,,,Joshua Mahoney,,Female,34,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,None,no symptoms,,,,,,Amanda Diaz,,Male,88,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Heart Disease,irregular heartbeat,,,,,,Patricia Garcia,,Male,46,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Hypertension,"headache, dizziness, headache",,,,,,Reginald Foley,,Male,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, dizziness, headache associated with Hypertension."
+,Malaria,"chills, headache, chills, fever",,,,,,David Davis,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, headache, chills, fever associated with Malaria."
+,Typhoid,"abdominal pain, abdominal pain, abdominal pain, weakness",,,,,,Clifford Harmon,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain, abdominal pain, weakness associated with Typhoid."
+,Malaria,chills,,,,,,Kyle Brooks,,Male,55,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,COPD,chronic cough,,,,,,James Wolf,,Female,82,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,Ulcer,"stomach pain, vomiting, bloating",,,,,,Anthony Patel,,Male,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting, bloating associated with Ulcer."
+,None,"no symptoms, no symptoms",,,,,,Christopher Lambert,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Malaria,"chills, muscle pain, muscle pain",,,,,,Connie Copeland,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, muscle pain, muscle pain associated with Malaria."
+,COPD,"chronic cough, chronic cough",,,,,,Tina Osborne,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chronic cough associated with COPD."
+,HIV,weight loss,,,,,,Benjamin Cross,,Male,28,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,COPD,"chest tightness, chronic cough, shortness of breath, wheezing",,,,,,Edward Mendez,,Female,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough, shortness of breath, wheezing associated with COPD."
+,Heart Disease,irregular heartbeat,,,,,,Courtney Perry,,Male,58,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Asthma,"wheezing, shortness of breath",,,,,,Melinda Conner,,Female,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath associated with Asthma."
+,Asthma,"wheezing, wheezing",,,,,,Ryan Fleming,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+,None,"healthy, healthy",,,,,,Erin Barr,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Asthma,"chest tightness, shortness of breath, coughing, chest tightness",,,,,,Christina Walsh,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath, coughing, chest tightness associated with Asthma."
+,Hypertension,"nosebleeds, nosebleeds, nosebleeds",,,,,,James Sharp,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+,None,"no symptoms, healthy",,,,,,Hayley Doyle,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,"shortness of breath, irregular heartbeat",,,,,,Michael Ellis,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, irregular heartbeat associated with Heart Disease."
+,Asthma,"chest tightness, chest tightness",,,,,,Jennifer Brown,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+,None,healthy,,,,,,Derek Cortez,,Female,55,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Hypertension,"shortness of breath, headache, headache, nosebleeds",,,,,,Sean Wolf,,Female,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, headache, headache, nosebleeds associated with Hypertension."
+,Hypertension,"headache, headache, shortness of breath, headache",,,,,,Kenneth Hines,,Male,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, shortness of breath, headache associated with Hypertension."
+,None,"healthy, healthy",,,,,,Kim Roberts,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,None,no symptoms,,,,,,Christopher Brown,,Male,66,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Typhoid,rash,,,,,,Carl Parker,,Female,42,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,Ulcer,nausea,,,,,,Amy Young,,Male,84,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Asthma,"wheezing, wheezing, chest tightness",,,,,,Jeffrey Flores,,Male,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, chest tightness associated with Asthma."
+,Ulcer,"nausea, vomiting, stomach pain, bloating",,,,,,Jodi Barber,,Male,42,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, vomiting, stomach pain, bloating associated with Ulcer."
+,Typhoid,weakness,,,,,,Mark Hays,,Female,83,,,,,,,,,,,,,,,,Patient presents with symptoms of weakness associated with Typhoid.
+,Malaria,"chills, chills, chills",,,,,,Michelle Choi MD,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, chills associated with Malaria."
+,Asthma,"wheezing, wheezing, wheezing",,,,,,Joseph Ray,,Female,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, wheezing associated with Asthma."
+,None,"healthy, healthy",,,,,,Christopher Shields,,Female,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,COPD,"shortness of breath, shortness of breath",,,,,,Katrina Hoover,,Male,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+,Diabetes,"blurred vision, increased thirst, increased thirst",,,,,,Carolyn Jones,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst, increased thirst associated with Diabetes."
+,Malaria,"headache, chills",,,,,,Joseph Wong,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills associated with Malaria."
+,Asthma,"chest tightness, coughing, shortness of breath",,,,,,Karen Butler,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, coughing, shortness of breath associated with Asthma."
+,Heart Disease,"shortness of breath, shortness of breath, shortness of breath",,,,,,Pam Rodriguez,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath associated with Heart Disease."
+,Heart Disease,"chest pain, chest pain, irregular heartbeat",,,,,,Joanne Sanders,,Female,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, chest pain, irregular heartbeat associated with Heart Disease."
+,Diabetes,increased thirst,,,,,,Brian Thompson,,Female,68,,,,,,,,,,,,,,,,Patient presents with symptoms of increased thirst associated with Diabetes.
+,Typhoid,"rash, rash, fever",,,,,,Julie Mendez,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, fever associated with Typhoid."
+,HIV,fever,,,,,,Lauren Martin,,Male,41,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,HIV,"swollen lymph nodes, swollen lymph nodes, fever, swollen lymph nodes",,,,,,Gabriel Mitchell,,Female,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, fever, swollen lymph nodes associated with HIV."
+,Malaria,"muscle pain, muscle pain, muscle pain",,,,,,Cindy Johnson,,Male,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+,Malaria,"muscle pain, chills",,,,,,Deanna Lucas,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, chills associated with Malaria."
+,Ulcer,"vomiting, bloating",,,,,,Deanna Shaw,,Female,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+,Asthma,coughing,,,,,,Shelia Thomas,,Female,79,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,None,no symptoms,,,,,,Chad Edwards,,Female,72,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"nausea, stomach pain, vomiting, nausea",,,,,,Elizabeth Copeland,,Male,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, stomach pain, vomiting, nausea associated with Ulcer."
+,Malaria,"fever, chills",,,,,,Emily Howard,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, chills associated with Malaria."
+,Hypertension,"headache, headache, nosebleeds, dizziness",,,,,,Jeremy Jackson,,Female,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, nosebleeds, dizziness associated with Hypertension."
+,Typhoid,"rash, weakness",,,,,,Robin Williams,,Female,86,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, weakness associated with Typhoid."
+,Diabetes,blurred vision,,,,,,Dominic Mckenzie,,Female,79,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,Hypertension,"dizziness, dizziness, shortness of breath",,,,,,Danny Rice,,Female,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness, shortness of breath associated with Hypertension."
+,HIV,"weight loss, night sweats, fever, night sweats",,,,,,Andrea Ellis DVM,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, fever, night sweats associated with HIV."
+,HIV,weight loss,,,,,,Robert Pierce,,Female,42,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,HIV,"fever, night sweats",,,,,,Brenda Anderson,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, night sweats associated with HIV."
+,Heart Disease,"fatigue, fatigue",,,,,,Jeremy Alvarez,,Male,86,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue associated with Heart Disease."
+,Heart Disease,"fatigue, fatigue, chest pain, fatigue",,,,,,Timothy Anderson,,Female,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, chest pain, fatigue associated with Heart Disease."
+,Asthma,wheezing,,,,,,Kristen Reynolds,,Female,46,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with Asthma.
+,Diabetes,"frequent urination, frequent urination, increased thirst, blurred vision",,,,,,Dr. Renee Turner,,Male,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, frequent urination, increased thirst, blurred vision associated with Diabetes."
+,Malaria,chills,,,,,,Ashley Malone,,Female,80,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,Malaria,muscle pain,,,,,,Caroline Hunt,,Male,49,,,,,,,,,,,,,,,,Patient presents with symptoms of muscle pain associated with Malaria.
+,Typhoid,"abdominal pain, fever, fever",,,,,,Michael Maxwell,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, fever, fever associated with Typhoid."
+,HIV,"night sweats, swollen lymph nodes",,,,,,Mrs. Stephanie Russell MD,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,Hypertension,"nosebleeds, nosebleeds",,,,,,Garrett Holmes,,Male,52,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+,Hypertension,"dizziness, nosebleeds, shortness of breath, shortness of breath",,,,,,Christopher Wilson,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds, shortness of breath, shortness of breath associated with Hypertension."
+,Typhoid,"rash, rash, weakness",,,,,,Matthew Perez,,Male,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, weakness associated with Typhoid."
+,Typhoid,"fever, fever",,,,,,Dawn Taylor,,Female,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever associated with Typhoid."
+,Diabetes,"increased thirst, fatigue",,,,,,John Austin,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, fatigue associated with Diabetes."
+,Diabetes,"blurred vision, increased thirst, increased thirst",,,,,,Eugene Rojas,,Female,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst, increased thirst associated with Diabetes."
+,Malaria,"muscle pain, headache, headache, fever",,,,,,Vanessa Jarvis,,Male,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, headache, headache, fever associated with Malaria."
+,Ulcer,"stomach pain, vomiting",,,,,,Christine Olson,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,Malaria,fever,,,,,,Michael Miller,,Female,21,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Malaria.
+,COPD,"wheezing, chest tightness, chest tightness",,,,,,Theodore Griffin,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, chest tightness associated with COPD."
+,Heart Disease,"fatigue, shortness of breath",,,,,,John Hubbard,,Female,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath associated with Heart Disease."
+,COPD,shortness of breath,,,,,,Mrs. Amanda Jones DVM,,Female,78,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with COPD.
+,Malaria,"headache, muscle pain, headache, chills",,,,,,Marie Miller,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, headache, chills associated with Malaria."
+,Diabetes,"frequent urination, frequent urination, increased thirst",,,,,,Christopher Davis,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, frequent urination, increased thirst associated with Diabetes."
+,Heart Disease,"chest pain, shortness of breath, irregular heartbeat, fatigue",,,,,,Casey Reynolds,,Female,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath, irregular heartbeat, fatigue associated with Heart Disease."
+,Typhoid,"abdominal pain, fever, rash",,,,,,Joshua Patton,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, fever, rash associated with Typhoid."
+,Ulcer,vomiting,,,,,,Amber Johnson,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,Hypertension,"nosebleeds, shortness of breath",,,,,,Christopher Hicks,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+,Ulcer,"stomach pain, nausea, vomiting",,,,,,Steven Wilcox,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea, vomiting associated with Ulcer."
+,Hypertension,dizziness,,,,,,Kimberly Perez,,Female,23,,,,,,,,,,,,,,,,Patient presents with symptoms of dizziness associated with Hypertension.
+,COPD,shortness of breath,,,,,,Sheryl Williams,,Male,48,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with COPD.
+,Hypertension,"nosebleeds, headache, shortness of breath, nosebleeds",,,,,,Jody Miller,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, headache, shortness of breath, nosebleeds associated with Hypertension."
+,COPD,"chest tightness, chronic cough, chest tightness",,,,,,David Petersen,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough, chest tightness associated with COPD."
+,HIV,fever,,,,,,Stuart Pierce,,Male,50,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,Typhoid,abdominal pain,,,,,,Andrea Griffin,,Male,65,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,Ulcer,"stomach pain, nausea, stomach pain, bloating",,,,,,Cynthia Pacheco,,Female,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea, stomach pain, bloating associated with Ulcer."
+,Heart Disease,"chest pain, irregular heartbeat",,,,,,Tammy Farmer,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+,Malaria,"chills, chills, muscle pain",,,,,,Kyle Villa,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, muscle pain associated with Malaria."
+,Asthma,"shortness of breath, wheezing, wheezing",,,,,,Charles Davenport,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing, wheezing associated with Asthma."
+,Typhoid,"weakness, fever",,,,,,Debbie Cole,,Male,74,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, fever associated with Typhoid."
+,None,healthy,,,,,,Gregory Kidd,,Male,24,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Typhoid,fever,,,,,,Nathan Swanson,,Female,90,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Typhoid.
+,COPD,"shortness of breath, chest tightness",,,,,,Peter Brown,,Female,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+,Malaria,"fever, fever",,,,,,Janice Mendez,,Male,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever associated with Malaria."
+,HIV,weight loss,,,,,,Michelle Jimenez,,Male,30,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,Asthma,coughing,,,,,,Michael Wright,,Male,66,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,Ulcer,"vomiting, bloating, nausea, vomiting",,,,,,Donna Elliott,,Female,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating, nausea, vomiting associated with Ulcer."
+,None,healthy,,,,,,Benjamin Garcia,,Female,24,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Typhoid,"weakness, rash",,,,,,Monica Blankenship,,Female,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, rash associated with Typhoid."
+,COPD,"shortness of breath, chest tightness, shortness of breath, chronic cough",,,,,,Matthew Harris DVM,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness, shortness of breath, chronic cough associated with COPD."
+,COPD,"shortness of breath, wheezing",,,,,,Mrs. Sherry Stone,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing associated with COPD."
+,Typhoid,"weakness, fever, weakness",,,,,,Crystal Clark,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, fever, weakness associated with Typhoid."
+,Hypertension,"dizziness, dizziness",,,,,,Kelsey Moore,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness associated with Hypertension."
+,HIV,"weight loss, night sweats, fever",,,,,,John Dickson,,Male,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, fever associated with HIV."
+,Diabetes,"increased thirst, fatigue, fatigue",,,,,,Raven Mitchell,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, fatigue, fatigue associated with Diabetes."
+,Hypertension,"shortness of breath, nosebleeds, headache",,,,,,Dr. Ryan Jacobs,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, nosebleeds, headache associated with Hypertension."
+,Typhoid,rash,,,,,,Jessica Rodriguez,,Female,66,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,None,"no symptoms, healthy",,,,,,Tracie Jones,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Ulcer,"stomach pain, vomiting, vomiting",,,,,,Justin Garcia,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting, vomiting associated with Ulcer."
+,Diabetes,"blurred vision, blurred vision, fatigue",,,,,,Aaron Mills,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, blurred vision, fatigue associated with Diabetes."
+,Typhoid,"rash, weakness, fever, rash",,,,,,Diana Gross,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, weakness, fever, rash associated with Typhoid."
+,Ulcer,"bloating, nausea, vomiting",,,,,,Latasha Harding,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, nausea, vomiting associated with Ulcer."
+,None,"no symptoms, no symptoms",,,,,,Kayla Thomas,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Asthma,"chest tightness, chest tightness",,,,,,Cheyenne Schultz,,Female,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+,Malaria,"chills, headache",,,,,,Donna Kennedy,,Female,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, headache associated with Malaria."
+,Diabetes,"increased thirst, fatigue, frequent urination",,,,,,Dustin Medina,,Female,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, fatigue, frequent urination associated with Diabetes."
+,None,"no symptoms, no symptoms",,,,,,Dustin Rodriguez,,Female,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,None,healthy,,,,,,Samantha Kemp,,Male,34,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,shortness of breath,,,,,,Brenda Keller,,Male,33,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,HIV,night sweats,,,,,,Noah Hogan,,Female,35,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Diabetes,blurred vision,,,,,,Carl Hanson,,Female,55,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,Heart Disease,"irregular heartbeat, fatigue, chest pain",,,,,,Maria Castillo,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, fatigue, chest pain associated with Heart Disease."
+,Hypertension,"nosebleeds, shortness of breath, nosebleeds",,,,,,Michael Dunn,,Female,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, nosebleeds associated with Hypertension."
+,Hypertension,"dizziness, shortness of breath, headache, shortness of breath",,,,,,Megan Smith,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, shortness of breath, headache, shortness of breath associated with Hypertension."
+,Typhoid,"fever, fever, fever, fever",,,,,,Kevin Barnes,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, fever, fever associated with Typhoid."
+,None,no symptoms,,,,,,Tiffany Calhoun,,Male,44,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Malaria,"fever, muscle pain, headache",,,,,,Sean Bennett,,Female,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, muscle pain, headache associated with Malaria."
+,COPD,"chest tightness, chest tightness, chronic cough, chest tightness",,,,,,Antonio Ortiz,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, chronic cough, chest tightness associated with COPD."
+,None,"healthy, healthy",,,,,,Gregory Richards,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Hypertension,"shortness of breath, headache, dizziness",,,,,,Michael Bryant,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, headache, dizziness associated with Hypertension."
+,Typhoid,fever,,,,,,Bonnie Carr MD,,Male,22,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Typhoid.
+,Malaria,"muscle pain, headache, fever",,,,,,Yvonne Mccarthy,,Female,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, headache, fever associated with Malaria."
+,Asthma,"coughing, chest tightness, wheezing",,,,,,Cristina Gonzalez,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, chest tightness, wheezing associated with Asthma."
+,HIV,"night sweats, weight loss",,,,,,Jamie Ellis,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, weight loss associated with HIV."
+,Ulcer,"nausea, nausea, vomiting",,,,,,Thomas Hayden,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, vomiting associated with Ulcer."
+,HIV,"night sweats, night sweats, weight loss, fever",,,,,,Nicole Malone,,Female,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, night sweats, weight loss, fever associated with HIV."
+,COPD,chronic cough,,,,,,Haley Thomas,,Male,69,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,HIV,weight loss,,,,,,James Perez,,Male,57,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,Malaria,"chills, fever",,,,,,Brittany Dorsey,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, fever associated with Malaria."
+,HIV,night sweats,,,,,,Stephanie Carter,,Male,70,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Typhoid,"abdominal pain, weakness, abdominal pain, rash",,,,,,Ashley Dennis,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, weakness, abdominal pain, rash associated with Typhoid."
+,Hypertension,"nosebleeds, shortness of breath",,,,,,Emily Garcia,,Male,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+,Typhoid,"weakness, fever, weakness, fever",,,,,,Shannon Salazar,,Female,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, fever, weakness, fever associated with Typhoid."
+,Ulcer,"stomach pain, stomach pain, stomach pain",,,,,,Shane Hill,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, stomach pain associated with Ulcer."
+,Heart Disease,"shortness of breath, shortness of breath, chest pain, chest pain",,,,,,Melissa Cook,,Female,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, chest pain, chest pain associated with Heart Disease."
+,Typhoid,weakness,,,,,,Abigail Riley,,Female,68,,,,,,,,,,,,,,,,Patient presents with symptoms of weakness associated with Typhoid.
+,Hypertension,dizziness,,,,,,Billy Hall,,Female,66,,,,,,,,,,,,,,,,Patient presents with symptoms of dizziness associated with Hypertension.
+,COPD,chronic cough,,,,,,Danielle Branch,,Female,73,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,Typhoid,"abdominal pain, abdominal pain, abdominal pain",,,,,,Mikayla Russell DDS,,Female,37,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain, abdominal pain associated with Typhoid."
+,Heart Disease,"shortness of breath, fatigue, chest pain",,,,,,Emily Miller MD,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, fatigue, chest pain associated with Heart Disease."
+,COPD,"shortness of breath, wheezing, wheezing, chronic cough",,,,,,Anthony Thompson,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing, wheezing, chronic cough associated with COPD."
+,HIV,"swollen lymph nodes, night sweats, fever, fever",,,,,,Mrs. Diana Lloyd,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats, fever, fever associated with HIV."
+,Diabetes,increased thirst,,,,,,Renee Dominguez,,Female,23,,,,,,,,,,,,,,,,Patient presents with symptoms of increased thirst associated with Diabetes.
+,Diabetes,"blurred vision, increased thirst",,,,,,Michael Jenkins,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+,Heart Disease,"fatigue, irregular heartbeat",,,,,,Heather Walter,,Male,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+,Diabetes,"increased thirst, frequent urination, fatigue",,,,,,Corey Craig,,Female,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, fatigue associated with Diabetes."
+,HIV,night sweats,,,,,,Keith Garza,,Female,23,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Hypertension,"headache, shortness of breath",,,,,,Lauren Campbell,,Male,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, shortness of breath associated with Hypertension."
+,Typhoid,"weakness, abdominal pain, weakness",,,,,,Claire Pham,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, weakness associated with Typhoid."
+,Diabetes,"frequent urination, fatigue",,,,,,Amy Meyers,,Male,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, fatigue associated with Diabetes."
+,Ulcer,stomach pain,,,,,,Miss Laura James,,Female,29,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,Heart Disease,"fatigue, shortness of breath, irregular heartbeat, irregular heartbeat",,,,,,Christine Garcia,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath, irregular heartbeat, irregular heartbeat associated with Heart Disease."
+,Asthma,"wheezing, wheezing, chest tightness, coughing",,,,,,Jennifer Powers,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, chest tightness, coughing associated with Asthma."
+,Diabetes,"fatigue, fatigue, increased thirst",,,,,,Denise Edwards,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, increased thirst associated with Diabetes."
+,Heart Disease,chest pain,,,,,,Gloria Hughes,,Male,47,,,,,,,,,,,,,,,,Patient presents with symptoms of chest pain associated with Heart Disease.
+,None,no symptoms,,,,,,Cristian Cervantes,,Male,29,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,None,healthy,,,,,,Shirley Mitchell,,Female,69,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Malaria,"fever, chills, muscle pain",,,,,,Matthew Monroe,,Male,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, chills, muscle pain associated with Malaria."
+,Diabetes,"increased thirst, blurred vision",,,,,,Angela Benitez,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+,Hypertension,"nosebleeds, headache",,,,,,Nicole Smith,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, headache associated with Hypertension."
+,Typhoid,abdominal pain,,,,,,Jesus Merritt,,Male,30,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,Heart Disease,"shortness of breath, irregular heartbeat, irregular heartbeat, fatigue",,,,,,Mark Harrison,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+,HIV,"night sweats, weight loss, weight loss",,,,,,Carmen Allen,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, weight loss, weight loss associated with HIV."
+,None,healthy,,,,,,Joseph Pham,,Male,78,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Malaria,"headache, headache",,,,,,Robert Smith,,Female,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache associated with Malaria."
+,COPD,"wheezing, chronic cough, chronic cough, wheezing",,,,,,David Brown,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chronic cough, chronic cough, wheezing associated with COPD."
+,Hypertension,nosebleeds,,,,,,Catherine Thomas,,Female,41,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Typhoid,rash,,,,,,Scott Holland,,Male,60,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,Ulcer,"vomiting, bloating",,,,,,Amanda Lopez,,Female,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+,Ulcer,"vomiting, bloating",,,,,,Clarence Chapman,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+,Typhoid,"rash, abdominal pain, abdominal pain",,,,,,Courtney Hurst DVM,,Male,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, abdominal pain, abdominal pain associated with Typhoid."
+,Asthma,"chest tightness, coughing",,,,,,Robert Cook,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, coughing associated with Asthma."
+,Hypertension,dizziness,,,,,,Raymond Wilson,,Male,69,,,,,,,,,,,,,,,,Patient presents with symptoms of dizziness associated with Hypertension.
+,COPD,"shortness of breath, shortness of breath",,,,,,Samuel Wilson,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+,Ulcer,"stomach pain, stomach pain, stomach pain",,,,,,Theresa Mays,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, stomach pain associated with Ulcer."
+,Malaria,chills,,,,,,Stacy Duarte,,Male,45,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,Heart Disease,fatigue,,,,,,Alicia Olson,,Female,44,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,None,healthy,,,,,,Kristin Jimenez,,Male,33,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Heart Disease,"irregular heartbeat, chest pain, shortness of breath",,,,,,Ashlee Jones,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, chest pain, shortness of breath associated with Heart Disease."
+,Asthma,shortness of breath,,,,,,Lori Cunningham,,Male,70,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Asthma,"wheezing, shortness of breath, coughing, coughing",,,,,,Keith Wilson,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, coughing, coughing associated with Asthma."
+,Heart Disease,fatigue,,,,,,Scott Jackson,,Female,37,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,Hypertension,"headache, nosebleeds, nosebleeds, dizziness",,,,,,James Walker Jr.,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, nosebleeds, nosebleeds, dizziness associated with Hypertension."
+,Hypertension,"shortness of breath, nosebleeds, nosebleeds",,,,,,Christine Fuentes,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, nosebleeds, nosebleeds associated with Hypertension."
+,Hypertension,"headache, shortness of breath, dizziness, nosebleeds",,,,,,Carlos Grimes,,Male,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+,Heart Disease,"chest pain, irregular heartbeat",,,,,,Joy Brown,,Male,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+,Hypertension,headache,,,,,,Kerri Joseph,,Male,53,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,Ulcer,nausea,,,,,,Robin Evans,,Male,39,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Hypertension,"dizziness, headache, headache",,,,,,Jared Simon,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, headache, headache associated with Hypertension."
+,HIV,"weight loss, fever, swollen lymph nodes, swollen lymph nodes",,,,,,Matthew Gates,,Male,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever, swollen lymph nodes, swollen lymph nodes associated with HIV."
+,COPD,"wheezing, shortness of breath, wheezing",,,,,,Todd Burke,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, wheezing associated with COPD."
+,Diabetes,"frequent urination, frequent urination",,,,,,Amy Smith,,Male,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, frequent urination associated with Diabetes."
+,Typhoid,weakness,,,,,,Jessica Myers,,Male,90,,,,,,,,,,,,,,,,Patient presents with symptoms of weakness associated with Typhoid.
+,Hypertension,"dizziness, nosebleeds",,,,,,Jason Mason,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+,Hypertension,"dizziness, headache, headache",,,,,,William Fox,,Male,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, headache, headache associated with Hypertension."
+,Ulcer,"nausea, nausea, bloating",,,,,,Timothy Bowen,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, bloating associated with Ulcer."
+,Ulcer,"bloating, stomach pain",,,,,,Meagan Stanton,,Male,30,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+,COPD,chest tightness,,,,,,Maria Williamson,,Male,61,,,,,,,,,,,,,,,,Patient presents with symptoms of chest tightness associated with COPD.
+,Diabetes,fatigue,,,,,,Jennifer Sloan,,Female,81,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Diabetes.
+,Malaria,"fever, headache, muscle pain, fever",,,,,,Peter Nichols,,Female,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, headache, muscle pain, fever associated with Malaria."
+,None,"no symptoms, healthy",,,,,,Mr. Charles Miller,,Female,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,irregular heartbeat,,,,,,Jonathan Taylor,,Male,37,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Heart Disease,fatigue,,,,,,Timothy Shannon,,Male,57,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,Hypertension,headache,,,,,,Rachel Hill,,Male,69,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,Ulcer,bloating,,,,,,Shawna Mitchell,,Male,21,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,Asthma,"shortness of breath, wheezing, shortness of breath",,,,,,Kevin Vargas,,Male,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing, shortness of breath associated with Asthma."
+,COPD,"shortness of breath, wheezing, wheezing",,,,,,Sandra Daniels,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing, wheezing associated with COPD."
+,Hypertension,"nosebleeds, nosebleeds, nosebleeds",,,,,,Holly Hayes,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+,Heart Disease,"shortness of breath, irregular heartbeat",,,,,,Melanie Olson,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, irregular heartbeat associated with Heart Disease."
+,Typhoid,"weakness, abdominal pain, rash",,,,,,Jennifer Lopez,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, rash associated with Typhoid."
+,Malaria,chills,,,,,,Ethan Gill,,Male,43,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,COPD,"wheezing, chest tightness, chronic cough, shortness of breath",,,,,,Mathew Jones,,Female,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, chronic cough, shortness of breath associated with COPD."
+,Ulcer,"bloating, nausea, bloating",,,,,,Shannon Duarte,,Male,76,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, nausea, bloating associated with Ulcer."
+,COPD,"shortness of breath, chest tightness, chronic cough",,,,,,Isabella Rice,,Female,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness, chronic cough associated with COPD."
+,Malaria,"headache, chills, chills, chills",,,,,,Joel Abbott,,Male,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills, chills, chills associated with Malaria."
+,Diabetes,"frequent urination, fatigue",,,,,,Donald Morris,,Female,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, fatigue associated with Diabetes."
+,Hypertension,shortness of breath,,,,,,Donald Dean,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Hypertension.
+,Asthma,"coughing, coughing, chest tightness, wheezing",,,,,,Aaron Carroll,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, chest tightness, wheezing associated with Asthma."
+,Ulcer,"bloating, stomach pain, bloating",,,,,,Alexandria Horton,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain, bloating associated with Ulcer."
+,Typhoid,"abdominal pain, weakness, abdominal pain",,,,,,Julie Reynolds,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, weakness, abdominal pain associated with Typhoid."
+,Diabetes,"increased thirst, frequent urination, fatigue, increased thirst",,,,,,Dana Ross,,Female,70,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, fatigue, increased thirst associated with Diabetes."
+,None,healthy,,,,,,Isaac Jenkins,,Female,43,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Typhoid,abdominal pain,,,,,,Derrick Rivera,,Female,65,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,Malaria,"muscle pain, muscle pain",,,,,,Daisy Cunningham,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+,Diabetes,"increased thirst, frequent urination, fatigue, blurred vision",,,,,,Todd Hudson,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, fatigue, blurred vision associated with Diabetes."
+,HIV,"night sweats, fever, fever, night sweats",,,,,,Brandi Brown,,Female,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, fever, fever, night sweats associated with HIV."
+,Malaria,muscle pain,,,,,,Brent Anderson,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of muscle pain associated with Malaria.
+,HIV,"weight loss, night sweats, swollen lymph nodes, night sweats",,,,,,Isaiah Middleton,,Female,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, swollen lymph nodes, night sweats associated with HIV."
+,Ulcer,vomiting,,,,,,Terri Aguilar,,Male,31,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,Heart Disease,shortness of breath,,,,,,Jaime Davis,,Male,81,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,Hypertension,"shortness of breath, dizziness, nosebleeds",,,,,,Craig Jones DDS,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, dizziness, nosebleeds associated with Hypertension."
+,HIV,fever,,,,,,Abigail Finley,,Female,62,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,COPD,"shortness of breath, chest tightness",,,,,,Gregory Jones,,Male,70,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+,Ulcer,"vomiting, nausea",,,,,,James Vega,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, nausea associated with Ulcer."
+,Heart Disease,"shortness of breath, chest pain",,,,,,Jeffrey Garcia,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+,Diabetes,"increased thirst, increased thirst, fatigue, frequent urination",,,,,,Scott Williamson,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, increased thirst, fatigue, frequent urination associated with Diabetes."
+,None,no symptoms,,,,,,April Hall,,Male,25,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Typhoid,"rash, rash, weakness",,,,,,Dustin Jones,,Female,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, weakness associated with Typhoid."
+,None,healthy,,,,,,Frances Garrett,,Female,32,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,COPD,"chronic cough, wheezing, chronic cough, chest tightness",,,,,,Teresa French,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, wheezing, chronic cough, chest tightness associated with COPD."
+,HIV,"swollen lymph nodes, weight loss",,,,,,Jonathan Velasquez,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, weight loss associated with HIV."
+,COPD,"shortness of breath, shortness of breath, chronic cough, shortness of breath",,,,,,Maria Savage,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, chronic cough, shortness of breath associated with COPD."
+,Heart Disease,"shortness of breath, fatigue",,,,,,Teresa Bauer,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, fatigue associated with Heart Disease."
+,Ulcer,"bloating, stomach pain",,,,,,Olivia Maddox,,Male,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+,Asthma,"shortness of breath, wheezing",,,,,,Alan Day,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+,Ulcer,"vomiting, vomiting",,,,,,Brian Frederick,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, vomiting associated with Ulcer."
+,Heart Disease,irregular heartbeat,,,,,,Brett Velez,,Male,46,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Typhoid,"weakness, rash, weakness",,,,,,Tiffany Curtis,,Female,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, rash, weakness associated with Typhoid."
+,Ulcer,"nausea, vomiting, bloating, nausea",,,,,,Bianca Elliott,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, vomiting, bloating, nausea associated with Ulcer."
+,Heart Disease,fatigue,,,,,,Daisy Graham,,Male,89,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,HIV,"swollen lymph nodes, weight loss, swollen lymph nodes, fever",,,,,,Pamela Miller,,Male,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, weight loss, swollen lymph nodes, fever associated with HIV."
+,Asthma,"shortness of breath, coughing",,,,,,Robert Davies,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, coughing associated with Asthma."
+,Ulcer,"nausea, stomach pain, bloating, stomach pain",,,,,,Michael Cobb,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, stomach pain, bloating, stomach pain associated with Ulcer."
+,Ulcer,bloating,,,,,,Melvin Jones,,Female,83,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,Diabetes,"fatigue, blurred vision, frequent urination",,,,,,John Thompson,,Male,37,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, blurred vision, frequent urination associated with Diabetes."
+,Heart Disease,fatigue,,,,,,Sabrina Preston,,Male,23,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,Heart Disease,fatigue,,,,,,Travis Morgan,,Male,25,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,Asthma,wheezing,,,,,,Haley Gordon,,Male,60,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with Asthma.
+,Typhoid,weakness,,,,,,Kerry Davis,,Female,88,,,,,,,,,,,,,,,,Patient presents with symptoms of weakness associated with Typhoid.
+,None,"healthy, no symptoms",,,,,,Scott Bailey,,Male,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Heart Disease,irregular heartbeat,,,,,,Troy Calderon,,Male,67,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Ulcer,"bloating, vomiting, bloating, vomiting",,,,,,Jonathan Richardson,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, bloating, vomiting associated with Ulcer."
+,Ulcer,"bloating, vomiting, nausea, stomach pain",,,,,,Brent Gonzalez,,Female,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, nausea, stomach pain associated with Ulcer."
+,Asthma,"shortness of breath, chest tightness",,,,,,Robert Carson,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness associated with Asthma."
+,COPD,"chronic cough, shortness of breath, wheezing",,,,,,Carolyn Ward,,Male,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath, wheezing associated with COPD."
+,HIV,fever,,,,,,Jose Matthews,,Female,30,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,COPD,"chronic cough, shortness of breath",,,,,,James Kidd,,Female,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath associated with COPD."
+,Ulcer,"stomach pain, vomiting",,,,,,Joyce Solomon,,Male,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,Heart Disease,"shortness of breath, shortness of breath, fatigue, shortness of breath",,,,,,Tanya Escobar,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, fatigue, shortness of breath associated with Heart Disease."
+,Heart Disease,"irregular heartbeat, chest pain",,,,,,Christopher Fox,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, chest pain associated with Heart Disease."
+,HIV,"night sweats, night sweats, fever, fever",,,,,,Daniel Gibson,,Female,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, night sweats, fever, fever associated with HIV."
+,Typhoid,"weakness, rash, weakness, rash",,,,,,Sandra Castro,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, rash, weakness, rash associated with Typhoid."
+,Ulcer,"nausea, nausea, stomach pain",,,,,,Brandon Baxter,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, stomach pain associated with Ulcer."
+,Ulcer,"vomiting, bloating, bloating",,,,,,Mr. Scott Bauer DDS,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating, bloating associated with Ulcer."
+,Asthma,"chest tightness, chest tightness",,,,,,Eric Herrera,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+,Hypertension,"headache, dizziness, shortness of breath, dizziness",,,,,,Terry Galloway,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, dizziness, shortness of breath, dizziness associated with Hypertension."
+,HIV,"fever, night sweats, fever",,,,,,Denise Middleton,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, night sweats, fever associated with HIV."
+,None,healthy,,,,,,Christine Hunter,,Male,27,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Heart Disease,"irregular heartbeat, fatigue, chest pain, chest pain",,,,,,Meghan Rivers,,Male,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, fatigue, chest pain, chest pain associated with Heart Disease."
+,Typhoid,"rash, weakness, fever, abdominal pain",,,,,,Michael Pope,,Female,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, weakness, fever, abdominal pain associated with Typhoid."
+,Typhoid,"rash, abdominal pain, fever",,,,,,Rachel Black,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, abdominal pain, fever associated with Typhoid."
+,Hypertension,"nosebleeds, dizziness",,,,,,Lacey Young,,Female,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, dizziness associated with Hypertension."
+,Asthma,wheezing,,,,,,Jesus Price,,Male,56,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with Asthma.
+,COPD,"chronic cough, wheezing, wheezing",,,,,,Mr. Joseph Wright PhD,,Female,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, wheezing, wheezing associated with COPD."
+,None,no symptoms,,,,,,William Potter,,Female,52,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Typhoid,"weakness, abdominal pain, fever",,,,,,Keith Jones,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, fever associated with Typhoid."
+,None,"healthy, no symptoms",,,,,,Yolanda Reed,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Malaria,"headache, muscle pain, chills, fever",,,,,,Shelby Smith,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, chills, fever associated with Malaria."
+,None,"no symptoms, healthy",,,,,,Shawn Mcguire,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,"fatigue, irregular heartbeat, fatigue",,,,,,Rhonda Hall,,Female,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, irregular heartbeat, fatigue associated with Heart Disease."
+,COPD,"shortness of breath, shortness of breath, wheezing",,,,,,Patrick Lewis,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, wheezing associated with COPD."
+,None,healthy,,,,,,Natasha Bell,,Female,30,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,COPD,chest tightness,,,,,,Latoya Mcintyre,,Male,60,,,,,,,,,,,,,,,,Patient presents with symptoms of chest tightness associated with COPD.
+,Heart Disease,"fatigue, irregular heartbeat",,,,,,Kayla Smith,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+,HIV,"swollen lymph nodes, fever, swollen lymph nodes, swollen lymph nodes",,,,,,Allison Conley,,Female,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, fever, swollen lymph nodes, swollen lymph nodes associated with HIV."
+,Hypertension,"nosebleeds, shortness of breath, shortness of breath, headache",,,,,,James Simpson,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, shortness of breath, headache associated with Hypertension."
+,COPD,chronic cough,,,,,,Sean Jones,,Female,86,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,HIV,"fever, fever, night sweats, fever",,,,,,Brenda Kelley,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, night sweats, fever associated with HIV."
+,Diabetes,"fatigue, increased thirst, frequent urination",,,,,,Willie Jenkins,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, increased thirst, frequent urination associated with Diabetes."
+,HIV,"weight loss, fever",,,,,,Mary Burton,,Female,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever associated with HIV."
+,None,healthy,,,,,,Nicholas Ellis,,Male,76,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Diabetes,"fatigue, fatigue",,,,,,Christian Sanchez,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue associated with Diabetes."
+,COPD,"chest tightness, shortness of breath",,,,,,Darryl Jackson,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath associated with COPD."
+,Typhoid,"abdominal pain, fever, rash, abdominal pain",,,,,,Brenda Day,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, fever, rash, abdominal pain associated with Typhoid."
+,Ulcer,"bloating, stomach pain, bloating, bloating",,,,,,Tiffany Perez,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain, bloating, bloating associated with Ulcer."
+,Malaria,"fever, fever, muscle pain",,,,,,Steven Perez,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, muscle pain associated with Malaria."
+,Heart Disease,"chest pain, fatigue, fatigue, chest pain",,,,,,Laura Silva,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, fatigue, fatigue, chest pain associated with Heart Disease."
+,Ulcer,"bloating, vomiting, bloating",,,,,,Michael Day,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, bloating associated with Ulcer."
+,Asthma,coughing,,,,,,Luis Mccormick,,Male,87,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,Asthma,"chest tightness, wheezing, shortness of breath",,,,,,Bobby Cook Jr.,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing, shortness of breath associated with Asthma."
+,Asthma,"coughing, chest tightness, shortness of breath, shortness of breath",,,,,,Ryan Williamson,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+,None,healthy,,,,,,Martin Kemp,,Female,42,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,None,healthy,,,,,,Daniel Orr,,Female,58,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,None,"no symptoms, healthy",,,,,,Matthew Woodard,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,None,"healthy, healthy",,,,,,Mark Lyons,,Female,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,None,"no symptoms, healthy",,,,,,Ashley Marsh,,Female,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Hypertension,"dizziness, shortness of breath",,,,,,Amanda Marks,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, shortness of breath associated with Hypertension."
+,Typhoid,"fever, weakness, abdominal pain, rash",,,,,,Brian Rowe,,Male,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness, abdominal pain, rash associated with Typhoid."
+,Hypertension,"headache, headache",,,,,,Nicole Rodriguez,,Male,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache associated with Hypertension."
+,None,"no symptoms, healthy",,,,,,Daniel Ramirez,,Female,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,COPD,chronic cough,,,,,,Ryan Peterson,,Female,86,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,None,"healthy, no symptoms",,,,,,Stephanie Simmons,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Typhoid,"rash, fever",,,,,,Gregory Walsh,,Male,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, fever associated with Typhoid."
+,Asthma,"wheezing, shortness of breath, chest tightness, shortness of breath",,,,,,Anita Cuevas,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, chest tightness, shortness of breath associated with Asthma."
+,Diabetes,blurred vision,,,,,,Gregory Shelton,,Female,51,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,Malaria,headache,,,,,,Stephanie Ellis,,Female,65,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Malaria.
+,Heart Disease,"irregular heartbeat, fatigue",,,,,,Jerome Patterson,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, fatigue associated with Heart Disease."
+,Malaria,"chills, fever, fever, headache",,,,,,Henry Wallace,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, fever, fever, headache associated with Malaria."
+,Malaria,headache,,,,,,Jeffery Boyd,,Male,40,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Malaria.
+,None,"no symptoms, healthy",,,,,,Nichole Pratt,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,"irregular heartbeat, chest pain, irregular heartbeat",,,,,,Robin Thomas,,Male,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, chest pain, irregular heartbeat associated with Heart Disease."
+,Diabetes,"blurred vision, increased thirst",,,,,,Travis Ross,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+,COPD,wheezing,,,,,,Chad Green,,Male,28,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Asthma,"chest tightness, shortness of breath",,,,,,Valerie Humphrey,,Male,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+,COPD,"wheezing, wheezing, shortness of breath, wheezing",,,,,,Leah Huffman,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, shortness of breath, wheezing associated with COPD."
+,Asthma,"wheezing, coughing",,,,,,Jessica Perez,,Female,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, coughing associated with Asthma."
+,HIV,swollen lymph nodes,,,,,,Randy Taylor,,Male,21,,,,,,,,,,,,,,,,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+,HIV,"fever, fever, night sweats",,,,,,Katie Owens,,Female,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, night sweats associated with HIV."
+,Typhoid,"fever, abdominal pain, fever",,,,,,Holly Byrd,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, abdominal pain, fever associated with Typhoid."
+,Typhoid,"abdominal pain, weakness, abdominal pain",,,,,,Ernest Russell,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, weakness, abdominal pain associated with Typhoid."
+,Malaria,"muscle pain, muscle pain, muscle pain",,,,,,Jason Pacheco,,Male,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+,Heart Disease,"chest pain, chest pain, chest pain",,,,,,Brenda Weeks,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, chest pain, chest pain associated with Heart Disease."
+,Heart Disease,"fatigue, shortness of breath, fatigue",,,,,,Amy Pearson,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath, fatigue associated with Heart Disease."
+,Typhoid,"abdominal pain, rash, abdominal pain",,,,,,Michaela Fleming,,Female,76,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, rash, abdominal pain associated with Typhoid."
+,Asthma,"coughing, coughing, shortness of breath, chest tightness",,,,,,Lisa Caldwell,,Male,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, shortness of breath, chest tightness associated with Asthma."
+,Ulcer,"bloating, bloating, nausea, bloating",,,,,,James Vaughn,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, bloating, nausea, bloating associated with Ulcer."
+,Ulcer,nausea,,,,,,John Norton,,Male,30,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Asthma,"wheezing, wheezing, coughing",,,,,,Russell Weiss,,Male,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, coughing associated with Asthma."
+,Diabetes,"blurred vision, increased thirst",,,,,,Teresa Graham,,Female,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+,COPD,"wheezing, chronic cough, shortness of breath",,,,,,Christopher Davenport,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chronic cough, shortness of breath associated with COPD."
+,Hypertension,headache,,,,,,Angela Hoffman,,Male,69,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,HIV,weight loss,,,,,,Eric Snyder,,Female,18,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,Ulcer,nausea,,,,,,Frederick Luna,,Male,89,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Ulcer,"bloating, stomach pain, stomach pain",,,,,,Angela Higgins,,Female,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain, stomach pain associated with Ulcer."
+,HIV,"weight loss, night sweats, weight loss",,,,,,James Todd,,Male,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, weight loss associated with HIV."
+,Asthma,"shortness of breath, coughing, wheezing",,,,,,Victoria Morton,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, coughing, wheezing associated with Asthma."
+,Typhoid,"weakness, abdominal pain, fever, fever",,,,,,Belinda Walker,,Female,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, fever, fever associated with Typhoid."
+,Heart Disease,"fatigue, fatigue, irregular heartbeat",,,,,,Jillian Clark,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, irregular heartbeat associated with Heart Disease."
+,Malaria,"chills, headache",,,,,,Kyle Patterson,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, headache associated with Malaria."
+,Heart Disease,"fatigue, shortness of breath",,,,,,Keith Moore,,Male,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath associated with Heart Disease."
+,None,"no symptoms, no symptoms",,,,,,Eric Lewis,,Male,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Heart Disease,"irregular heartbeat, shortness of breath, fatigue, shortness of breath",,,,,,Melissa Greene,,Female,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, shortness of breath, fatigue, shortness of breath associated with Heart Disease."
+,Asthma,coughing,,,,,,Joshua Ho,,Male,25,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,HIV,"weight loss, swollen lymph nodes, weight loss",,,,,,Jim Ortiz,,Male,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, swollen lymph nodes, weight loss associated with HIV."
+,Typhoid,"fever, abdominal pain, fever",,,,,,Kimberly Hernandez,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, abdominal pain, fever associated with Typhoid."
+,Diabetes,"frequent urination, fatigue, fatigue, frequent urination",,,,,,Wendy Thompson,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, fatigue, fatigue, frequent urination associated with Diabetes."
+,Hypertension,"headache, headache, dizziness",,,,,,Nathaniel Quinn,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, dizziness associated with Hypertension."
+,HIV,"weight loss, fever, fever, weight loss",,,,,,Nancy Murphy,,Male,42,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever, fever, weight loss associated with HIV."
+,HIV,fever,,,,,,John Russell,,Male,78,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,Malaria,muscle pain,,,,,,Jeremy Moore,,Male,56,,,,,,,,,,,,,,,,Patient presents with symptoms of muscle pain associated with Malaria.
+,None,"no symptoms, healthy",,,,,,Melody Williams,,Male,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,None,"healthy, no symptoms",,,,,,Kristin Madden,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,HIV,"night sweats, swollen lymph nodes",,,,,,Tina Carey,,Female,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,Typhoid,"weakness, weakness, rash, rash",,,,,,Karen Garrett,,Female,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, weakness, rash, rash associated with Typhoid."
+,COPD,"chest tightness, wheezing",,,,,,Lee Lee,,Female,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+,COPD,"chest tightness, chest tightness, shortness of breath",,,,,,Dana Campbell,,Male,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, shortness of breath associated with COPD."
+,Asthma,"coughing, coughing, chest tightness, wheezing",,,,,,Mario Costa,,Female,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, chest tightness, wheezing associated with Asthma."
+,Heart Disease,shortness of breath,,,,,,Candice Morales,,Female,25,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,Ulcer,"vomiting, vomiting, stomach pain",,,,,,Sean Jenkins,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, vomiting, stomach pain associated with Ulcer."
+,Typhoid,"weakness, abdominal pain, weakness",,,,,,Tiffany Thornton,,Female,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, weakness associated with Typhoid."
+,Asthma,"coughing, coughing, chest tightness, coughing",,,,,,Garrett Dillon,,Female,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, chest tightness, coughing associated with Asthma."
+,HIV,night sweats,,,,,,Kristy Hodges,,Male,18,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Asthma,"wheezing, wheezing",,,,,,Leah Thomas,,Male,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+,None,"healthy, healthy",,,,,,Lawrence Freeman,,Male,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,COPD,"shortness of breath, chest tightness",,,,,,Thomas Hull,,Female,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+,Heart Disease,"irregular heartbeat, shortness of breath",,,,,,Robin Frost,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, shortness of breath associated with Heart Disease."
+,HIV,"weight loss, fever, fever",,,,,,Dennis Davis,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever, fever associated with HIV."
+,Ulcer,"nausea, nausea, stomach pain, vomiting",,,,,,Meredith Morrison,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, stomach pain, vomiting associated with Ulcer."
+,COPD,"shortness of breath, shortness of breath, chest tightness",,,,,,Brianna Harris,,Male,46,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, chest tightness associated with COPD."
+,Typhoid,"abdominal pain, weakness, weakness, rash",,,,,,Christopher Harmon,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, weakness, weakness, rash associated with Typhoid."
+,HIV,"weight loss, swollen lymph nodes, night sweats, night sweats",,,,,,Claudia Ramos,,Male,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, swollen lymph nodes, night sweats, night sweats associated with HIV."
+,Hypertension,"headache, nosebleeds, shortness of breath, nosebleeds",,,,,,Holly Griffin,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, nosebleeds, shortness of breath, nosebleeds associated with Hypertension."
+,HIV,"fever, fever, fever, swollen lymph nodes",,,,,,Jerry Hansen,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, fever, swollen lymph nodes associated with HIV."
+,Malaria,"muscle pain, muscle pain, muscle pain",,,,,,Robert Collins,,Female,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+,Hypertension,"nosebleeds, nosebleeds, nosebleeds",,,,,,Kyle Powers,,Male,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+,Asthma,"wheezing, shortness of breath, chest tightness, coughing",,,,,,Melissa Gomez,,Female,30,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, chest tightness, coughing associated with Asthma."
+,COPD,"chest tightness, chronic cough, wheezing, wheezing",,,,,,Christopher Myers,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough, wheezing, wheezing associated with COPD."
+,Malaria,"muscle pain, muscle pain, muscle pain",,,,,,Charles Thompson,,Male,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+,Malaria,"chills, muscle pain, chills",,,,,,Chad Lopez,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, muscle pain, chills associated with Malaria."
+,HIV,night sweats,,,,,,Gina Duran,,Male,40,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Asthma,"shortness of breath, chest tightness",,,,,,Mr. Jacob Steele,,Female,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness associated with Asthma."
+,Typhoid,abdominal pain,,,,,,Derek Scott,,Male,71,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,HIV,fever,,,,,,Richard Church,,Male,79,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,HIV,"night sweats, fever, weight loss, night sweats",,,,,,Tina Moss,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, fever, weight loss, night sweats associated with HIV."
+,Hypertension,nosebleeds,,,,,,Jeffrey Calhoun,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,COPD,"wheezing, chest tightness, chronic cough, wheezing",,,,,,Lee Zamora,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, chronic cough, wheezing associated with COPD."
+,Diabetes,"blurred vision, blurred vision, fatigue, increased thirst",,,,,,Ricky Wells,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, blurred vision, fatigue, increased thirst associated with Diabetes."
+,COPD,"shortness of breath, chronic cough",,,,,,Dr. Stacey Nichols,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+,HIV,"swollen lymph nodes, swollen lymph nodes, night sweats",,,,,,Angela Perry,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, night sweats associated with HIV."
+,Ulcer,"nausea, stomach pain",,,,,,Robert Walsh,,Female,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, stomach pain associated with Ulcer."
+,Asthma,"shortness of breath, wheezing",,,,,,Jose Powell,,Male,46,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+,None,healthy,,,,,,Andrea Lane,,Female,73,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,"chest tightness, chest tightness, chest tightness, chest tightness",,,,,,Teresa Lewis,,Female,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, chest tightness, chest tightness associated with Asthma."
+,COPD,shortness of breath,,,,,,Robin Mccarthy,,Male,55,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with COPD.
+,Typhoid,rash,,,,,,Michael Short,,Female,43,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,HIV,"weight loss, weight loss",,,,,,Kevin Edwards,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, weight loss associated with HIV."
+,Typhoid,"abdominal pain, weakness, rash",,,,,,Thomas Allen,,Female,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, weakness, rash associated with Typhoid."
+,HIV,"night sweats, swollen lymph nodes, fever, fever",,,,,,Jeff Robertson,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes, fever, fever associated with HIV."
+,COPD,"wheezing, chest tightness",,,,,,Christian Wilson,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness associated with COPD."
+,COPD,"chronic cough, chest tightness, chronic cough",,,,,,Kevin Barr,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chest tightness, chronic cough associated with COPD."
+,COPD,"shortness of breath, shortness of breath, chronic cough",,,,,,Sabrina Krueger,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, chronic cough associated with COPD."
+,Heart Disease,"shortness of breath, chest pain",,,,,,Casey James,,Male,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+,None,healthy,,,,,,Michael Harris,,Female,81,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,"coughing, wheezing, chest tightness",,,,,,Felicia Walls,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, wheezing, chest tightness associated with Asthma."
+,Typhoid,"fever, weakness",,,,,,Robin Booker DVM,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness associated with Typhoid."
+,Malaria,"fever, muscle pain",,,,,,Dan Rodriguez,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, muscle pain associated with Malaria."
+,Malaria,"chills, muscle pain",,,,,,Catherine Cooper,,Female,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, muscle pain associated with Malaria."
+,HIV,"weight loss, fever, night sweats",,,,,,Kevin Church,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever, night sweats associated with HIV."
+,Hypertension,"shortness of breath, headache",,,,,,Thomas Powell,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, headache associated with Hypertension."
+,HIV,night sweats,,,,,,Heather Quinn,,Female,44,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Heart Disease,"fatigue, shortness of breath, chest pain, shortness of breath",,,,,,Tony Fleming,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath, chest pain, shortness of breath associated with Heart Disease."
+,HIV,"night sweats, swollen lymph nodes",,,,,,Brandon Yoder,,Female,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,Asthma,"chest tightness, shortness of breath, chest tightness",,,,,,Karen White,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath, chest tightness associated with Asthma."
+,Diabetes,"increased thirst, increased thirst, blurred vision",,,,,,Debra Jenkins,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, increased thirst, blurred vision associated with Diabetes."
+,Typhoid,"weakness, rash, fever, weakness",,,,,,Kimberly Taylor,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, rash, fever, weakness associated with Typhoid."
+,Diabetes,"fatigue, increased thirst, blurred vision, fatigue",,,,,,Amber Greene,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, increased thirst, blurred vision, fatigue associated with Diabetes."
+,Ulcer,nausea,,,,,,Matthew Bird,,Male,27,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Asthma,shortness of breath,,,,,,Rebecca Garrett,,Male,26,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Heart Disease,"fatigue, shortness of breath, chest pain, chest pain",,,,,,Stephanie Gilbert,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, shortness of breath, chest pain, chest pain associated with Heart Disease."
+,Malaria,"fever, chills",,,,,,James Miller,,Male,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, chills associated with Malaria."
+,COPD,"chronic cough, shortness of breath",,,,,,Joseph Suarez,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath associated with COPD."
+,Asthma,shortness of breath,,,,,,Larry Cameron,,Female,33,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Asthma,"shortness of breath, chest tightness, chest tightness, shortness of breath",,,,,,Mr. Michael Baldwin,,Female,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness, chest tightness, shortness of breath associated with Asthma."
+,HIV,night sweats,,,,,,James Combs,,Female,80,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,None,healthy,,,,,,Elizabeth Mills,,Female,45,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Malaria,"headache, muscle pain, chills, chills",,,,,,Louis Price MD,,Female,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, chills, chills associated with Malaria."
+,Heart Disease,irregular heartbeat,,,,,,Christopher Johnson,,Female,51,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,Ulcer,"stomach pain, bloating, vomiting, stomach pain",,,,,,Kathleen Everett MD,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+,Hypertension,"shortness of breath, dizziness, headache, headache",,,,,,Andrea Davis,,Male,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, dizziness, headache, headache associated with Hypertension."
+,None,"no symptoms, healthy",,,,,,Carol Morales,,Female,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,COPD,"wheezing, wheezing, wheezing, chronic cough",,,,,,John Leonard,,Male,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing, wheezing, chronic cough associated with COPD."
+,Diabetes,fatigue,,,,,,Andrew Mueller,,Female,30,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Diabetes.
+,HIV,night sweats,,,,,,David Salas,,Male,62,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,HIV,"swollen lymph nodes, swollen lymph nodes, fever",,,,,,Dakota Park,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, fever associated with HIV."
+,COPD,"chest tightness, shortness of breath, wheezing, chronic cough",,,,,,Rebecca Rowland,,Female,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath, wheezing, chronic cough associated with COPD."
+,Ulcer,"stomach pain, bloating, vomiting, vomiting",,,,,,Paul Buchanan,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating, vomiting, vomiting associated with Ulcer."
+,Asthma,"chest tightness, chest tightness, chest tightness, shortness of breath",,,,,,Sean Garcia,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, chest tightness, shortness of breath associated with Asthma."
+,Typhoid,"weakness, abdominal pain",,,,,,Ronald Williams,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain associated with Typhoid."
+,COPD,chest tightness,,,,,,Jesse Wright,,Male,67,,,,,,,,,,,,,,,,Patient presents with symptoms of chest tightness associated with COPD.
+,Heart Disease,shortness of breath,,,,,,Leslie Miller,,Male,55,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,Malaria,"muscle pain, muscle pain, fever",,,,,,Elijah Smith,,Male,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, fever associated with Malaria."
+,Hypertension,nosebleeds,,,,,,Catherine Ballard,,Female,33,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Typhoid,"rash, rash",,,,,,Nicholas Lopez,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash associated with Typhoid."
+,Heart Disease,"chest pain, irregular heartbeat",,,,,,John Finley,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+,Heart Disease,"chest pain, irregular heartbeat, irregular heartbeat, irregular heartbeat",,,,,,Emily Jarvis,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, irregular heartbeat, irregular heartbeat, irregular heartbeat associated with Heart Disease."
+,Typhoid,"fever, weakness, fever",,,,,,Joshua Miller,,Male,76,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness, fever associated with Typhoid."
+,HIV,"swollen lymph nodes, night sweats, swollen lymph nodes, weight loss",,,,,,Patrick Williams,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats, swollen lymph nodes, weight loss associated with HIV."
+,Hypertension,headache,,,,,,Nancy Pollard,,Female,82,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,HIV,weight loss,,,,,,Linda Obrien,,Male,28,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,Typhoid,"abdominal pain, abdominal pain",,,,,,Stacey Ramos,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain associated with Typhoid."
+,Diabetes,"blurred vision, frequent urination",,,,,,Charles Krause,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+,None,"healthy, no symptoms",,,,,,Felicia Martinez,,Female,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,None,no symptoms,,,,,,Jon Turner,,Male,60,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Heart Disease,"fatigue, fatigue, irregular heartbeat, shortness of breath",,,,,,Crystal Johnson,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, irregular heartbeat, shortness of breath associated with Heart Disease."
+,Heart Disease,fatigue,,,,,,Robert Khan,,Male,65,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,COPD,"shortness of breath, wheezing, chronic cough",,,,,,Brittany Potter,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing, chronic cough associated with COPD."
+,Typhoid,"weakness, fever",,,,,,Erika Wiggins,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, fever associated with Typhoid."
+,Malaria,"fever, fever",,,,,,Ronnie Smith,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever associated with Malaria."
+,Ulcer,"vomiting, vomiting, bloating, nausea",,,,,,Kevin Carr,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, vomiting, bloating, nausea associated with Ulcer."
+,COPD,wheezing,,,,,,Vickie Robinson,,Male,66,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Hypertension,nosebleeds,,,,,,Michaela Jones,,Female,83,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Typhoid,"abdominal pain, fever",,,,,,Terri Wilkins,,Female,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, fever associated with Typhoid."
+,None,no symptoms,,,,,,Andrew Banks,,Male,18,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"stomach pain, bloating",,,,,,Keith Harris,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating associated with Ulcer."
+,Ulcer,"stomach pain, vomiting, bloating, vomiting",,,,,,Michael Downs,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting, bloating, vomiting associated with Ulcer."
+,COPD,"chest tightness, chronic cough",,,,,,David Black,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough associated with COPD."
+,Ulcer,"nausea, bloating, bloating",,,,,,Guy Richardson,,Female,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, bloating, bloating associated with Ulcer."
+,None,no symptoms,,,,,,Rachel Turner,,Male,77,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,HIV,"fever, fever, weight loss",,,,,,Brian Jackson,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, weight loss associated with HIV."
+,Malaria,"chills, headache",,,,,,Austin Brown,,Male,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, headache associated with Malaria."
+,COPD,"chest tightness, wheezing, chest tightness, wheezing",,,,,,Samantha Price,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing, chest tightness, wheezing associated with COPD."
+,HIV,"night sweats, swollen lymph nodes",,,,,,John Lee,,Male,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,Hypertension,"nosebleeds, dizziness, headache, headache",,,,,,Jay Pollard,,Male,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, dizziness, headache, headache associated with Hypertension."
+,HIV,"fever, night sweats, weight loss",,,,,,Ashley Romero,,Male,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, night sweats, weight loss associated with HIV."
+,Malaria,muscle pain,,,,,,Sarah Smith,,Female,27,,,,,,,,,,,,,,,,Patient presents with symptoms of muscle pain associated with Malaria.
+,None,"no symptoms, no symptoms",,,,,,Dale Yu,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Diabetes,"increased thirst, frequent urination, increased thirst",,,,,,Gregory Acosta,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, increased thirst associated with Diabetes."
+,Malaria,"headache, chills",,,,,,Cody Mooney,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills associated with Malaria."
+,Asthma,"shortness of breath, shortness of breath",,,,,,William Higgins,,Female,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with Asthma."
+,COPD,"shortness of breath, chronic cough, shortness of breath",,,,,,Kylie Hebert,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough, shortness of breath associated with COPD."
+,None,healthy,,,,,,Jason Castro,,Female,73,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Ulcer,stomach pain,,,,,,Andrew Hoffman,,Female,71,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,Hypertension,"nosebleeds, shortness of breath, headache",,,,,,Rebecca Gonzales,,Female,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, headache associated with Hypertension."
+,Ulcer,"bloating, vomiting",,,,,,Sandra Mitchell,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting associated with Ulcer."
+,Asthma,shortness of breath,,,,,,Richard White,,Female,72,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Hypertension,"shortness of breath, headache",,,,,,Jason Stephenson,,Female,90,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, headache associated with Hypertension."
+,None,no symptoms,,,,,,Grant Moore,,Male,23,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,COPD,chronic cough,,,,,,John Perez,,Male,43,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,Typhoid,"fever, weakness, abdominal pain",,,,,,Janice Hogan,,Female,37,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness, abdominal pain associated with Typhoid."
+,Hypertension,"nosebleeds, shortness of breath, shortness of breath",,,,,,Craig Colon,,Female,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, shortness of breath associated with Hypertension."
+,None,no symptoms,,,,,,Benjamin Fitzgerald,,Male,60,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,COPD,"shortness of breath, chest tightness, chest tightness",,,,,,Patrick Burnett,,Male,74,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest tightness, chest tightness associated with COPD."
+,HIV,"weight loss, swollen lymph nodes, swollen lymph nodes, swollen lymph nodes",,,,,,Clayton Garcia,,Female,46,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, swollen lymph nodes, swollen lymph nodes, swollen lymph nodes associated with HIV."
+,Heart Disease,"irregular heartbeat, fatigue, chest pain, chest pain",,,,,,Shelby Lewis,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, fatigue, chest pain, chest pain associated with Heart Disease."
+,Hypertension,"nosebleeds, headache, headache, headache",,,,,,Michael Bennett,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, headache, headache, headache associated with Hypertension."
+,None,"no symptoms, healthy",,,,,,Gabriel Dixon,,Male,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,None,no symptoms,,,,,,Evelyn Rodriguez,,Female,36,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"bloating, vomiting, vomiting",,,,,,Stephanie Edwards,,Female,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, vomiting associated with Ulcer."
+,Hypertension,"nosebleeds, dizziness, nosebleeds",,,,,,Natalie Curtis,,Male,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, dizziness, nosebleeds associated with Hypertension."
+,COPD,"shortness of breath, chronic cough, chest tightness",,,,,,Kathleen Trujillo,,Male,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough, chest tightness associated with COPD."
+,HIV,"night sweats, swollen lymph nodes, night sweats, fever",,,,,,James Taylor,,Female,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes, night sweats, fever associated with HIV."
+,Malaria,"headache, fever, muscle pain",,,,,,Alexis Morgan,,Female,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, fever, muscle pain associated with Malaria."
+,Heart Disease,"shortness of breath, chest pain",,,,,,Benjamin Ross,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+,Typhoid,"abdominal pain, fever",,,,,,Charles Perez,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, fever associated with Typhoid."
+,Heart Disease,irregular heartbeat,,,,,,Eugene Wright,,Male,45,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,None,healthy,,,,,,Kathleen Eaton,,Male,84,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,"wheezing, chest tightness, shortness of breath, chest tightness",,,,,,Robin Wallace,,Male,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, shortness of breath, chest tightness associated with Asthma."
+,None,"no symptoms, healthy",,,,,,Valerie Anthony,,Female,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,COPD,"shortness of breath, shortness of breath, shortness of breath, wheezing",,,,,,Danielle Mendoza,,Male,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath, wheezing associated with COPD."
+,None,healthy,,,,,,Emily Walker,,Male,33,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Malaria,"headache, headache",,,,,,Joshua Owens,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache associated with Malaria."
+,COPD,"shortness of breath, chronic cough, shortness of breath",,,,,,Crystal Martinez,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough, shortness of breath associated with COPD."
+,None,"healthy, no symptoms",,,,,,Daniel Wright,,Female,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Malaria,"chills, headache, chills, chills",,,,,,Mrs. Stephanie Sims,,Male,52,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, headache, chills, chills associated with Malaria."
+,Hypertension,nosebleeds,,,,,,Robin Vargas,,Female,77,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Diabetes,"blurred vision, increased thirst",,,,,,David Gardner,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+,Typhoid,"rash, fever",,,,,,Samantha Robinson,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, fever associated with Typhoid."
+,Malaria,chills,,,,,,Taylor Peters,,Female,18,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,Diabetes,"blurred vision, frequent urination",,,,,,Walter Chapman,,Male,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+,Ulcer,"stomach pain, nausea, stomach pain, bloating",,,,,,Kara Miller,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea, stomach pain, bloating associated with Ulcer."
+,HIV,"weight loss, night sweats, swollen lymph nodes, night sweats",,,,,,Jennifer Owens,,Male,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, swollen lymph nodes, night sweats associated with HIV."
+,Asthma,"wheezing, chest tightness, coughing, chest tightness",,,,,,Katherine Wyatt,,Female,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, coughing, chest tightness associated with Asthma."
+,None,"no symptoms, healthy",,,,,,Anthony Neal,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Asthma,coughing,,,,,,Daniel Valentine,,Female,84,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,Hypertension,"dizziness, nosebleeds",,,,,,Jeffery Hudson,,Male,52,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+,Ulcer,"stomach pain, stomach pain",,,,,,Robert Brown,,Male,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain associated with Ulcer."
+,HIV,"fever, swollen lymph nodes",,,,,,Amy Jones,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, swollen lymph nodes associated with HIV."
+,None,"no symptoms, healthy",,,,,,Matthew Murillo,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,"chest pain, chest pain, irregular heartbeat, fatigue",,,,,,Colleen Hall,,Female,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, chest pain, irregular heartbeat, fatigue associated with Heart Disease."
+,Diabetes,"fatigue, frequent urination, blurred vision, blurred vision",,,,,,Jessica Woods,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, frequent urination, blurred vision, blurred vision associated with Diabetes."
+,Ulcer,"stomach pain, bloating, vomiting, stomach pain",,,,,,Audrey Reeves,,Male,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+,HIV,"swollen lymph nodes, fever",,,,,,Crystal Swanson,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, fever associated with HIV."
+,Ulcer,bloating,,,,,,Kathryn White,,Male,53,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,HIV,"weight loss, night sweats, fever, fever",,,,,,Thomas Taylor,,Male,86,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, fever, fever associated with HIV."
+,Asthma,"wheezing, shortness of breath",,,,,,Gregory Bishop,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath associated with Asthma."
+,Ulcer,vomiting,,,,,,Mrs. Jamie Dickson,,Male,41,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,Asthma,"chest tightness, coughing, chest tightness",,,,,,Joseph Aguilar,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, coughing, chest tightness associated with Asthma."
+,Hypertension,"dizziness, shortness of breath, dizziness, nosebleeds",,,,,,Craig Buchanan,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+,Hypertension,"headache, headache",,,,,,Christina Clay,,Male,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache associated with Hypertension."
+,Diabetes,"increased thirst, increased thirst, blurred vision, blurred vision",,,,,,Kathleen Fisher,,Female,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, increased thirst, blurred vision, blurred vision associated with Diabetes."
+,Malaria,"muscle pain, chills, muscle pain",,,,,,Dana Rodriguez,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, chills, muscle pain associated with Malaria."
+,Heart Disease,"chest pain, shortness of breath, chest pain",,,,,,Kaitlyn Carlson,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath, chest pain associated with Heart Disease."
+,Heart Disease,"shortness of breath, irregular heartbeat, irregular heartbeat, fatigue",,,,,,Gilbert Rodgers,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+,None,healthy,,,,,,Cassandra Taylor,,Female,70,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,"chest tightness, shortness of breath",,,,,,Dawn Kerr,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+,Ulcer,vomiting,,,,,,Bruce Tanner,,Female,78,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,Heart Disease,"chest pain, fatigue, irregular heartbeat",,,,,,Ronald Conner,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, fatigue, irregular heartbeat associated with Heart Disease."
+,Ulcer,stomach pain,,,,,,John Kane,,Female,48,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,None,"no symptoms, healthy",,,,,,Joyce Raymond,,Female,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,COPD,"chest tightness, wheezing",,,,,,Courtney Hardin,,Male,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+,Ulcer,"stomach pain, vomiting",,,,,,James Ramos,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,None,healthy,,,,,,Dennis Jones,,Male,74,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,HIV,"night sweats, night sweats",,,,,,Wendy Aguilar,,Male,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, night sweats associated with HIV."
+,Malaria,"muscle pain, muscle pain",,,,,,Justin Peterson,,Male,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+,HIV,"weight loss, fever",,,,,,Dawn Williams,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever associated with HIV."
+,Hypertension,"dizziness, dizziness, nosebleeds",,,,,,Jared Clark,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness, nosebleeds associated with Hypertension."
+,Asthma,wheezing,,,,,,David Pollard,,Female,66,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with Asthma.
+,Heart Disease,"shortness of breath, shortness of breath, shortness of breath, shortness of breath",,,,,,Lindsay Robertson,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath, shortness of breath associated with Heart Disease."
+,Malaria,"chills, chills, chills, chills",,,,,,Seth Mason,,Male,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, chills, chills associated with Malaria."
+,Heart Disease,"shortness of breath, irregular heartbeat, shortness of breath, irregular heartbeat",,,,,,Jamie Gomez,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, irregular heartbeat, shortness of breath, irregular heartbeat associated with Heart Disease."
+,Asthma,coughing,,,,,,Jessica Vega,,Male,74,,,,,,,,,,,,,,,,Patient presents with symptoms of coughing associated with Asthma.
+,Asthma,"shortness of breath, wheezing",,,,,,Scott Thompson,,Male,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+,Ulcer,"nausea, nausea",,,,,,Andrew Briggs,,Male,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea associated with Ulcer."
+,Ulcer,"nausea, nausea",,,,,,Miguel Kirk,,Female,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea associated with Ulcer."
+,HIV,"night sweats, weight loss, swollen lymph nodes",,,,,,Christian Parks,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, weight loss, swollen lymph nodes associated with HIV."
+,None,"no symptoms, healthy",,,,,,Crystal Nicholson,,Female,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Ulcer,"nausea, bloating",,,,,,David Brown,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, bloating associated with Ulcer."
+,Diabetes,"frequent urination, increased thirst, fatigue, increased thirst",,,,,,Rebekah Allen,,Female,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, increased thirst, fatigue, increased thirst associated with Diabetes."
+,Diabetes,"frequent urination, blurred vision, blurred vision, fatigue",,,,,,Lori Lane,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, blurred vision, blurred vision, fatigue associated with Diabetes."
+,Hypertension,"dizziness, dizziness, shortness of breath",,,,,,Melinda Brown,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness, shortness of breath associated with Hypertension."
+,Ulcer,"nausea, stomach pain, nausea, bloating",,,,,,Krystal Adams,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, stomach pain, nausea, bloating associated with Ulcer."
+,Asthma,"coughing, wheezing, wheezing, chest tightness",,,,,,Dustin Marsh,,Female,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, wheezing, wheezing, chest tightness associated with Asthma."
+,Malaria,"headache, muscle pain, muscle pain, chills",,,,,,Kristen Avila,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, muscle pain, chills associated with Malaria."
+,COPD,shortness of breath,,,,,,Veronica Vasquez,,Female,88,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with COPD.
+,Heart Disease,"chest pain, shortness of breath, chest pain",,,,,,Heather Sullivan,,Female,19,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, shortness of breath, chest pain associated with Heart Disease."
+,None,healthy,,,,,,Richard Nelson,,Male,71,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Ulcer,bloating,,,,,,Alexis Lynch,,Male,78,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,Asthma,"wheezing, coughing",,,,,,Mr. James Carey Jr.,,Male,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, coughing associated with Asthma."
+,Diabetes,"frequent urination, fatigue, frequent urination, blurred vision",,,,,,Tara Smith,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, fatigue, frequent urination, blurred vision associated with Diabetes."
+,Malaria,"headache, chills, chills, headache",,,,,,Nicholas Hall,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills, chills, headache associated with Malaria."
+,Ulcer,"stomach pain, nausea",,,,,,George Hill,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea associated with Ulcer."
+,Malaria,"muscle pain, muscle pain, headache, headache",,,,,,Sean Dunn,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain, headache, headache associated with Malaria."
+,Ulcer,"bloating, stomach pain, nausea",,,,,,Joy Hill DVM,,Male,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain, nausea associated with Ulcer."
+,Diabetes,"blurred vision, increased thirst, blurred vision",,,,,,Kimberly Hendricks,,Female,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst, blurred vision associated with Diabetes."
+,COPD,"chronic cough, shortness of breath, chronic cough",,,,,,Brooke Mullen,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath, chronic cough associated with COPD."
+,Hypertension,nosebleeds,,,,,,Tricia Mcdonald,,Female,79,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Ulcer,"nausea, nausea, vomiting, bloating",,,,,,Lauren Delacruz,,Female,42,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, vomiting, bloating associated with Ulcer."
+,Malaria,"chills, chills, muscle pain, muscle pain",,,,,,Cassandra Taylor,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, muscle pain, muscle pain associated with Malaria."
+,Typhoid,abdominal pain,,,,,,Anthony Mcdonald,,Female,29,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,Diabetes,"increased thirst, increased thirst",,,,,,Mark Andersen,,Male,35,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, increased thirst associated with Diabetes."
+,Diabetes,"fatigue, fatigue",,,,,,Brandon Garrett,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue associated with Diabetes."
+,COPD,wheezing,,,,,,Judith Howell,,Female,34,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Diabetes,fatigue,,,,,,Shawn Maxwell,,Female,80,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Diabetes.
+,Diabetes,"blurred vision, blurred vision",,,,,,Jamie Combs,,Male,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, blurred vision associated with Diabetes."
+,HIV,"fever, weight loss",,,,,,Jacob Singh,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weight loss associated with HIV."
+,None,no symptoms,,,,,,Richard Perez,,Female,62,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"bloating, stomach pain",,,,,,Christopher Smith,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+,Ulcer,"nausea, nausea, nausea",,,,,,Kimberly Hill,,Female,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, nausea, nausea associated with Ulcer."
+,Malaria,"headache, chills, muscle pain",,,,,,Dawn Gonzalez,,Male,70,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills, muscle pain associated with Malaria."
+,Typhoid,"abdominal pain, abdominal pain",,,,,,Mark Young,,Male,42,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain associated with Typhoid."
+,Heart Disease,"fatigue, irregular heartbeat, fatigue",,,,,,Carly Crosby,,Female,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, irregular heartbeat, fatigue associated with Heart Disease."
+,Diabetes,frequent urination,,,,,,Randall Armstrong,,Male,39,,,,,,,,,,,,,,,,Patient presents with symptoms of frequent urination associated with Diabetes.
+,HIV,"fever, weight loss",,,,,,Ricky Brown,,Female,33,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weight loss associated with HIV."
+,None,no symptoms,,,,,,Danielle Hamilton,,Female,73,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,COPD,"chest tightness, chest tightness, shortness of breath, shortness of breath",,,,,,Bill Harris,,Female,18,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with COPD."
+,Ulcer,bloating,,,,,,Melanie King,,Male,37,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,None,"healthy, no symptoms",,,,,,Jennifer Stevens,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Hypertension,dizziness,,,,,,Katrina Nelson,,Male,19,,,,,,,,,,,,,,,,Patient presents with symptoms of dizziness associated with Hypertension.
+,Heart Disease,chest pain,,,,,,Michael Brown,,Female,55,,,,,,,,,,,,,,,,Patient presents with symptoms of chest pain associated with Heart Disease.
+,Diabetes,"frequent urination, blurred vision, fatigue",,,,,,Ashley Warren,,Female,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, blurred vision, fatigue associated with Diabetes."
+,COPD,chronic cough,,,,,,James Mcdonald,,Female,26,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,COPD,"shortness of breath, chronic cough, chest tightness, chest tightness",,,,,,Allison King,,Male,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough, chest tightness, chest tightness associated with COPD."
+,Ulcer,vomiting,,,,,,Katelyn Wright,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of vomiting associated with Ulcer.
+,None,"healthy, no symptoms",,,,,,Thomas Smith,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Typhoid,"rash, rash, rash",,,,,,Emma Peterson,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, rash, rash associated with Typhoid."
+,Ulcer,"vomiting, nausea",,,,,,Kevin Bailey,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, nausea associated with Ulcer."
+,COPD,"chest tightness, chronic cough, chest tightness",,,,,,John Carroll,,Female,57,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chronic cough, chest tightness associated with COPD."
+,HIV,"fever, weight loss",,,,,,Benjamin Hicks,,Male,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weight loss associated with HIV."
+,Hypertension,"shortness of breath, nosebleeds, nosebleeds",,,,,,Kevin Lewis,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, nosebleeds, nosebleeds associated with Hypertension."
+,None,healthy,,,,,,Melissa Brown,,Male,44,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,None,"no symptoms, no symptoms",,,,,,Kristen Gilbert,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,HIV,swollen lymph nodes,,,,,,David Dorsey,,Female,42,,,,,,,,,,,,,,,,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+,None,healthy,,,,,,Thomas Lopez,,Male,55,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Hypertension,"dizziness, dizziness",,,,,,Miss Laura Montgomery,,Female,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness associated with Hypertension."
+,Malaria,fever,,,,,,Molly Golden,,Male,36,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Malaria.
+,Ulcer,"stomach pain, nausea",,,,,,Leah Diaz,,Female,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea associated with Ulcer."
+,Asthma,"chest tightness, chest tightness, shortness of breath, shortness of breath",,,,,,Meghan Johnson,,Female,24,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+,Malaria,headache,,,,,,David Franklin,,Female,80,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Malaria.
+,Typhoid,abdominal pain,,,,,,Bruce Taylor,,Female,32,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,None,"no symptoms, no symptoms",,,,,,Jacqueline Hawkins,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,COPD,"shortness of breath, shortness of breath",,,,,,Richard Rivera,,Female,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+,None,"healthy, healthy",,,,,,Terry Hinton,,Female,86,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Malaria,"headache, muscle pain, headache, fever",,,,,,Leslie Owens,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, headache, fever associated with Malaria."
+,Typhoid,fever,,,,,,John Day,,Male,55,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Typhoid.
+,Malaria,"fever, fever, muscle pain",,,,,,Elizabeth Hahn,,Female,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, muscle pain associated with Malaria."
+,Diabetes,"increased thirst, frequent urination, increased thirst, fatigue",,,,,,Darius Wood,,Female,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination, increased thirst, fatigue associated with Diabetes."
+,Diabetes,fatigue,,,,,,Sandra Chandler,,Female,61,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Diabetes.
+,Heart Disease,fatigue,,,,,,Susan Johnson,,Male,72,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,Typhoid,"fever, fever, abdominal pain",,,,,,Jessica Hoffman,,Male,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, abdominal pain associated with Typhoid."
+,Hypertension,"nosebleeds, dizziness",,,,,,Mark Walker,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, dizziness associated with Hypertension."
+,COPD,"wheezing, shortness of breath, chronic cough",,,,,,Jose Hinton,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, chronic cough associated with COPD."
+,Heart Disease,"fatigue, chest pain, chest pain, chest pain",,,,,,Jeremy Lopez,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, chest pain, chest pain, chest pain associated with Heart Disease."
+,Heart Disease,irregular heartbeat,,,,,,Johnathan Nunez,,Male,35,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,HIV,"night sweats, fever, night sweats, weight loss",,,,,,Heidi Young,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, fever, night sweats, weight loss associated with HIV."
+,Diabetes,"fatigue, increased thirst",,,,,,Robert Cruz,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, increased thirst associated with Diabetes."
+,Asthma,"coughing, chest tightness, shortness of breath",,,,,,Richard Long,,Female,25,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, chest tightness, shortness of breath associated with Asthma."
+,Ulcer,"vomiting, bloating, bloating, bloating",,,,,,Jason Miller,,Female,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, bloating, bloating, bloating associated with Ulcer."
+,Heart Disease,"shortness of breath, fatigue, irregular heartbeat, chest pain",,,,,,Andrea Anderson,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, fatigue, irregular heartbeat, chest pain associated with Heart Disease."
+,Typhoid,"weakness, abdominal pain, rash, weakness",,,,,,Sandra Wilson,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, abdominal pain, rash, weakness associated with Typhoid."
+,Asthma,"chest tightness, chest tightness, shortness of breath, shortness of breath",,,,,,James Miller,,Male,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+,Typhoid,fever,,,,,,Joseph Jackson,,Female,81,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with Typhoid.
+,Ulcer,"stomach pain, vomiting",,,,,,Harold Duncan,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,COPD,"chest tightness, wheezing",,,,,,Alice Lopez,,Male,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+,Diabetes,"increased thirst, blurred vision, blurred vision",,,,,,Phillip Smith,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision, blurred vision associated with Diabetes."
+,Diabetes,"fatigue, frequent urination, increased thirst",,,,,,Stephanie Webb,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, frequent urination, increased thirst associated with Diabetes."
+,None,"no symptoms, no symptoms",,,,,,Hannah Beck,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,COPD,chronic cough,,,,,,Kim Smith,,Female,64,,,,,,,,,,,,,,,,Patient presents with symptoms of chronic cough associated with COPD.
+,HIV,"night sweats, swollen lymph nodes, night sweats, fever",,,,,,Aaron Tucker,,Female,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes, night sweats, fever associated with HIV."
+,COPD,wheezing,,,,,,Christopher Hart,,Male,48,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Typhoid,"rash, fever",,,,,,Benjamin Wolf,,Male,21,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, fever associated with Typhoid."
+,Typhoid,"abdominal pain, abdominal pain, weakness",,,,,,Abigail Dalton,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain, weakness associated with Typhoid."
+,HIV,"fever, fever",,,,,,Sharon White,,Male,74,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever associated with HIV."
+,Heart Disease,shortness of breath,,,,,,Sarah Francis,,Female,31,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,COPD,"shortness of breath, chronic cough",,,,,,Amanda Johnson,,Female,46,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+,Hypertension,"dizziness, dizziness, nosebleeds",,,,,,Jessica Callahan,,Male,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, dizziness, nosebleeds associated with Hypertension."
+,Asthma,"shortness of breath, coughing, wheezing, wheezing",,,,,,Scott Young,,Male,20,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, coughing, wheezing, wheezing associated with Asthma."
+,Diabetes,blurred vision,,,,,,Yolanda Nguyen,,Female,38,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,COPD,wheezing,,,,,,Gregory Mann,,Male,28,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,COPD,"chest tightness, wheezing, wheezing, chronic cough",,,,,,Lauren Sutton,,Male,70,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, wheezing, wheezing, chronic cough associated with COPD."
+,HIV,"fever, fever, fever, swollen lymph nodes",,,,,,Patricia Freeman,,Female,32,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, fever, fever, swollen lymph nodes associated with HIV."
+,None,"healthy, healthy",,,,,,Lisa Johnson,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Ulcer,"vomiting, nausea, vomiting",,,,,,Robert Smith,,Female,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, nausea, vomiting associated with Ulcer."
+,Asthma,"coughing, shortness of breath, coughing, wheezing",,,,,,Joanna Carlson,,Female,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, shortness of breath, coughing, wheezing associated with Asthma."
+,Asthma,"wheezing, coughing",,,,,,Thomas Morton,,Male,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, coughing associated with Asthma."
+,Heart Disease,"fatigue, chest pain, fatigue, irregular heartbeat",,,,,,Joanne Robinson,,Female,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, chest pain, fatigue, irregular heartbeat associated with Heart Disease."
+,Ulcer,"stomach pain, vomiting",,,,,,Christopher Fitzgerald,,Male,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,Ulcer,stomach pain,,,,,,Karen Wiley,,Female,18,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,None,"healthy, healthy",,,,,,James Lopez,,Male,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Diabetes,"blurred vision, increased thirst",,,,,,Brittney Castillo,,Female,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+,Typhoid,"fever, weakness, rash, weakness",,,,,,Joshua Lowe,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weakness, rash, weakness associated with Typhoid."
+,Hypertension,dizziness,,,,,,Jose Juarez,,Female,80,,,,,,,,,,,,,,,,Patient presents with symptoms of dizziness associated with Hypertension.
+,Ulcer,"stomach pain, nausea, stomach pain",,,,,,Michael Ellis,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, nausea, stomach pain associated with Ulcer."
+,Hypertension,headache,,,,,,David Ingram,,Female,37,,,,,,,,,,,,,,,,Patient presents with symptoms of headache associated with Hypertension.
+,Hypertension,shortness of breath,,,,,,Michael Elliott,,Male,63,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Hypertension.
+,Diabetes,"frequent urination, fatigue, blurred vision",,,,,,Jocelyn Ramirez,,Male,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, fatigue, blurred vision associated with Diabetes."
+,Heart Disease,"chest pain, fatigue",,,,,,Molly Green,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, fatigue associated with Heart Disease."
+,Typhoid,"fever, abdominal pain, rash",,,,,,Deborah Bishop,,Female,52,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, abdominal pain, rash associated with Typhoid."
+,COPD,"wheezing, chronic cough, shortness of breath, shortness of breath",,,,,,Robin Edwards,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chronic cough, shortness of breath, shortness of breath associated with COPD."
+,None,"no symptoms, healthy",,,,,,Kyle Huang,,Male,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,None,healthy,,,,,,Rebecca Ritter,,Female,32,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Typhoid,"weakness, rash",,,,,,Ms. Veronica Clay,,Male,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, rash associated with Typhoid."
+,COPD,wheezing,,,,,,Sarah Gutierrez,,Male,56,,,,,,,,,,,,,,,,Patient presents with symptoms of wheezing associated with COPD.
+,Hypertension,"headache, nosebleeds",,,,,,Alyssa Adams,,Male,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, nosebleeds associated with Hypertension."
+,HIV,"fever, night sweats",,,,,,Jamie Cooper,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, night sweats associated with HIV."
+,Malaria,muscle pain,,,,,,Joseph Quinn,,Female,63,,,,,,,,,,,,,,,,Patient presents with symptoms of muscle pain associated with Malaria.
+,Diabetes,"blurred vision, frequent urination",,,,,,Dennis Barrett,,Male,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+,Malaria,"muscle pain, chills",,,,,,Laura Johnson,,Female,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, chills associated with Malaria."
+,Diabetes,frequent urination,,,,,,Christopher Williams,,Male,21,,,,,,,,,,,,,,,,Patient presents with symptoms of frequent urination associated with Diabetes.
+,Diabetes,blurred vision,,,,,,Vanessa Watson,,Male,50,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,Malaria,"headache, muscle pain, muscle pain, muscle pain",,,,,,Elizabeth Fischer,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain, muscle pain, muscle pain associated with Malaria."
+,Ulcer,"stomach pain, stomach pain, nausea, stomach pain",,,,,,Robert Rose,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, stomach pain, nausea, stomach pain associated with Ulcer."
+,Typhoid,"rash, fever, abdominal pain",,,,,,Maria Buck,,Male,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, fever, abdominal pain associated with Typhoid."
+,Ulcer,"bloating, vomiting, nausea, nausea",,,,,,Scott Page,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, nausea, nausea associated with Ulcer."
+,None,"healthy, healthy",,,,,,Michelle Gross,,Male,74,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Diabetes,"blurred vision, blurred vision, frequent urination, increased thirst",,,,,,Ryan Rollins,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, blurred vision, frequent urination, increased thirst associated with Diabetes."
+,COPD,"shortness of breath, chronic cough, chest tightness",,,,,,William Santiago,,Female,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chronic cough, chest tightness associated with COPD."
+,Hypertension,"shortness of breath, nosebleeds",,,,,,Taylor Pierce,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, nosebleeds associated with Hypertension."
+,None,no symptoms,,,,,,Christopher Cohen,,Male,29,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Asthma,shortness of breath,,,,,,William Pugh,,Female,30,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Asthma.
+,Ulcer,nausea,,,,,,Adam Hanson,,Male,51,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Diabetes,blurred vision,,,,,,Lauren English,,Male,57,,,,,,,,,,,,,,,,Patient presents with symptoms of blurred vision associated with Diabetes.
+,Heart Disease,"shortness of breath, shortness of breath, chest pain",,,,,,Heidi Hicks,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, chest pain associated with Heart Disease."
+,HIV,"swollen lymph nodes, night sweats, swollen lymph nodes",,,,,,Daniel Arnold,,Male,41,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+,Heart Disease,fatigue,,,,,,Linda Cooper,,Male,24,,,,,,,,,,,,,,,,Patient presents with symptoms of fatigue associated with Heart Disease.
+,HIV,"night sweats, swollen lymph nodes",,,,,,James Chandler,,Male,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+,None,"no symptoms, no symptoms",,,,,,Danielle Farmer,,Female,56,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, no symptoms associated with None."
+,Diabetes,frequent urination,,,,,,Christian Ramos,,Female,25,,,,,,,,,,,,,,,,Patient presents with symptoms of frequent urination associated with Diabetes.
+,Typhoid,weakness,,,,,,Jacob Davila,,Female,20,,,,,,,,,,,,,,,,Patient presents with symptoms of weakness associated with Typhoid.
+,None,"healthy, no symptoms",,,,,,Richard Rodriguez,,Female,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Diabetes,"frequent urination, increased thirst, fatigue, blurred vision",,,,,,Guy Davis,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, increased thirst, fatigue, blurred vision associated with Diabetes."
+,HIV,night sweats,,,,,,Jon Mccann,,Female,26,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Hypertension,"shortness of breath, shortness of breath, shortness of breath",,,,,,Susan Owen,,Male,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath associated with Hypertension."
+,Hypertension,"dizziness, nosebleeds",,,,,,Gary Roberts,,Male,82,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+,Diabetes,"increased thirst, blurred vision, fatigue",,,,,,Virginia Macias,,Female,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision, fatigue associated with Diabetes."
+,Typhoid,rash,,,,,,Jacob Rhodes,,Female,27,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,Hypertension,"nosebleeds, shortness of breath, dizziness, nosebleeds",,,,,,Steven Juarez,,Female,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+,HIV,fever,,,,,,Heather Stokes,,Male,29,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,Typhoid,"weakness, weakness, fever, abdominal pain",,,,,,Alexandra Sullivan,,Male,85,,,,,,,,,,,,,,,,"Patient presents with symptoms of weakness, weakness, fever, abdominal pain associated with Typhoid."
+,Ulcer,"nausea, vomiting, nausea",,,,,,Keith Walker,,Female,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, vomiting, nausea associated with Ulcer."
+,Hypertension,"nosebleeds, shortness of breath, dizziness",,,,,,Steve Johnson,,Male,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of nosebleeds, shortness of breath, dizziness associated with Hypertension."
+,Asthma,"chest tightness, shortness of breath",,,,,,Heather Mercer,,Female,84,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+,Diabetes,"increased thirst, frequent urination",,,,,,Jennifer Mcdaniel,,Female,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+,Heart Disease,"shortness of breath, fatigue",,,,,,Brian Wilson,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, fatigue associated with Heart Disease."
+,None,healthy,,,,,,Michael Sosa,,Male,64,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Diabetes,"increased thirst, blurred vision",,,,,,Adam Anderson,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+,Asthma,"wheezing, wheezing",,,,,,Emily Green,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+,Typhoid,"fever, rash, rash",,,,,,Jennifer Davis,,Female,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+,Malaria,"chills, chills, chills, fever",,,,,,Larry Cooper,,Female,80,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, chills, fever associated with Malaria."
+,Ulcer,"nausea, bloating, nausea, bloating",,,,,,Crystal Carroll,,Male,28,,,,,,,,,,,,,,,,"Patient presents with symptoms of nausea, bloating, nausea, bloating associated with Ulcer."
+,Ulcer,stomach pain,,,,,,Thomas Richards,,Female,41,,,,,,,,,,,,,,,,Patient presents with symptoms of stomach pain associated with Ulcer.
+,Diabetes,"fatigue, blurred vision",,,,,,Kenneth Sanders,,Male,58,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, blurred vision associated with Diabetes."
+,HIV,night sweats,,,,,,John Turner,,Female,56,,,,,,,,,,,,,,,,Patient presents with symptoms of night sweats associated with HIV.
+,Asthma,"wheezing, coughing, coughing",,,,,,Elizabeth Bennett,,Female,73,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, coughing, coughing associated with Asthma."
+,None,"healthy, no symptoms",,,,,,Robert Garcia,,Male,43,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Malaria,"muscle pain, muscle pain",,,,,,Melissa Strong,,Male,65,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+,Asthma,"wheezing, shortness of breath, wheezing, coughing",,,,,,Joyce Carroll,,Female,22,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, wheezing, coughing associated with Asthma."
+,Ulcer,bloating,,,,,,Russell Bishop,,Female,62,,,,,,,,,,,,,,,,Patient presents with symptoms of bloating associated with Ulcer.
+,None,no symptoms,,,,,,Jessica Murphy,,Male,27,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"stomach pain, vomiting",,,,,,Dale Lozano,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+,COPD,"shortness of breath, wheezing",,,,,,Marcus Franklin,,Male,27,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, wheezing associated with COPD."
+,Heart Disease,"fatigue, chest pain, irregular heartbeat, chest pain",,,,,,Mary Davis,,Female,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, chest pain, irregular heartbeat, chest pain associated with Heart Disease."
+,Heart Disease,"shortness of breath, shortness of breath",,,,,,Austin Nunez,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with Heart Disease."
+,HIV,"night sweats, swollen lymph nodes, fever, fever",,,,,,Patrick Padilla,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, swollen lymph nodes, fever, fever associated with HIV."
+,Ulcer,"vomiting, stomach pain",,,,,,Samuel Roberts,,Male,62,,,,,,,,,,,,,,,,"Patient presents with symptoms of vomiting, stomach pain associated with Ulcer."
+,Hypertension,"dizziness, headache, dizziness, nosebleeds",,,,,,Brian Rodriguez,,Male,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, headache, dizziness, nosebleeds associated with Hypertension."
+,HIV,weight loss,,,,,,Jennifer Larsen,,Male,45,,,,,,,,,,,,,,,,Patient presents with symptoms of weight loss associated with HIV.
+,Hypertension,"dizziness, nosebleeds, headache, shortness of breath",,,,,,Colin Jackson,,Male,60,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds, headache, shortness of breath associated with Hypertension."
+,Hypertension,nosebleeds,,,,,,Colleen Harrington,,Male,86,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Malaria,"headache, fever, muscle pain, chills",,,,,,Margaret Martinez,,Female,77,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, fever, muscle pain, chills associated with Malaria."
+,HIV,"swollen lymph nodes, swollen lymph nodes, night sweats, swollen lymph nodes",,,,,,Robert Walter,,Female,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+,COPD,"chronic cough, shortness of breath, shortness of breath, wheezing",,,,,,Michelle Graham,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, shortness of breath, shortness of breath, wheezing associated with COPD."
+,HIV,"fever, weight loss",,,,,,Erica Johnson,,Male,61,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, weight loss associated with HIV."
+,Typhoid,"abdominal pain, abdominal pain, weakness",,,,,,Jonathon Cabrera,,Female,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, abdominal pain, weakness associated with Typhoid."
+,None,"healthy, no symptoms",,,,,,Sally Young,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Malaria,chills,,,,,,Sheila Roberts,,Female,70,,,,,,,,,,,,,,,,Patient presents with symptoms of chills associated with Malaria.
+,COPD,"chronic cough, chronic cough",,,,,,Crystal Blanchard,,Female,31,,,,,,,,,,,,,,,,"Patient presents with symptoms of chronic cough, chronic cough associated with COPD."
+,None,"healthy, no symptoms",,,,,,Jennifer Wong,,Female,44,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, no symptoms associated with None."
+,Diabetes,"blurred vision, increased thirst, fatigue",,,,,,Derek Aguirre,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, increased thirst, fatigue associated with Diabetes."
+,Ulcer,"bloating, vomiting, vomiting, nausea",,,,,,Yolanda Jackson,,Male,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, vomiting, vomiting, nausea associated with Ulcer."
+,Ulcer,nausea,,,,,,Douglas Ellison,,Female,76,,,,,,,,,,,,,,,,Patient presents with symptoms of nausea associated with Ulcer.
+,Heart Disease,shortness of breath,,,,,,David Cunningham,,Female,86,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,None,healthy,,,,,,Ana Griffin,,Male,41,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Asthma,"coughing, coughing, shortness of breath, coughing",,,,,,Christopher Sullivan,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, shortness of breath, coughing associated with Asthma."
+,Hypertension,"headache, headache, nosebleeds, nosebleeds",,,,,,Michael Bishop,,Male,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, nosebleeds, nosebleeds associated with Hypertension."
+,None,no symptoms,,,,,,Kristy Green,,Male,74,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Ulcer,"stomach pain, bloating, stomach pain",,,,,,Brian Medina,,Male,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating, stomach pain associated with Ulcer."
+,Asthma,"coughing, shortness of breath, wheezing, wheezing",,,,,,Shelby Lambert,,Male,53,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, shortness of breath, wheezing, wheezing associated with Asthma."
+,Typhoid,rash,,,,,,Tammy Wilkinson,,Female,59,,,,,,,,,,,,,,,,Patient presents with symptoms of rash associated with Typhoid.
+,Diabetes,"blurred vision, fatigue, frequent urination",,,,,,Anna Yu,,Female,87,,,,,,,,,,,,,,,,"Patient presents with symptoms of blurred vision, fatigue, frequent urination associated with Diabetes."
+,Heart Disease,"shortness of breath, fatigue, shortness of breath, shortness of breath",,,,,,Jeffrey Anderson,,Female,50,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, fatigue, shortness of breath, shortness of breath associated with Heart Disease."
+,Asthma,"chest tightness, coughing, shortness of breath",,,,,,Peter Barnes,,Male,83,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest tightness, coughing, shortness of breath associated with Asthma."
+,Malaria,"headache, chills, fever",,,,,,Angela Joseph,,Female,55,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, chills, fever associated with Malaria."
+,Heart Disease,"fatigue, irregular heartbeat",,,,,,David Jones,,Male,40,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+,None,"healthy, healthy",,,,,,Christine Mcdonald,,Female,69,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Hypertension,"shortness of breath, nosebleeds",,,,,,Peter Morrison,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, nosebleeds associated with Hypertension."
+,Diabetes,frequent urination,,,,,,Roberta Robinson,,Male,39,,,,,,,,,,,,,,,,Patient presents with symptoms of frequent urination associated with Diabetes.
+,HIV,"weight loss, night sweats, night sweats",,,,,,Jackson Davis,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, night sweats, night sweats associated with HIV."
+,Malaria,"headache, muscle pain",,,,,,Michael Fuller,,Male,89,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, muscle pain associated with Malaria."
+,Heart Disease,"chest pain, irregular heartbeat, fatigue",,,,,,Ashley Simmons,,Female,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of chest pain, irregular heartbeat, fatigue associated with Heart Disease."
+,Heart Disease,"irregular heartbeat, shortness of breath",,,,,,Zachary Jackson,,Male,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, shortness of breath associated with Heart Disease."
+,COPD,chest tightness,,,,,,Andrew Snyder,,Male,51,,,,,,,,,,,,,,,,Patient presents with symptoms of chest tightness associated with COPD.
+,Malaria,"muscle pain, muscle pain",,,,,,Johnathan Castillo,,Female,45,,,,,,,,,,,,,,,,"Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+,HIV,swollen lymph nodes,,,,,,Ariel Smith,,Female,24,,,,,,,,,,,,,,,,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+,Hypertension,shortness of breath,,,,,,Matthew Young,,Male,61,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Hypertension.
+,HIV,"fever, swollen lymph nodes, swollen lymph nodes, weight loss",,,,,,Taylor Simmons,,Female,72,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, swollen lymph nodes, swollen lymph nodes, weight loss associated with HIV."
+,Malaria,"chills, chills, fever, fever",,,,,,Chad Torres,,Male,26,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, chills, fever, fever associated with Malaria."
+,Asthma,"shortness of breath, coughing",,,,,,John Ayala,,Male,79,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, coughing associated with Asthma."
+,None,"healthy, healthy",,,,,,Penny Griffin,,Female,66,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Heart Disease,"irregular heartbeat, irregular heartbeat, fatigue",,,,,,Sarah Jones,,Female,81,,,,,,,,,,,,,,,,"Patient presents with symptoms of irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+,HIV,fever,,,,,,Jose Pierce,,Female,18,,,,,,,,,,,,,,,,Patient presents with symptoms of fever associated with HIV.
+,None,no symptoms,,,,,,Julie Grimes,,Male,86,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,COPD,"shortness of breath, shortness of breath",,,,,,Miss Shannon Carlson,,Female,36,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+,Diabetes,"frequent urination, blurred vision",,,,,,Timothy Dixon,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of frequent urination, blurred vision associated with Diabetes."
+,None,no symptoms,,,,,,Daniel Hale,,Male,35,,,,,,,,,,,,,,,,Patient presents with symptoms of no symptoms associated with None.
+,Hypertension,"headache, headache, nosebleeds, nosebleeds",,,,,,Patrick Phillips,,Male,71,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache, nosebleeds, nosebleeds associated with Hypertension."
+,Malaria,"chills, muscle pain",,,,,,Alexis Shah,,Female,49,,,,,,,,,,,,,,,,"Patient presents with symptoms of chills, muscle pain associated with Malaria."
+,Asthma,"coughing, coughing, chest tightness, coughing",,,,,,Jennifer Gregory,,Male,59,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, coughing, chest tightness, coughing associated with Asthma."
+,Malaria,"headache, fever",,,,,,Joseph Williams,,Male,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, fever associated with Malaria."
+,Ulcer,"bloating, bloating, vomiting",,,,,,Cody Green,,Male,48,,,,,,,,,,,,,,,,"Patient presents with symptoms of bloating, bloating, vomiting associated with Ulcer."
+,Heart Disease,shortness of breath,,,,,,Nicole Johnson,,Female,36,,,,,,,,,,,,,,,,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+,Malaria,"headache, headache",,,,,,Charles Norton,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, headache associated with Malaria."
+,HIV,"weight loss, fever, weight loss",,,,,,Tina Payne,,Male,68,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, fever, weight loss associated with HIV."
+,Asthma,"coughing, chest tightness",,,,,,Andrew Short,,Female,39,,,,,,,,,,,,,,,,"Patient presents with symptoms of coughing, chest tightness associated with Asthma."
+,Typhoid,abdominal pain,,,,,,Anthony Chen,,Male,20,,,,,,,,,,,,,,,,Patient presents with symptoms of abdominal pain associated with Typhoid.
+,Ulcer,"stomach pain, bloating, vomiting, stomach pain",,,,,,Alyssa Green,,Male,23,,,,,,,,,,,,,,,,"Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+,Malaria,"headache, fever, fever, chills",,,,,,Joseph Reyes,,Female,34,,,,,,,,,,,,,,,,"Patient presents with symptoms of headache, fever, fever, chills associated with Malaria."
+,HIV,"night sweats, weight loss, weight loss, swollen lymph nodes",,,,,,Megan Weber,,Male,38,,,,,,,,,,,,,,,,"Patient presents with symptoms of night sweats, weight loss, weight loss, swollen lymph nodes associated with HIV."
+,Typhoid,"abdominal pain, rash, rash, abdominal pain",,,,,,Marcus Vega,,Female,54,,,,,,,,,,,,,,,,"Patient presents with symptoms of abdominal pain, rash, rash, abdominal pain associated with Typhoid."
+,Heart Disease,"shortness of breath, chest pain",,,,,,Megan Wright,,Male,47,,,,,,,,,,,,,,,,"Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+,HIV,"swollen lymph nodes, night sweats",,,,,,Ann Colon,,Female,29,,,,,,,,,,,,,,,,"Patient presents with symptoms of swollen lymph nodes, night sweats associated with HIV."
+,Hypertension,"dizziness, nosebleeds",,,,,,Danielle Pace,,Male,30,,,,,,,,,,,,,,,,"Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+,COPD,"wheezing, chest tightness, chest tightness, chest tightness",,,,,,Christopher Huynh,,Male,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, chest tightness, chest tightness, chest tightness associated with COPD."
+,None,"no symptoms, healthy",,,,,,Edward Nelson,,Male,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of no symptoms, healthy associated with None."
+,Heart Disease,"fatigue, fatigue, shortness of breath, irregular heartbeat",,,,,,Kyle Sims,,Female,64,,,,,,,,,,,,,,,,"Patient presents with symptoms of fatigue, fatigue, shortness of breath, irregular heartbeat associated with Heart Disease."
+,HIV,"weight loss, swollen lymph nodes",,,,,,Laura Hart,,Female,88,,,,,,,,,,,,,,,,"Patient presents with symptoms of weight loss, swollen lymph nodes associated with HIV."
+,None,"healthy, healthy",,,,,,Ryan Foster,,Female,78,,,,,,,,,,,,,,,,"Patient presents with symptoms of healthy, healthy associated with None."
+,Typhoid,"fever, rash, rash",,,,,,Robyn Brown,,Male,67,,,,,,,,,,,,,,,,"Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+,Asthma,"wheezing, shortness of breath, wheezing, wheezing",,,,,,Timothy Johnson,,Female,63,,,,,,,,,,,,,,,,"Patient presents with symptoms of wheezing, shortness of breath, wheezing, wheezing associated with Asthma."
+,Diabetes,"increased thirst, blurred vision",,,,,,Joshua Bailey,,Female,51,,,,,,,,,,,,,,,,"Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+,Diabetes,increased thirst,,,,,,Raymond Richardson,,Male,31,,,,,,,,,,,,,,,,Patient presents with symptoms of increased thirst associated with Diabetes.
+,Hypertension,nosebleeds,,,,,,Katrina Zimmerman,,Male,64,,,,,,,,,,,,,,,,Patient presents with symptoms of nosebleeds associated with Hypertension.
+,Heart Disease,irregular heartbeat,,,,,,Matthew Smith,,Female,43,,,,,,,,,,,,,,,,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+,None,healthy,,,,,,Joyce Church,,Male,89,,,,,,,,,,,,,,,,Patient presents with symptoms of healthy associated with None.
+,Typhoid,"rash, fever, abdominal pain",,,,,,Meghan Walters,,Male,75,,,,,,,,,,,,,,,,"Patient presents with symptoms of rash, fever, abdominal pain associated with Typhoid."
+,Hypertension,,,,,,,,,Male,35,,,,,,,,,,,,,,,,
+,Typhoid,,,,,,,,,Male,58,,,,,,,,,,,,,,,,
+,Typhoid,,,,,,,,,Male,70,,,,,,,,,,,,,,,,
+,Hypertension,,,,,,,,,Male,25,,,,,,,,,,,,,,,,
+,Heart Disease,,,,,,,,,Male,45,,,,,,,,,,,,,,,,
+,Malaria,,,,,,,,,Male,25,,,,,,,,,,,,,,,,
+,Malaria,,,,,,,,,Male,75,,,,,,,,,,,,,,,,
+,Typhoid,,,,,,,,,Male,44,,,,,,,,,,,,,,,,
+,Hypertension,,,,,,,,,Female,21,,,,,,,,,,,,,,,,
+,Typhoid,,,,,,,,,Female,23,,,,,,,,,,,,,,,,
+,COPD,,,,,,,,,Male,29,,,,,,,,,,,,,,,,
+,HIV,,,,,,,,,Male,70,,,,,,,,,,,,,,,,
+,Diabetes,,,,,,,,,Male,43,,,,,,,,,,,,,,,,
+,Malaria,,,,,,,,,Male,32,,,,,,,,,,,,,,,,
+,Malaria,,,,,,,,,Male,36,,,,,,,,,,,,,,,,
+,Malaria,,,,,,,,,Female,48,,,,,,,,,,,,,,,,
+,,,,,,,,,,gender,age,,,,,,,,,,,,,,,,

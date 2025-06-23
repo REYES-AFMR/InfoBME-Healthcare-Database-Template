@@ -1,0 +1,1001 @@
+patient_id,name,age,gender,ethnicity,medical_condition,symptoms,clinical_notes
+1,Michelle Bass,51,Male,Caucasian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+2,Ashley Carpenter,86,Female,Caucasian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+3,Courtney Jones,79,Male,Asian,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+4,Roy Combs,71,Female,Other,COPD,"chronic cough, chronic cough, wheezing, chronic cough","Patient presents with symptoms of chronic cough, chronic cough, wheezing, chronic cough associated with COPD."
+5,Patrick Snow,65,Male,Asian,Hypertension,"headache, nosebleeds","Patient presents with symptoms of headache, nosebleeds associated with Hypertension."
+6,Lisa Baker,55,Male,Other,HIV,"weight loss, weight loss, weight loss","Patient presents with symptoms of weight loss, weight loss, weight loss associated with HIV."
+7,Kimberly Newman,90,Female,Caucasian,HIV,"night sweats, weight loss","Patient presents with symptoms of night sweats, weight loss associated with HIV."
+8,Kathleen Cohen,39,Female,African American,Typhoid,"rash, abdominal pain, weakness, rash","Patient presents with symptoms of rash, abdominal pain, weakness, rash associated with Typhoid."
+9,Brandon Mclean,89,Male,Caucasian,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+10,Maria Morales,43,Female,Other,Diabetes,"increased thirst, fatigue, frequent urination, fatigue","Patient presents with symptoms of increased thirst, fatigue, frequent urination, fatigue associated with Diabetes."
+11,Jennifer Burke,84,Female,Other,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+12,Mrs. Lauren Sandoval,80,Male,Hispanic,Ulcer,"vomiting, vomiting, nausea","Patient presents with symptoms of vomiting, vomiting, nausea associated with Ulcer."
+13,Andre Romero,61,Male,Caucasian,Hypertension,"shortness of breath, headache, nosebleeds, dizziness","Patient presents with symptoms of shortness of breath, headache, nosebleeds, dizziness associated with Hypertension."
+14,Katherine Smith,81,Male,Hispanic,Asthma,"chest tightness, shortness of breath, shortness of breath, wheezing","Patient presents with symptoms of chest tightness, shortness of breath, shortness of breath, wheezing associated with Asthma."
+15,Brittany Griffin,48,Female,Other,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+16,Kristin Santos,84,Male,African American,Diabetes,"increased thirst, frequent urination","Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+17,Ralph Acevedo,58,Male,African American,HIV,"weight loss, weight loss, weight loss","Patient presents with symptoms of weight loss, weight loss, weight loss associated with HIV."
+18,Karen Robinson,88,Male,Asian,Malaria,"chills, chills, muscle pain, fever","Patient presents with symptoms of chills, chills, muscle pain, fever associated with Malaria."
+19,Mark Crawford,25,Male,African American,Heart Disease,"chest pain, shortness of breath","Patient presents with symptoms of chest pain, shortness of breath associated with Heart Disease."
+20,Brooke Collins,58,Male,Caucasian,Ulcer,"stomach pain, stomach pain, bloating, vomiting","Patient presents with symptoms of stomach pain, stomach pain, bloating, vomiting associated with Ulcer."
+21,Donald Woodward,45,Male,Hispanic,Typhoid,"fever, weakness","Patient presents with symptoms of fever, weakness associated with Typhoid."
+22,Kristin Duncan,78,Male,Asian,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+23,Austin Harrison,36,Male,Caucasian,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+24,Christopher Gray,36,Female,Asian,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+25,Daniel Lam,77,Male,African American,Diabetes,"increased thirst, frequent urination, frequent urination","Patient presents with symptoms of increased thirst, frequent urination, frequent urination associated with Diabetes."
+26,Jamie Hamilton,64,Female,African American,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+27,Robert Lewis,87,Female,Other,Hypertension,"dizziness, headache, headache, nosebleeds","Patient presents with symptoms of dizziness, headache, headache, nosebleeds associated with Hypertension."
+28,Pamela Taylor,33,Male,Other,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+29,Wanda Fowler,43,Male,Caucasian,Diabetes,increased thirst,Patient presents with symptoms of increased thirst associated with Diabetes.
+30,Amanda Garcia,40,Female,Other,Ulcer,"stomach pain, stomach pain, stomach pain, nausea","Patient presents with symptoms of stomach pain, stomach pain, stomach pain, nausea associated with Ulcer."
+31,Brittany Russell,82,Female,Hispanic,Diabetes,"frequent urination, increased thirst, frequent urination","Patient presents with symptoms of frequent urination, increased thirst, frequent urination associated with Diabetes."
+32,Jordan Nixon,59,Male,Other,COPD,"chronic cough, chronic cough, wheezing, shortness of breath","Patient presents with symptoms of chronic cough, chronic cough, wheezing, shortness of breath associated with COPD."
+33,Faith Pratt,21,Female,African American,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+34,Felicia Reed,37,Female,Caucasian,Diabetes,"fatigue, fatigue, increased thirst","Patient presents with symptoms of fatigue, fatigue, increased thirst associated with Diabetes."
+35,Deborah Tran,68,Male,Caucasian,Asthma,"chest tightness, wheezing","Patient presents with symptoms of chest tightness, wheezing associated with Asthma."
+36,Scott Dunn,59,Female,African American,COPD,"chronic cough, wheezing","Patient presents with symptoms of chronic cough, wheezing associated with COPD."
+37,Ivan Shaffer,35,Male,Caucasian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+38,Stephen Miller,33,Female,African American,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+39,Lisa Richardson,60,Female,African American,Malaria,"headache, headache, chills, headache","Patient presents with symptoms of headache, headache, chills, headache associated with Malaria."
+40,Sara Craig,35,Male,Caucasian,COPD,"shortness of breath, chronic cough","Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+41,Joanna White,81,Male,Asian,Diabetes,"blurred vision, increased thirst, blurred vision","Patient presents with symptoms of blurred vision, increased thirst, blurred vision associated with Diabetes."
+42,William Wu,59,Male,Caucasian,Heart Disease,"chest pain, chest pain, chest pain","Patient presents with symptoms of chest pain, chest pain, chest pain associated with Heart Disease."
+43,Alexander Barnes,21,Female,African American,HIV,"swollen lymph nodes, night sweats, weight loss, weight loss","Patient presents with symptoms of swollen lymph nodes, night sweats, weight loss, weight loss associated with HIV."
+44,Christina Rodriguez,67,Female,Other,Asthma,wheezing,Patient presents with symptoms of wheezing associated with Asthma.
+45,Eric Patton,23,Male,Other,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+46,Jessica Fleming,41,Female,Caucasian,Diabetes,"increased thirst, frequent urination","Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+47,Christine Hinton,86,Male,Other,Diabetes,"fatigue, frequent urination, blurred vision, frequent urination","Patient presents with symptoms of fatigue, frequent urination, blurred vision, frequent urination associated with Diabetes."
+48,David Vargas,40,Female,Hispanic,HIV,"night sweats, night sweats, weight loss","Patient presents with symptoms of night sweats, night sweats, weight loss associated with HIV."
+49,Amanda Brady,60,Male,Asian,HIV,"weight loss, swollen lymph nodes, night sweats, swollen lymph nodes","Patient presents with symptoms of weight loss, swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+50,Jeffrey Russell,47,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+51,Natalie Brown,69,Male,Other,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+52,Nicole Berger,32,Male,Hispanic,HIV,"swollen lymph nodes, night sweats","Patient presents with symptoms of swollen lymph nodes, night sweats associated with HIV."
+53,Maria Scott,19,Male,Caucasian,Ulcer,"bloating, nausea, stomach pain, stomach pain","Patient presents with symptoms of bloating, nausea, stomach pain, stomach pain associated with Ulcer."
+54,Martin Yu,30,Female,African American,COPD,"chest tightness, wheezing, chest tightness","Patient presents with symptoms of chest tightness, wheezing, chest tightness associated with COPD."
+55,Alan Rhodes,69,Female,Other,Malaria,"fever, chills, chills","Patient presents with symptoms of fever, chills, chills associated with Malaria."
+56,Daniel King,81,Male,Other,Ulcer,"stomach pain, stomach pain, vomiting","Patient presents with symptoms of stomach pain, stomach pain, vomiting associated with Ulcer."
+57,Joshua Gonzales,49,Male,Hispanic,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+58,Dawn Brown,20,Female,Asian,Heart Disease,"chest pain, shortness of breath","Patient presents with symptoms of chest pain, shortness of breath associated with Heart Disease."
+59,Sandra Brown,82,Male,Asian,Malaria,"muscle pain, fever, fever, chills","Patient presents with symptoms of muscle pain, fever, fever, chills associated with Malaria."
+60,Mallory Stone,68,Female,Caucasian,Hypertension,"dizziness, dizziness, dizziness, headache","Patient presents with symptoms of dizziness, dizziness, dizziness, headache associated with Hypertension."
+61,Adrian Thomas,59,Female,Caucasian,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+62,Daniel Lopez,81,Male,Other,COPD,"chronic cough, shortness of breath, chest tightness, wheezing","Patient presents with symptoms of chronic cough, shortness of breath, chest tightness, wheezing associated with COPD."
+63,Clayton Reyes,68,Female,Caucasian,Typhoid,"weakness, weakness","Patient presents with symptoms of weakness, weakness associated with Typhoid."
+64,Christopher Rangel,18,Female,African American,COPD,"wheezing, chronic cough","Patient presents with symptoms of wheezing, chronic cough associated with COPD."
+65,Kelly Parker,59,Female,Caucasian,Malaria,"muscle pain, chills, muscle pain, headache","Patient presents with symptoms of muscle pain, chills, muscle pain, headache associated with Malaria."
+66,Paul Miller,55,Female,Hispanic,Hypertension,"nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+67,Parker Cunningham,78,Female,Asian,Typhoid,"rash, rash, fever","Patient presents with symptoms of rash, rash, fever associated with Typhoid."
+68,David Salinas,28,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+69,William Owen,69,Male,Other,Typhoid,"rash, rash, abdominal pain","Patient presents with symptoms of rash, rash, abdominal pain associated with Typhoid."
+70,Jeffery Jordan,70,Male,Asian,Hypertension,"headache, dizziness","Patient presents with symptoms of headache, dizziness associated with Hypertension."
+71,Jonathan Sanchez,22,Male,Caucasian,Ulcer,"nausea, vomiting, nausea","Patient presents with symptoms of nausea, vomiting, nausea associated with Ulcer."
+72,Helen Wilson,57,Female,African American,Malaria,headache,Patient presents with symptoms of headache associated with Malaria.
+73,Derrick Patterson,90,Male,Asian,Ulcer,"bloating, nausea, bloating, stomach pain","Patient presents with symptoms of bloating, nausea, bloating, stomach pain associated with Ulcer."
+74,Matthew Butler,32,Female,Asian,Hypertension,"nosebleeds, headache","Patient presents with symptoms of nosebleeds, headache associated with Hypertension."
+75,Sandra Nelson,34,Male,Hispanic,Heart Disease,"irregular heartbeat, chest pain","Patient presents with symptoms of irregular heartbeat, chest pain associated with Heart Disease."
+76,Thomas White,68,Female,Hispanic,Malaria,"chills, fever, chills, muscle pain","Patient presents with symptoms of chills, fever, chills, muscle pain associated with Malaria."
+77,Thomas Reed,48,Male,Hispanic,COPD,"chronic cough, chest tightness, chronic cough","Patient presents with symptoms of chronic cough, chest tightness, chronic cough associated with COPD."
+78,Michelle Golden,31,Female,Other,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+79,Sabrina Jones,35,Female,Asian,Ulcer,"stomach pain, bloating","Patient presents with symptoms of stomach pain, bloating associated with Ulcer."
+80,Mr. Wesley Ramos Jr.,43,Male,Caucasian,COPD,chest tightness,Patient presents with symptoms of chest tightness associated with COPD.
+81,Rick Ortega,62,Female,Asian,Malaria,"headache, muscle pain, fever","Patient presents with symptoms of headache, muscle pain, fever associated with Malaria."
+82,Christopher Logan,19,Male,Hispanic,HIV,"night sweats, fever, swollen lymph nodes, weight loss","Patient presents with symptoms of night sweats, fever, swollen lymph nodes, weight loss associated with HIV."
+83,Lisa Graham,33,Male,Other,COPD,"chest tightness, chronic cough, shortness of breath","Patient presents with symptoms of chest tightness, chronic cough, shortness of breath associated with COPD."
+84,Gregory Figueroa,29,Male,Asian,Heart Disease,"chest pain, chest pain","Patient presents with symptoms of chest pain, chest pain associated with Heart Disease."
+85,Paul Phillips,73,Male,Caucasian,Typhoid,"rash, rash, weakness, fever","Patient presents with symptoms of rash, rash, weakness, fever associated with Typhoid."
+86,Eric Blair,47,Male,Caucasian,Ulcer,"bloating, vomiting, stomach pain, stomach pain","Patient presents with symptoms of bloating, vomiting, stomach pain, stomach pain associated with Ulcer."
+87,Christina Olson,64,Female,Hispanic,Asthma,"chest tightness, chest tightness, shortness of breath, wheezing","Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, wheezing associated with Asthma."
+88,Joshua Perez,59,Male,Asian,Malaria,"muscle pain, muscle pain, fever","Patient presents with symptoms of muscle pain, muscle pain, fever associated with Malaria."
+89,Wayne Woods,32,Female,African American,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+90,John West,72,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+91,Craig Jimenez,50,Female,Caucasian,Malaria,"muscle pain, muscle pain, muscle pain, fever","Patient presents with symptoms of muscle pain, muscle pain, muscle pain, fever associated with Malaria."
+92,Brandi Smith,54,Male,Hispanic,Hypertension,"headache, shortness of breath","Patient presents with symptoms of headache, shortness of breath associated with Hypertension."
+93,Jason Hines,40,Female,African American,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+94,Lori Brown,51,Male,African American,Asthma,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with Asthma."
+95,Mark Soto,64,Female,Other,Hypertension,"nosebleeds, shortness of breath, headache","Patient presents with symptoms of nosebleeds, shortness of breath, headache associated with Hypertension."
+96,Cassandra Wells,84,Male,African American,Hypertension,"nosebleeds, shortness of breath","Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+97,Kristina Lewis,45,Male,Asian,Diabetes,"fatigue, blurred vision","Patient presents with symptoms of fatigue, blurred vision associated with Diabetes."
+98,Cassidy Evans,55,Female,Hispanic,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+99,Derek Berry,29,Female,Hispanic,Heart Disease,"chest pain, shortness of breath, shortness of breath, chest pain","Patient presents with symptoms of chest pain, shortness of breath, shortness of breath, chest pain associated with Heart Disease."
+100,Teresa Powers,27,Male,Hispanic,Diabetes,"increased thirst, blurred vision, blurred vision","Patient presents with symptoms of increased thirst, blurred vision, blurred vision associated with Diabetes."
+101,Gregory Townsend,24,Male,Other,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+102,Jason Rodriguez,53,Male,African American,Hypertension,"headache, nosebleeds, dizziness","Patient presents with symptoms of headache, nosebleeds, dizziness associated with Hypertension."
+103,Carlos Franco,79,Female,Caucasian,Typhoid,"fever, rash, rash","Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+104,Dr. Alan Fitzgerald,69,Female,Hispanic,Hypertension,"dizziness, shortness of breath, nosebleeds","Patient presents with symptoms of dizziness, shortness of breath, nosebleeds associated with Hypertension."
+105,Kelly Tate,68,Female,African American,Asthma,"coughing, coughing, coughing, shortness of breath","Patient presents with symptoms of coughing, coughing, coughing, shortness of breath associated with Asthma."
+106,Courtney Gonzalez,79,Female,Hispanic,Hypertension,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with Hypertension."
+107,Gloria Cisneros,72,Male,Caucasian,Heart Disease,"shortness of breath, shortness of breath, fatigue","Patient presents with symptoms of shortness of breath, shortness of breath, fatigue associated with Heart Disease."
+108,Sarah Griffin,34,Female,Asian,Hypertension,"dizziness, shortness of breath, dizziness, nosebleeds","Patient presents with symptoms of dizziness, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+109,Steven Bautista,54,Male,Caucasian,Malaria,"muscle pain, headache","Patient presents with symptoms of muscle pain, headache associated with Malaria."
+110,Miss Tiffany Williamson,31,Male,Asian,Asthma,"chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+111,Connie Martinez,59,Female,African American,Typhoid,"weakness, abdominal pain","Patient presents with symptoms of weakness, abdominal pain associated with Typhoid."
+112,Anita Ward,28,Female,Caucasian,Hypertension,"nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+113,Joshua Mahoney,34,Female,Asian,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+114,Amanda Diaz,88,Male,Other,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+115,Patricia Garcia,46,Male,African American,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+116,Reginald Foley,28,Male,African American,Hypertension,"headache, dizziness, headache","Patient presents with symptoms of headache, dizziness, headache associated with Hypertension."
+117,David Davis,57,Female,Asian,Malaria,"chills, headache, chills, fever","Patient presents with symptoms of chills, headache, chills, fever associated with Malaria."
+118,Clifford Harmon,62,Female,Hispanic,Typhoid,"abdominal pain, abdominal pain, abdominal pain, weakness","Patient presents with symptoms of abdominal pain, abdominal pain, abdominal pain, weakness associated with Typhoid."
+119,Kyle Brooks,55,Male,Hispanic,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+120,James Wolf,82,Female,Caucasian,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+121,Anthony Patel,33,Male,Other,Ulcer,"stomach pain, vomiting, bloating","Patient presents with symptoms of stomach pain, vomiting, bloating associated with Ulcer."
+122,Christopher Lambert,64,Male,Other,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+123,Connie Copeland,65,Male,Other,Malaria,"chills, muscle pain, muscle pain","Patient presents with symptoms of chills, muscle pain, muscle pain associated with Malaria."
+124,Tina Osborne,89,Male,Other,COPD,"chronic cough, chronic cough","Patient presents with symptoms of chronic cough, chronic cough associated with COPD."
+125,Benjamin Cross,28,Male,Hispanic,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+126,Edward Mendez,55,Female,Asian,COPD,"chest tightness, chronic cough, shortness of breath, wheezing","Patient presents with symptoms of chest tightness, chronic cough, shortness of breath, wheezing associated with COPD."
+127,Courtney Perry,58,Male,Other,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+128,Melinda Conner,48,Female,Caucasian,Asthma,"wheezing, shortness of breath","Patient presents with symptoms of wheezing, shortness of breath associated with Asthma."
+129,Ryan Fleming,29,Female,Asian,Asthma,"wheezing, wheezing","Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+130,Erin Barr,85,Female,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+131,Christina Walsh,26,Male,Hispanic,Asthma,"chest tightness, shortness of breath, coughing, chest tightness","Patient presents with symptoms of chest tightness, shortness of breath, coughing, chest tightness associated with Asthma."
+132,James Sharp,26,Male,Hispanic,Hypertension,"nosebleeds, nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+133,Hayley Doyle,39,Male,Other,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+134,Michael Ellis,71,Male,Asian,Heart Disease,"shortness of breath, irregular heartbeat","Patient presents with symptoms of shortness of breath, irregular heartbeat associated with Heart Disease."
+135,Jennifer Brown,31,Male,Other,Asthma,"chest tightness, chest tightness","Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+136,Derek Cortez,55,Female,Hispanic,None,healthy,Patient presents with symptoms of healthy associated with None.
+137,Sean Wolf,71,Female,Hispanic,Hypertension,"shortness of breath, headache, headache, nosebleeds","Patient presents with symptoms of shortness of breath, headache, headache, nosebleeds associated with Hypertension."
+138,Kenneth Hines,33,Male,Caucasian,Hypertension,"headache, headache, shortness of breath, headache","Patient presents with symptoms of headache, headache, shortness of breath, headache associated with Hypertension."
+139,Kim Roberts,78,Female,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+140,Christopher Brown,66,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+141,Carl Parker,42,Female,African American,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+142,Amy Young,84,Male,Caucasian,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+143,Jeffrey Flores,63,Male,Asian,Asthma,"wheezing, wheezing, chest tightness","Patient presents with symptoms of wheezing, wheezing, chest tightness associated with Asthma."
+144,Jodi Barber,42,Male,Asian,Ulcer,"nausea, vomiting, stomach pain, bloating","Patient presents with symptoms of nausea, vomiting, stomach pain, bloating associated with Ulcer."
+145,Mark Hays,83,Female,African American,Typhoid,weakness,Patient presents with symptoms of weakness associated with Typhoid.
+146,Michelle Choi MD,61,Female,African American,Malaria,"chills, chills, chills","Patient presents with symptoms of chills, chills, chills associated with Malaria."
+147,Joseph Ray,75,Female,Other,Asthma,"wheezing, wheezing, wheezing","Patient presents with symptoms of wheezing, wheezing, wheezing associated with Asthma."
+148,Christopher Shields,20,Female,African American,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+149,Katrina Hoover,27,Male,Hispanic,COPD,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+150,Carolyn Jones,61,Male,Other,Diabetes,"blurred vision, increased thirst, increased thirst","Patient presents with symptoms of blurred vision, increased thirst, increased thirst associated with Diabetes."
+151,Joseph Wong,59,Male,Caucasian,Malaria,"headache, chills","Patient presents with symptoms of headache, chills associated with Malaria."
+152,Karen Butler,25,Male,Other,Asthma,"chest tightness, coughing, shortness of breath","Patient presents with symptoms of chest tightness, coughing, shortness of breath associated with Asthma."
+153,Pam Rodriguez,79,Female,Caucasian,Heart Disease,"shortness of breath, shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath associated with Heart Disease."
+154,Joanne Sanders,47,Female,Other,Heart Disease,"chest pain, chest pain, irregular heartbeat","Patient presents with symptoms of chest pain, chest pain, irregular heartbeat associated with Heart Disease."
+155,Brian Thompson,68,Female,Other,Diabetes,increased thirst,Patient presents with symptoms of increased thirst associated with Diabetes.
+156,Julie Mendez,62,Female,Caucasian,Typhoid,"rash, rash, fever","Patient presents with symptoms of rash, rash, fever associated with Typhoid."
+157,Lauren Martin,41,Male,African American,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+158,Gabriel Mitchell,33,Female,Caucasian,HIV,"swollen lymph nodes, swollen lymph nodes, fever, swollen lymph nodes","Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, fever, swollen lymph nodes associated with HIV."
+159,Cindy Johnson,73,Male,Caucasian,Malaria,"muscle pain, muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+160,Deanna Lucas,39,Female,Asian,Malaria,"muscle pain, chills","Patient presents with symptoms of muscle pain, chills associated with Malaria."
+161,Deanna Shaw,23,Female,Hispanic,Ulcer,"vomiting, bloating","Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+162,Shelia Thomas,79,Female,Caucasian,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+163,Chad Edwards,72,Female,Asian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+164,Elizabeth Copeland,36,Male,Hispanic,Ulcer,"nausea, stomach pain, vomiting, nausea","Patient presents with symptoms of nausea, stomach pain, vomiting, nausea associated with Ulcer."
+165,Emily Howard,61,Male,Caucasian,Malaria,"fever, chills","Patient presents with symptoms of fever, chills associated with Malaria."
+166,Jeremy Jackson,20,Female,African American,Hypertension,"headache, headache, nosebleeds, dizziness","Patient presents with symptoms of headache, headache, nosebleeds, dizziness associated with Hypertension."
+167,Robin Williams,86,Female,Asian,Typhoid,"rash, weakness","Patient presents with symptoms of rash, weakness associated with Typhoid."
+168,Dominic Mckenzie,79,Female,Hispanic,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+169,Danny Rice,56,Female,Asian,Hypertension,"dizziness, dizziness, shortness of breath","Patient presents with symptoms of dizziness, dizziness, shortness of breath associated with Hypertension."
+170,Andrea Ellis DVM,39,Female,Asian,HIV,"weight loss, night sweats, fever, night sweats","Patient presents with symptoms of weight loss, night sweats, fever, night sweats associated with HIV."
+171,Robert Pierce,42,Female,Asian,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+172,Brenda Anderson,39,Female,Asian,HIV,"fever, night sweats","Patient presents with symptoms of fever, night sweats associated with HIV."
+173,Jeremy Alvarez,86,Male,African American,Heart Disease,"fatigue, fatigue","Patient presents with symptoms of fatigue, fatigue associated with Heart Disease."
+174,Timothy Anderson,22,Female,Hispanic,Heart Disease,"fatigue, fatigue, chest pain, fatigue","Patient presents with symptoms of fatigue, fatigue, chest pain, fatigue associated with Heart Disease."
+175,Kristen Reynolds,46,Female,Hispanic,Asthma,wheezing,Patient presents with symptoms of wheezing associated with Asthma.
+176,Dr. Renee Turner,44,Male,Caucasian,Diabetes,"frequent urination, frequent urination, increased thirst, blurred vision","Patient presents with symptoms of frequent urination, frequent urination, increased thirst, blurred vision associated with Diabetes."
+177,Ashley Malone,80,Female,Other,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+178,Caroline Hunt,49,Male,Asian,Malaria,muscle pain,Patient presents with symptoms of muscle pain associated with Malaria.
+179,Michael Maxwell,50,Male,Asian,Typhoid,"abdominal pain, fever, fever","Patient presents with symptoms of abdominal pain, fever, fever associated with Typhoid."
+180,Mrs. Stephanie Russell MD,43,Male,African American,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+181,Garrett Holmes,52,Male,African American,Hypertension,"nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+182,Christopher Wilson,50,Female,Hispanic,Hypertension,"dizziness, nosebleeds, shortness of breath, shortness of breath","Patient presents with symptoms of dizziness, nosebleeds, shortness of breath, shortness of breath associated with Hypertension."
+183,Matthew Perez,56,Male,Other,Typhoid,"rash, rash, weakness","Patient presents with symptoms of rash, rash, weakness associated with Typhoid."
+184,Dawn Taylor,53,Female,Hispanic,Typhoid,"fever, fever","Patient presents with symptoms of fever, fever associated with Typhoid."
+185,John Austin,84,Female,Asian,Diabetes,"increased thirst, fatigue","Patient presents with symptoms of increased thirst, fatigue associated with Diabetes."
+186,Eugene Rojas,75,Female,Asian,Diabetes,"blurred vision, increased thirst, increased thirst","Patient presents with symptoms of blurred vision, increased thirst, increased thirst associated with Diabetes."
+187,Vanessa Jarvis,32,Male,Asian,Malaria,"muscle pain, headache, headache, fever","Patient presents with symptoms of muscle pain, headache, headache, fever associated with Malaria."
+188,Christine Olson,45,Male,African American,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+189,Michael Miller,21,Female,African American,Malaria,fever,Patient presents with symptoms of fever associated with Malaria.
+190,Theodore Griffin,89,Male,Asian,COPD,"wheezing, chest tightness, chest tightness","Patient presents with symptoms of wheezing, chest tightness, chest tightness associated with COPD."
+191,John Hubbard,56,Female,Hispanic,Heart Disease,"fatigue, shortness of breath","Patient presents with symptoms of fatigue, shortness of breath associated with Heart Disease."
+192,Mrs. Amanda Jones DVM,78,Female,African American,COPD,shortness of breath,Patient presents with symptoms of shortness of breath associated with COPD.
+193,Marie Miller,88,Male,Asian,Malaria,"headache, muscle pain, headache, chills","Patient presents with symptoms of headache, muscle pain, headache, chills associated with Malaria."
+194,Christopher Davis,51,Male,African American,Diabetes,"frequent urination, frequent urination, increased thirst","Patient presents with symptoms of frequent urination, frequent urination, increased thirst associated with Diabetes."
+195,Casey Reynolds,89,Female,Asian,Heart Disease,"chest pain, shortness of breath, irregular heartbeat, fatigue","Patient presents with symptoms of chest pain, shortness of breath, irregular heartbeat, fatigue associated with Heart Disease."
+196,Joshua Patton,85,Female,Caucasian,Typhoid,"abdominal pain, fever, rash","Patient presents with symptoms of abdominal pain, fever, rash associated with Typhoid."
+197,Amber Johnson,64,Female,African American,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+198,Christopher Hicks,78,Male,Other,Hypertension,"nosebleeds, shortness of breath","Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+199,Steven Wilcox,90,Male,African American,Ulcer,"stomach pain, nausea, vomiting","Patient presents with symptoms of stomach pain, nausea, vomiting associated with Ulcer."
+200,Kimberly Perez,23,Female,Asian,Hypertension,dizziness,Patient presents with symptoms of dizziness associated with Hypertension.
+201,Sheryl Williams,48,Male,Asian,COPD,shortness of breath,Patient presents with symptoms of shortness of breath associated with COPD.
+202,Jody Miller,54,Female,Hispanic,Hypertension,"nosebleeds, headache, shortness of breath, nosebleeds","Patient presents with symptoms of nosebleeds, headache, shortness of breath, nosebleeds associated with Hypertension."
+203,David Petersen,68,Male,Hispanic,COPD,"chest tightness, chronic cough, chest tightness","Patient presents with symptoms of chest tightness, chronic cough, chest tightness associated with COPD."
+204,Stuart Pierce,50,Male,Caucasian,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+205,Andrea Griffin,65,Male,African American,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+206,Cynthia Pacheco,21,Female,Caucasian,Ulcer,"stomach pain, nausea, stomach pain, bloating","Patient presents with symptoms of stomach pain, nausea, stomach pain, bloating associated with Ulcer."
+207,Tammy Farmer,85,Female,Caucasian,Heart Disease,"chest pain, irregular heartbeat","Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+208,Kyle Villa,45,Female,Asian,Malaria,"chills, chills, muscle pain","Patient presents with symptoms of chills, chills, muscle pain associated with Malaria."
+209,Charles Davenport,64,Male,African American,Asthma,"shortness of breath, wheezing, wheezing","Patient presents with symptoms of shortness of breath, wheezing, wheezing associated with Asthma."
+210,Debbie Cole,74,Male,Caucasian,Typhoid,"weakness, fever","Patient presents with symptoms of weakness, fever associated with Typhoid."
+211,Gregory Kidd,24,Male,Asian,None,healthy,Patient presents with symptoms of healthy associated with None.
+212,Nathan Swanson,90,Female,Caucasian,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+213,Peter Brown,75,Female,African American,COPD,"shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+214,Janice Mendez,34,Male,African American,Malaria,"fever, fever","Patient presents with symptoms of fever, fever associated with Malaria."
+215,Michelle Jimenez,30,Male,African American,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+216,Michael Wright,66,Male,African American,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+217,Donna Elliott,35,Female,Caucasian,Ulcer,"vomiting, bloating, nausea, vomiting","Patient presents with symptoms of vomiting, bloating, nausea, vomiting associated with Ulcer."
+218,Benjamin Garcia,24,Female,African American,None,healthy,Patient presents with symptoms of healthy associated with None.
+219,Monica Blankenship,22,Female,Caucasian,Typhoid,"weakness, rash","Patient presents with symptoms of weakness, rash associated with Typhoid."
+220,Matthew Harris DVM,78,Male,Other,COPD,"shortness of breath, chest tightness, shortness of breath, chronic cough","Patient presents with symptoms of shortness of breath, chest tightness, shortness of breath, chronic cough associated with COPD."
+221,Mrs. Sherry Stone,79,Female,Caucasian,COPD,"shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, wheezing associated with COPD."
+222,Crystal Clark,79,Female,Caucasian,Typhoid,"weakness, fever, weakness","Patient presents with symptoms of weakness, fever, weakness associated with Typhoid."
+223,Kelsey Moore,51,Female,Hispanic,Hypertension,"dizziness, dizziness","Patient presents with symptoms of dizziness, dizziness associated with Hypertension."
+224,John Dickson,36,Male,Other,HIV,"weight loss, night sweats, fever","Patient presents with symptoms of weight loss, night sweats, fever associated with HIV."
+225,Raven Mitchell,50,Male,Asian,Diabetes,"increased thirst, fatigue, fatigue","Patient presents with symptoms of increased thirst, fatigue, fatigue associated with Diabetes."
+226,Dr. Ryan Jacobs,81,Male,Caucasian,Hypertension,"shortness of breath, nosebleeds, headache","Patient presents with symptoms of shortness of breath, nosebleeds, headache associated with Hypertension."
+227,Jessica Rodriguez,66,Female,Asian,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+228,Tracie Jones,24,Male,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+229,Justin Garcia,26,Male,Hispanic,Ulcer,"stomach pain, vomiting, vomiting","Patient presents with symptoms of stomach pain, vomiting, vomiting associated with Ulcer."
+230,Aaron Mills,25,Male,Asian,Diabetes,"blurred vision, blurred vision, fatigue","Patient presents with symptoms of blurred vision, blurred vision, fatigue associated with Diabetes."
+231,Diana Gross,57,Female,Asian,Typhoid,"rash, weakness, fever, rash","Patient presents with symptoms of rash, weakness, fever, rash associated with Typhoid."
+232,Latasha Harding,53,Male,African American,Ulcer,"bloating, nausea, vomiting","Patient presents with symptoms of bloating, nausea, vomiting associated with Ulcer."
+233,Kayla Thomas,48,Male,Other,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+234,Cheyenne Schultz,21,Female,Caucasian,Asthma,"chest tightness, chest tightness","Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+235,Donna Kennedy,56,Female,African American,Malaria,"chills, headache","Patient presents with symptoms of chills, headache associated with Malaria."
+236,Dustin Medina,58,Female,Asian,Diabetes,"increased thirst, fatigue, frequent urination","Patient presents with symptoms of increased thirst, fatigue, frequent urination associated with Diabetes."
+237,Dustin Rodriguez,77,Female,African American,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+238,Samantha Kemp,34,Male,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+239,Brenda Keller,33,Male,African American,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+240,Noah Hogan,35,Female,Hispanic,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+241,Carl Hanson,55,Female,Hispanic,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+242,Maria Castillo,24,Male,Other,Heart Disease,"irregular heartbeat, fatigue, chest pain","Patient presents with symptoms of irregular heartbeat, fatigue, chest pain associated with Heart Disease."
+243,Michael Dunn,32,Female,Other,Hypertension,"nosebleeds, shortness of breath, nosebleeds","Patient presents with symptoms of nosebleeds, shortness of breath, nosebleeds associated with Hypertension."
+244,Megan Smith,53,Male,African American,Hypertension,"dizziness, shortness of breath, headache, shortness of breath","Patient presents with symptoms of dizziness, shortness of breath, headache, shortness of breath associated with Hypertension."
+245,Kevin Barnes,90,Male,Other,Typhoid,"fever, fever, fever, fever","Patient presents with symptoms of fever, fever, fever, fever associated with Typhoid."
+246,Tiffany Calhoun,44,Male,Asian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+247,Sean Bennett,36,Female,Asian,Malaria,"fever, muscle pain, headache","Patient presents with symptoms of fever, muscle pain, headache associated with Malaria."
+248,Antonio Ortiz,49,Female,Caucasian,COPD,"chest tightness, chest tightness, chronic cough, chest tightness","Patient presents with symptoms of chest tightness, chest tightness, chronic cough, chest tightness associated with COPD."
+249,Gregory Richards,61,Male,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+250,Michael Bryant,35,Male,African American,Hypertension,"shortness of breath, headache, dizziness","Patient presents with symptoms of shortness of breath, headache, dizziness associated with Hypertension."
+251,Bonnie Carr MD,22,Male,Hispanic,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+252,Yvonne Mccarthy,31,Female,African American,Malaria,"muscle pain, headache, fever","Patient presents with symptoms of muscle pain, headache, fever associated with Malaria."
+253,Cristina Gonzalez,51,Female,Other,Asthma,"coughing, chest tightness, wheezing","Patient presents with symptoms of coughing, chest tightness, wheezing associated with Asthma."
+254,Jamie Ellis,84,Female,African American,HIV,"night sweats, weight loss","Patient presents with symptoms of night sweats, weight loss associated with HIV."
+255,Thomas Hayden,82,Female,Other,Ulcer,"nausea, nausea, vomiting","Patient presents with symptoms of nausea, nausea, vomiting associated with Ulcer."
+256,Nicole Malone,60,Female,Caucasian,HIV,"night sweats, night sweats, weight loss, fever","Patient presents with symptoms of night sweats, night sweats, weight loss, fever associated with HIV."
+257,Haley Thomas,69,Male,Caucasian,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+258,James Perez,57,Male,Other,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+259,Brittany Dorsey,90,Male,African American,Malaria,"chills, fever","Patient presents with symptoms of chills, fever associated with Malaria."
+260,Stephanie Carter,70,Male,African American,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+261,Ashley Dennis,24,Male,African American,Typhoid,"abdominal pain, weakness, abdominal pain, rash","Patient presents with symptoms of abdominal pain, weakness, abdominal pain, rash associated with Typhoid."
+262,Emily Garcia,82,Male,Other,Hypertension,"nosebleeds, shortness of breath","Patient presents with symptoms of nosebleeds, shortness of breath associated with Hypertension."
+263,Shannon Salazar,44,Female,Caucasian,Typhoid,"weakness, fever, weakness, fever","Patient presents with symptoms of weakness, fever, weakness, fever associated with Typhoid."
+264,Shane Hill,89,Male,Hispanic,Ulcer,"stomach pain, stomach pain, stomach pain","Patient presents with symptoms of stomach pain, stomach pain, stomach pain associated with Ulcer."
+265,Melissa Cook,41,Female,African American,Heart Disease,"shortness of breath, shortness of breath, chest pain, chest pain","Patient presents with symptoms of shortness of breath, shortness of breath, chest pain, chest pain associated with Heart Disease."
+266,Abigail Riley,68,Female,Other,Typhoid,weakness,Patient presents with symptoms of weakness associated with Typhoid.
+267,Billy Hall,66,Female,Caucasian,Hypertension,dizziness,Patient presents with symptoms of dizziness associated with Hypertension.
+268,Danielle Branch,73,Female,Asian,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+269,Mikayla Russell DDS,37,Female,Other,Typhoid,"abdominal pain, abdominal pain, abdominal pain","Patient presents with symptoms of abdominal pain, abdominal pain, abdominal pain associated with Typhoid."
+270,Emily Miller MD,66,Male,Asian,Heart Disease,"shortness of breath, fatigue, chest pain","Patient presents with symptoms of shortness of breath, fatigue, chest pain associated with Heart Disease."
+271,Anthony Thompson,71,Male,Other,COPD,"shortness of breath, wheezing, wheezing, chronic cough","Patient presents with symptoms of shortness of breath, wheezing, wheezing, chronic cough associated with COPD."
+272,Mrs. Diana Lloyd,82,Female,Other,HIV,"swollen lymph nodes, night sweats, fever, fever","Patient presents with symptoms of swollen lymph nodes, night sweats, fever, fever associated with HIV."
+273,Renee Dominguez,23,Female,Asian,Diabetes,increased thirst,Patient presents with symptoms of increased thirst associated with Diabetes.
+274,Michael Jenkins,59,Male,African American,Diabetes,"blurred vision, increased thirst","Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+275,Heather Walter,80,Male,African American,Heart Disease,"fatigue, irregular heartbeat","Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+276,Corey Craig,89,Female,African American,Diabetes,"increased thirst, frequent urination, fatigue","Patient presents with symptoms of increased thirst, frequent urination, fatigue associated with Diabetes."
+277,Keith Garza,23,Female,African American,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+278,Lauren Campbell,38,Male,Other,Hypertension,"headache, shortness of breath","Patient presents with symptoms of headache, shortness of breath associated with Hypertension."
+279,Claire Pham,61,Male,Caucasian,Typhoid,"weakness, abdominal pain, weakness","Patient presents with symptoms of weakness, abdominal pain, weakness associated with Typhoid."
+280,Amy Meyers,27,Male,Hispanic,Diabetes,"frequent urination, fatigue","Patient presents with symptoms of frequent urination, fatigue associated with Diabetes."
+281,Miss Laura James,29,Female,Caucasian,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+282,Christine Garcia,50,Male,Hispanic,Heart Disease,"fatigue, shortness of breath, irregular heartbeat, irregular heartbeat","Patient presents with symptoms of fatigue, shortness of breath, irregular heartbeat, irregular heartbeat associated with Heart Disease."
+283,Jennifer Powers,67,Female,African American,Asthma,"wheezing, wheezing, chest tightness, coughing","Patient presents with symptoms of wheezing, wheezing, chest tightness, coughing associated with Asthma."
+284,Denise Edwards,29,Male,Other,Diabetes,"fatigue, fatigue, increased thirst","Patient presents with symptoms of fatigue, fatigue, increased thirst associated with Diabetes."
+285,Gloria Hughes,47,Male,Other,Heart Disease,chest pain,Patient presents with symptoms of chest pain associated with Heart Disease.
+286,Cristian Cervantes,29,Male,Asian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+287,Shirley Mitchell,69,Female,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+288,Matthew Monroe,32,Male,Caucasian,Malaria,"fever, chills, muscle pain","Patient presents with symptoms of fever, chills, muscle pain associated with Malaria."
+289,Angela Benitez,64,Male,Hispanic,Diabetes,"increased thirst, blurred vision","Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+290,Nicole Smith,85,Male,Asian,Hypertension,"nosebleeds, headache","Patient presents with symptoms of nosebleeds, headache associated with Hypertension."
+291,Jesus Merritt,30,Male,Caucasian,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+292,Mark Harrison,51,Male,Other,Heart Disease,"shortness of breath, irregular heartbeat, irregular heartbeat, fatigue","Patient presents with symptoms of shortness of breath, irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+293,Carmen Allen,69,Female,African American,HIV,"night sweats, weight loss, weight loss","Patient presents with symptoms of night sweats, weight loss, weight loss associated with HIV."
+294,Joseph Pham,78,Male,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+295,Robert Smith,73,Female,African American,Malaria,"headache, headache","Patient presents with symptoms of headache, headache associated with Malaria."
+296,David Brown,51,Male,Other,COPD,"wheezing, chronic cough, chronic cough, wheezing","Patient presents with symptoms of wheezing, chronic cough, chronic cough, wheezing associated with COPD."
+297,Catherine Thomas,41,Female,Other,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+298,Scott Holland,60,Male,Other,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+299,Amanda Lopez,24,Female,Hispanic,Ulcer,"vomiting, bloating","Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+300,Clarence Chapman,61,Female,African American,Ulcer,"vomiting, bloating","Patient presents with symptoms of vomiting, bloating associated with Ulcer."
+301,Courtney Hurst DVM,38,Male,Other,Typhoid,"rash, abdominal pain, abdominal pain","Patient presents with symptoms of rash, abdominal pain, abdominal pain associated with Typhoid."
+302,Robert Cook,49,Female,Other,Asthma,"chest tightness, coughing","Patient presents with symptoms of chest tightness, coughing associated with Asthma."
+303,Raymond Wilson,69,Male,African American,Hypertension,dizziness,Patient presents with symptoms of dizziness associated with Hypertension.
+304,Samuel Wilson,25,Male,Other,COPD,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+305,Theresa Mays,25,Male,Asian,Ulcer,"stomach pain, stomach pain, stomach pain","Patient presents with symptoms of stomach pain, stomach pain, stomach pain associated with Ulcer."
+306,Stacy Duarte,45,Male,Caucasian,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+307,Alicia Olson,44,Female,Hispanic,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+308,Kristin Jimenez,33,Male,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+309,Ashlee Jones,79,Male,Caucasian,Heart Disease,"irregular heartbeat, chest pain, shortness of breath","Patient presents with symptoms of irregular heartbeat, chest pain, shortness of breath associated with Heart Disease."
+310,Lori Cunningham,70,Male,African American,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+311,Keith Wilson,54,Male,Other,Asthma,"wheezing, shortness of breath, coughing, coughing","Patient presents with symptoms of wheezing, shortness of breath, coughing, coughing associated with Asthma."
+312,Scott Jackson,37,Female,Other,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+313,James Walker Jr.,22,Male,Other,Hypertension,"headache, nosebleeds, nosebleeds, dizziness","Patient presents with symptoms of headache, nosebleeds, nosebleeds, dizziness associated with Hypertension."
+314,Christine Fuentes,85,Female,Hispanic,Hypertension,"shortness of breath, nosebleeds, nosebleeds","Patient presents with symptoms of shortness of breath, nosebleeds, nosebleeds associated with Hypertension."
+315,Carlos Grimes,41,Male,Hispanic,Hypertension,"headache, shortness of breath, dizziness, nosebleeds","Patient presents with symptoms of headache, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+316,Joy Brown,18,Male,Other,Heart Disease,"chest pain, irregular heartbeat","Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+317,Kerri Joseph,53,Male,Caucasian,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+318,Robin Evans,39,Male,Caucasian,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+319,Jared Simon,57,Female,Hispanic,Hypertension,"dizziness, headache, headache","Patient presents with symptoms of dizziness, headache, headache associated with Hypertension."
+320,Matthew Gates,40,Male,Other,HIV,"weight loss, fever, swollen lymph nodes, swollen lymph nodes","Patient presents with symptoms of weight loss, fever, swollen lymph nodes, swollen lymph nodes associated with HIV."
+321,Todd Burke,66,Male,Hispanic,COPD,"wheezing, shortness of breath, wheezing","Patient presents with symptoms of wheezing, shortness of breath, wheezing associated with COPD."
+322,Amy Smith,36,Male,Asian,Diabetes,"frequent urination, frequent urination","Patient presents with symptoms of frequent urination, frequent urination associated with Diabetes."
+323,Jessica Myers,90,Male,Other,Typhoid,weakness,Patient presents with symptoms of weakness associated with Typhoid.
+324,Jason Mason,50,Male,African American,Hypertension,"dizziness, nosebleeds","Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+325,William Fox,72,Male,African American,Hypertension,"dizziness, headache, headache","Patient presents with symptoms of dizziness, headache, headache associated with Hypertension."
+326,Timothy Bowen,80,Female,Hispanic,Ulcer,"nausea, nausea, bloating","Patient presents with symptoms of nausea, nausea, bloating associated with Ulcer."
+327,Meagan Stanton,30,Male,Other,Ulcer,"bloating, stomach pain","Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+328,Maria Williamson,61,Male,Hispanic,COPD,chest tightness,Patient presents with symptoms of chest tightness associated with COPD.
+329,Jennifer Sloan,81,Female,African American,Diabetes,fatigue,Patient presents with symptoms of fatigue associated with Diabetes.
+330,Peter Nichols,63,Female,Asian,Malaria,"fever, headache, muscle pain, fever","Patient presents with symptoms of fever, headache, muscle pain, fever associated with Malaria."
+331,Mr. Charles Miller,21,Female,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+332,Jonathan Taylor,37,Male,Asian,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+333,Timothy Shannon,57,Male,Caucasian,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+334,Rachel Hill,69,Male,Hispanic,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+335,Shawna Mitchell,21,Male,Caucasian,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+336,Kevin Vargas,63,Male,Hispanic,Asthma,"shortness of breath, wheezing, shortness of breath","Patient presents with symptoms of shortness of breath, wheezing, shortness of breath associated with Asthma."
+337,Sandra Daniels,82,Female,Asian,COPD,"shortness of breath, wheezing, wheezing","Patient presents with symptoms of shortness of breath, wheezing, wheezing associated with COPD."
+338,Holly Hayes,81,Male,African American,Hypertension,"nosebleeds, nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+339,Melanie Olson,29,Female,Other,Heart Disease,"shortness of breath, irregular heartbeat","Patient presents with symptoms of shortness of breath, irregular heartbeat associated with Heart Disease."
+340,Jennifer Lopez,29,Male,Asian,Typhoid,"weakness, abdominal pain, rash","Patient presents with symptoms of weakness, abdominal pain, rash associated with Typhoid."
+341,Ethan Gill,43,Male,Asian,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+342,Mathew Jones,24,Female,Asian,COPD,"wheezing, chest tightness, chronic cough, shortness of breath","Patient presents with symptoms of wheezing, chest tightness, chronic cough, shortness of breath associated with COPD."
+343,Shannon Duarte,76,Male,Caucasian,Ulcer,"bloating, nausea, bloating","Patient presents with symptoms of bloating, nausea, bloating associated with Ulcer."
+344,Isabella Rice,19,Female,Hispanic,COPD,"shortness of breath, chest tightness, chronic cough","Patient presents with symptoms of shortness of breath, chest tightness, chronic cough associated with COPD."
+345,Joel Abbott,77,Male,Asian,Malaria,"headache, chills, chills, chills","Patient presents with symptoms of headache, chills, chills, chills associated with Malaria."
+346,Donald Morris,44,Female,Asian,Diabetes,"frequent urination, fatigue","Patient presents with symptoms of frequent urination, fatigue associated with Diabetes."
+347,Donald Dean,64,Female,Hispanic,Hypertension,shortness of breath,Patient presents with symptoms of shortness of breath associated with Hypertension.
+348,Aaron Carroll,79,Female,Other,Asthma,"coughing, coughing, chest tightness, wheezing","Patient presents with symptoms of coughing, coughing, chest tightness, wheezing associated with Asthma."
+349,Alexandria Horton,29,Female,Asian,Ulcer,"bloating, stomach pain, bloating","Patient presents with symptoms of bloating, stomach pain, bloating associated with Ulcer."
+350,Julie Reynolds,19,Male,Other,Typhoid,"abdominal pain, weakness, abdominal pain","Patient presents with symptoms of abdominal pain, weakness, abdominal pain associated with Typhoid."
+351,Dana Ross,70,Female,Hispanic,Diabetes,"increased thirst, frequent urination, fatigue, increased thirst","Patient presents with symptoms of increased thirst, frequent urination, fatigue, increased thirst associated with Diabetes."
+352,Isaac Jenkins,43,Female,Asian,None,healthy,Patient presents with symptoms of healthy associated with None.
+353,Derrick Rivera,65,Female,Hispanic,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+354,Daisy Cunningham,69,Female,Caucasian,Malaria,"muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+355,Todd Hudson,49,Female,Caucasian,Diabetes,"increased thirst, frequent urination, fatigue, blurred vision","Patient presents with symptoms of increased thirst, frequent urination, fatigue, blurred vision associated with Diabetes."
+356,Brandi Brown,87,Female,Caucasian,HIV,"night sweats, fever, fever, night sweats","Patient presents with symptoms of night sweats, fever, fever, night sweats associated with HIV."
+357,Brent Anderson,64,Female,Other,Malaria,muscle pain,Patient presents with symptoms of muscle pain associated with Malaria.
+358,Isaiah Middleton,81,Female,African American,HIV,"weight loss, night sweats, swollen lymph nodes, night sweats","Patient presents with symptoms of weight loss, night sweats, swollen lymph nodes, night sweats associated with HIV."
+359,Terri Aguilar,31,Male,Other,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+360,Jaime Davis,81,Male,Caucasian,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+361,Craig Jones DDS,61,Female,African American,Hypertension,"shortness of breath, dizziness, nosebleeds","Patient presents with symptoms of shortness of breath, dizziness, nosebleeds associated with Hypertension."
+362,Abigail Finley,62,Female,African American,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+363,Gregory Jones,70,Male,African American,COPD,"shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+364,James Vega,43,Male,Caucasian,Ulcer,"vomiting, nausea","Patient presents with symptoms of vomiting, nausea associated with Ulcer."
+365,Jeffrey Garcia,87,Male,African American,Heart Disease,"shortness of breath, chest pain","Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+366,Scott Williamson,62,Male,Other,Diabetes,"increased thirst, increased thirst, fatigue, frequent urination","Patient presents with symptoms of increased thirst, increased thirst, fatigue, frequent urination associated with Diabetes."
+367,April Hall,25,Male,Caucasian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+368,Dustin Jones,65,Female,Caucasian,Typhoid,"rash, rash, weakness","Patient presents with symptoms of rash, rash, weakness associated with Typhoid."
+369,Frances Garrett,32,Female,African American,None,healthy,Patient presents with symptoms of healthy associated with None.
+370,Teresa French,78,Male,Caucasian,COPD,"chronic cough, wheezing, chronic cough, chest tightness","Patient presents with symptoms of chronic cough, wheezing, chronic cough, chest tightness associated with COPD."
+371,Jonathan Velasquez,61,Female,Hispanic,HIV,"swollen lymph nodes, weight loss","Patient presents with symptoms of swollen lymph nodes, weight loss associated with HIV."
+372,Maria Savage,80,Female,Hispanic,COPD,"shortness of breath, shortness of breath, chronic cough, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath, chronic cough, shortness of breath associated with COPD."
+373,Teresa Bauer,45,Female,Asian,Heart Disease,"shortness of breath, fatigue","Patient presents with symptoms of shortness of breath, fatigue associated with Heart Disease."
+374,Olivia Maddox,44,Male,Asian,Ulcer,"bloating, stomach pain","Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+375,Alan Day,78,Female,Hispanic,Asthma,"shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+376,Brian Frederick,25,Male,Other,Ulcer,"vomiting, vomiting","Patient presents with symptoms of vomiting, vomiting associated with Ulcer."
+377,Brett Velez,46,Male,Hispanic,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+378,Tiffany Curtis,31,Female,Asian,Typhoid,"weakness, rash, weakness","Patient presents with symptoms of weakness, rash, weakness associated with Typhoid."
+379,Bianca Elliott,22,Male,African American,Ulcer,"nausea, vomiting, bloating, nausea","Patient presents with symptoms of nausea, vomiting, bloating, nausea associated with Ulcer."
+380,Daisy Graham,89,Male,Caucasian,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+381,Pamela Miller,33,Male,Caucasian,HIV,"swollen lymph nodes, weight loss, swollen lymph nodes, fever","Patient presents with symptoms of swollen lymph nodes, weight loss, swollen lymph nodes, fever associated with HIV."
+382,Robert Davies,87,Male,Hispanic,Asthma,"shortness of breath, coughing","Patient presents with symptoms of shortness of breath, coughing associated with Asthma."
+383,Michael Cobb,35,Male,Caucasian,Ulcer,"nausea, stomach pain, bloating, stomach pain","Patient presents with symptoms of nausea, stomach pain, bloating, stomach pain associated with Ulcer."
+384,Melvin Jones,83,Female,Asian,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+385,John Thompson,37,Male,Asian,Diabetes,"fatigue, blurred vision, frequent urination","Patient presents with symptoms of fatigue, blurred vision, frequent urination associated with Diabetes."
+386,Sabrina Preston,23,Male,African American,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+387,Travis Morgan,25,Male,African American,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+388,Haley Gordon,60,Male,Caucasian,Asthma,wheezing,Patient presents with symptoms of wheezing associated with Asthma.
+389,Kerry Davis,88,Female,Caucasian,Typhoid,weakness,Patient presents with symptoms of weakness associated with Typhoid.
+390,Scott Bailey,34,Male,Caucasian,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+391,Troy Calderon,67,Male,Caucasian,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+392,Jonathan Richardson,84,Male,Asian,Ulcer,"bloating, vomiting, bloating, vomiting","Patient presents with symptoms of bloating, vomiting, bloating, vomiting associated with Ulcer."
+393,Brent Gonzalez,41,Female,Hispanic,Ulcer,"bloating, vomiting, nausea, stomach pain","Patient presents with symptoms of bloating, vomiting, nausea, stomach pain associated with Ulcer."
+394,Robert Carson,39,Female,Other,Asthma,"shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness associated with Asthma."
+395,Carolyn Ward,82,Male,Hispanic,COPD,"chronic cough, shortness of breath, wheezing","Patient presents with symptoms of chronic cough, shortness of breath, wheezing associated with COPD."
+396,Jose Matthews,30,Female,Asian,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+397,James Kidd,23,Female,African American,COPD,"chronic cough, shortness of breath","Patient presents with symptoms of chronic cough, shortness of breath associated with COPD."
+398,Joyce Solomon,47,Male,African American,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+399,Tanya Escobar,67,Female,Other,Heart Disease,"shortness of breath, shortness of breath, fatigue, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath, fatigue, shortness of breath associated with Heart Disease."
+400,Christopher Fox,26,Male,Caucasian,Heart Disease,"irregular heartbeat, chest pain","Patient presents with symptoms of irregular heartbeat, chest pain associated with Heart Disease."
+401,Daniel Gibson,19,Female,Caucasian,HIV,"night sweats, night sweats, fever, fever","Patient presents with symptoms of night sweats, night sweats, fever, fever associated with HIV."
+402,Sandra Castro,88,Male,African American,Typhoid,"weakness, rash, weakness, rash","Patient presents with symptoms of weakness, rash, weakness, rash associated with Typhoid."
+403,Brandon Baxter,22,Male,Other,Ulcer,"nausea, nausea, stomach pain","Patient presents with symptoms of nausea, nausea, stomach pain associated with Ulcer."
+404,Mr. Scott Bauer DDS,45,Female,Asian,Ulcer,"vomiting, bloating, bloating","Patient presents with symptoms of vomiting, bloating, bloating associated with Ulcer."
+405,Eric Herrera,90,Male,Hispanic,Asthma,"chest tightness, chest tightness","Patient presents with symptoms of chest tightness, chest tightness associated with Asthma."
+406,Terry Galloway,85,Male,Other,Hypertension,"headache, dizziness, shortness of breath, dizziness","Patient presents with symptoms of headache, dizziness, shortness of breath, dizziness associated with Hypertension."
+407,Denise Middleton,51,Male,Caucasian,HIV,"fever, night sweats, fever","Patient presents with symptoms of fever, night sweats, fever associated with HIV."
+408,Christine Hunter,27,Male,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+409,Meghan Rivers,82,Male,African American,Heart Disease,"irregular heartbeat, fatigue, chest pain, chest pain","Patient presents with symptoms of irregular heartbeat, fatigue, chest pain, chest pain associated with Heart Disease."
+410,Michael Pope,43,Female,Caucasian,Typhoid,"rash, weakness, fever, abdominal pain","Patient presents with symptoms of rash, weakness, fever, abdominal pain associated with Typhoid."
+411,Rachel Black,66,Male,Asian,Typhoid,"rash, abdominal pain, fever","Patient presents with symptoms of rash, abdominal pain, fever associated with Typhoid."
+412,Lacey Young,83,Female,Caucasian,Hypertension,"nosebleeds, dizziness","Patient presents with symptoms of nosebleeds, dizziness associated with Hypertension."
+413,Jesus Price,56,Male,Hispanic,Asthma,wheezing,Patient presents with symptoms of wheezing associated with Asthma.
+414,Mr. Joseph Wright PhD,38,Female,Hispanic,COPD,"chronic cough, wheezing, wheezing","Patient presents with symptoms of chronic cough, wheezing, wheezing associated with COPD."
+415,William Potter,52,Female,Other,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+416,Keith Jones,67,Female,Hispanic,Typhoid,"weakness, abdominal pain, fever","Patient presents with symptoms of weakness, abdominal pain, fever associated with Typhoid."
+417,Yolanda Reed,50,Male,Caucasian,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+418,Shelby Smith,39,Male,Caucasian,Malaria,"headache, muscle pain, chills, fever","Patient presents with symptoms of headache, muscle pain, chills, fever associated with Malaria."
+419,Shawn Mcguire,25,Male,Hispanic,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+420,Rhonda Hall,89,Female,Caucasian,Heart Disease,"fatigue, irregular heartbeat, fatigue","Patient presents with symptoms of fatigue, irregular heartbeat, fatigue associated with Heart Disease."
+421,Patrick Lewis,67,Female,Hispanic,COPD,"shortness of breath, shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, shortness of breath, wheezing associated with COPD."
+422,Natasha Bell,30,Female,Hispanic,None,healthy,Patient presents with symptoms of healthy associated with None.
+423,Latoya Mcintyre,60,Male,African American,COPD,chest tightness,Patient presents with symptoms of chest tightness associated with COPD.
+424,Kayla Smith,79,Male,Caucasian,Heart Disease,"fatigue, irregular heartbeat","Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+425,Allison Conley,36,Female,Other,HIV,"swollen lymph nodes, fever, swollen lymph nodes, swollen lymph nodes","Patient presents with symptoms of swollen lymph nodes, fever, swollen lymph nodes, swollen lymph nodes associated with HIV."
+426,James Simpson,78,Male,Caucasian,Hypertension,"nosebleeds, shortness of breath, shortness of breath, headache","Patient presents with symptoms of nosebleeds, shortness of breath, shortness of breath, headache associated with Hypertension."
+427,Sean Jones,86,Female,Other,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+428,Brenda Kelley,49,Female,Other,HIV,"fever, fever, night sweats, fever","Patient presents with symptoms of fever, fever, night sweats, fever associated with HIV."
+429,Willie Jenkins,87,Male,Other,Diabetes,"fatigue, increased thirst, frequent urination","Patient presents with symptoms of fatigue, increased thirst, frequent urination associated with Diabetes."
+430,Mary Burton,35,Female,Caucasian,HIV,"weight loss, fever","Patient presents with symptoms of weight loss, fever associated with HIV."
+431,Nicholas Ellis,76,Male,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+432,Christian Sanchez,54,Male,African American,Diabetes,"fatigue, fatigue","Patient presents with symptoms of fatigue, fatigue associated with Diabetes."
+433,Darryl Jackson,61,Female,Asian,COPD,"chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, shortness of breath associated with COPD."
+434,Brenda Day,45,Female,Asian,Typhoid,"abdominal pain, fever, rash, abdominal pain","Patient presents with symptoms of abdominal pain, fever, rash, abdominal pain associated with Typhoid."
+435,Tiffany Perez,68,Male,Other,Ulcer,"bloating, stomach pain, bloating, bloating","Patient presents with symptoms of bloating, stomach pain, bloating, bloating associated with Ulcer."
+436,Steven Perez,64,Female,Asian,Malaria,"fever, fever, muscle pain","Patient presents with symptoms of fever, fever, muscle pain associated with Malaria."
+437,Laura Silva,19,Male,Other,Heart Disease,"chest pain, fatigue, fatigue, chest pain","Patient presents with symptoms of chest pain, fatigue, fatigue, chest pain associated with Heart Disease."
+438,Michael Day,78,Female,African American,Ulcer,"bloating, vomiting, bloating","Patient presents with symptoms of bloating, vomiting, bloating associated with Ulcer."
+439,Luis Mccormick,87,Male,Hispanic,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+440,Bobby Cook Jr.,19,Male,Asian,Asthma,"chest tightness, wheezing, shortness of breath","Patient presents with symptoms of chest tightness, wheezing, shortness of breath associated with Asthma."
+441,Ryan Williamson,54,Male,Other,Asthma,"coughing, chest tightness, shortness of breath, shortness of breath","Patient presents with symptoms of coughing, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+442,Martin Kemp,42,Female,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+443,Daniel Orr,58,Female,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+444,Matthew Woodard,49,Female,Other,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+445,Mark Lyons,44,Female,African American,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+446,Ashley Marsh,35,Female,African American,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+447,Amanda Marks,69,Male,Asian,Hypertension,"dizziness, shortness of breath","Patient presents with symptoms of dizziness, shortness of breath associated with Hypertension."
+448,Brian Rowe,20,Male,Caucasian,Typhoid,"fever, weakness, abdominal pain, rash","Patient presents with symptoms of fever, weakness, abdominal pain, rash associated with Typhoid."
+449,Nicole Rodriguez,75,Male,Hispanic,Hypertension,"headache, headache","Patient presents with symptoms of headache, headache associated with Hypertension."
+450,Daniel Ramirez,27,Female,Other,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+451,Ryan Peterson,86,Female,Other,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+452,Stephanie Simmons,35,Male,Asian,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+453,Gregory Walsh,90,Male,Hispanic,Typhoid,"rash, fever","Patient presents with symptoms of rash, fever associated with Typhoid."
+454,Anita Cuevas,51,Male,Caucasian,Asthma,"wheezing, shortness of breath, chest tightness, shortness of breath","Patient presents with symptoms of wheezing, shortness of breath, chest tightness, shortness of breath associated with Asthma."
+455,Gregory Shelton,51,Female,African American,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+456,Stephanie Ellis,65,Female,Asian,Malaria,headache,Patient presents with symptoms of headache associated with Malaria.
+457,Jerome Patterson,50,Female,African American,Heart Disease,"irregular heartbeat, fatigue","Patient presents with symptoms of irregular heartbeat, fatigue associated with Heart Disease."
+458,Henry Wallace,82,Female,Caucasian,Malaria,"chills, fever, fever, headache","Patient presents with symptoms of chills, fever, fever, headache associated with Malaria."
+459,Jeffery Boyd,40,Male,Other,Malaria,headache,Patient presents with symptoms of headache associated with Malaria.
+460,Nichole Pratt,39,Female,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+461,Robin Thomas,56,Male,Caucasian,Heart Disease,"irregular heartbeat, chest pain, irregular heartbeat","Patient presents with symptoms of irregular heartbeat, chest pain, irregular heartbeat associated with Heart Disease."
+462,Travis Ross,64,Female,Asian,Diabetes,"blurred vision, increased thirst","Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+463,Chad Green,28,Male,Caucasian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+464,Valerie Humphrey,23,Male,Caucasian,Asthma,"chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+465,Leah Huffman,50,Male,African American,COPD,"wheezing, wheezing, shortness of breath, wheezing","Patient presents with symptoms of wheezing, wheezing, shortness of breath, wheezing associated with COPD."
+466,Jessica Perez,47,Female,Caucasian,Asthma,"wheezing, coughing","Patient presents with symptoms of wheezing, coughing associated with Asthma."
+467,Randy Taylor,21,Male,Other,HIV,swollen lymph nodes,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+468,Katie Owens,19,Female,African American,HIV,"fever, fever, night sweats","Patient presents with symptoms of fever, fever, night sweats associated with HIV."
+469,Holly Byrd,69,Female,Other,Typhoid,"fever, abdominal pain, fever","Patient presents with symptoms of fever, abdominal pain, fever associated with Typhoid."
+470,Ernest Russell,65,Male,Other,Typhoid,"abdominal pain, weakness, abdominal pain","Patient presents with symptoms of abdominal pain, weakness, abdominal pain associated with Typhoid."
+471,Jason Pacheco,18,Male,African American,Malaria,"muscle pain, muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+472,Brenda Weeks,82,Female,Hispanic,Heart Disease,"chest pain, chest pain, chest pain","Patient presents with symptoms of chest pain, chest pain, chest pain associated with Heart Disease."
+473,Amy Pearson,62,Female,Caucasian,Heart Disease,"fatigue, shortness of breath, fatigue","Patient presents with symptoms of fatigue, shortness of breath, fatigue associated with Heart Disease."
+474,Michaela Fleming,76,Female,African American,Typhoid,"abdominal pain, rash, abdominal pain","Patient presents with symptoms of abdominal pain, rash, abdominal pain associated with Typhoid."
+475,Lisa Caldwell,40,Male,Asian,Asthma,"coughing, coughing, shortness of breath, chest tightness","Patient presents with symptoms of coughing, coughing, shortness of breath, chest tightness associated with Asthma."
+476,James Vaughn,68,Female,Hispanic,Ulcer,"bloating, bloating, nausea, bloating","Patient presents with symptoms of bloating, bloating, nausea, bloating associated with Ulcer."
+477,John Norton,30,Male,Hispanic,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+478,Russell Weiss,77,Male,Asian,Asthma,"wheezing, wheezing, coughing","Patient presents with symptoms of wheezing, wheezing, coughing associated with Asthma."
+479,Teresa Graham,83,Female,Caucasian,Diabetes,"blurred vision, increased thirst","Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+480,Christopher Davenport,29,Male,African American,COPD,"wheezing, chronic cough, shortness of breath","Patient presents with symptoms of wheezing, chronic cough, shortness of breath associated with COPD."
+481,Angela Hoffman,69,Male,Asian,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+482,Eric Snyder,18,Female,Other,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+483,Frederick Luna,89,Male,Asian,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+484,Angela Higgins,44,Female,Hispanic,Ulcer,"bloating, stomach pain, stomach pain","Patient presents with symptoms of bloating, stomach pain, stomach pain associated with Ulcer."
+485,James Todd,28,Male,Other,HIV,"weight loss, night sweats, weight loss","Patient presents with symptoms of weight loss, night sweats, weight loss associated with HIV."
+486,Victoria Morton,54,Male,Hispanic,Asthma,"shortness of breath, coughing, wheezing","Patient presents with symptoms of shortness of breath, coughing, wheezing associated with Asthma."
+487,Belinda Walker,83,Female,Caucasian,Typhoid,"weakness, abdominal pain, fever, fever","Patient presents with symptoms of weakness, abdominal pain, fever, fever associated with Typhoid."
+488,Jillian Clark,45,Female,African American,Heart Disease,"fatigue, fatigue, irregular heartbeat","Patient presents with symptoms of fatigue, fatigue, irregular heartbeat associated with Heart Disease."
+489,Kyle Patterson,69,Female,Caucasian,Malaria,"chills, headache","Patient presents with symptoms of chills, headache associated with Malaria."
+490,Keith Moore,77,Male,Other,Heart Disease,"fatigue, shortness of breath","Patient presents with symptoms of fatigue, shortness of breath associated with Heart Disease."
+491,Eric Lewis,18,Male,Caucasian,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+492,Melissa Greene,58,Female,Caucasian,Heart Disease,"irregular heartbeat, shortness of breath, fatigue, shortness of breath","Patient presents with symptoms of irregular heartbeat, shortness of breath, fatigue, shortness of breath associated with Heart Disease."
+493,Joshua Ho,25,Male,Other,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+494,Jim Ortiz,75,Male,Asian,HIV,"weight loss, swollen lymph nodes, weight loss","Patient presents with symptoms of weight loss, swollen lymph nodes, weight loss associated with HIV."
+495,Kimberly Hernandez,78,Male,Other,Typhoid,"fever, abdominal pain, fever","Patient presents with symptoms of fever, abdominal pain, fever associated with Typhoid."
+496,Wendy Thompson,39,Female,Hispanic,Diabetes,"frequent urination, fatigue, fatigue, frequent urination","Patient presents with symptoms of frequent urination, fatigue, fatigue, frequent urination associated with Diabetes."
+497,Nathaniel Quinn,66,Male,Other,Hypertension,"headache, headache, dizziness","Patient presents with symptoms of headache, headache, dizziness associated with Hypertension."
+498,Nancy Murphy,42,Male,Hispanic,HIV,"weight loss, fever, fever, weight loss","Patient presents with symptoms of weight loss, fever, fever, weight loss associated with HIV."
+499,John Russell,78,Male,African American,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+500,Jeremy Moore,56,Male,Asian,Malaria,muscle pain,Patient presents with symptoms of muscle pain associated with Malaria.
+501,Melody Williams,60,Male,African American,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+502,Kristin Madden,50,Male,Other,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+503,Tina Carey,34,Female,Asian,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+504,Karen Garrett,63,Female,African American,Typhoid,"weakness, weakness, rash, rash","Patient presents with symptoms of weakness, weakness, rash, rash associated with Typhoid."
+505,Lee Lee,31,Female,Hispanic,COPD,"chest tightness, wheezing","Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+506,Dana Campbell,73,Male,Other,COPD,"chest tightness, chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, chest tightness, shortness of breath associated with COPD."
+507,Mario Costa,75,Female,Hispanic,Asthma,"coughing, coughing, chest tightness, wheezing","Patient presents with symptoms of coughing, coughing, chest tightness, wheezing associated with Asthma."
+508,Candice Morales,25,Female,African American,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+509,Sean Jenkins,61,Male,Other,Ulcer,"vomiting, vomiting, stomach pain","Patient presents with symptoms of vomiting, vomiting, stomach pain associated with Ulcer."
+510,Tiffany Thornton,73,Female,Hispanic,Typhoid,"weakness, abdominal pain, weakness","Patient presents with symptoms of weakness, abdominal pain, weakness associated with Typhoid."
+511,Garrett Dillon,47,Female,Caucasian,Asthma,"coughing, coughing, chest tightness, coughing","Patient presents with symptoms of coughing, coughing, chest tightness, coughing associated with Asthma."
+512,Kristy Hodges,18,Male,Caucasian,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+513,Leah Thomas,60,Male,Hispanic,Asthma,"wheezing, wheezing","Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+514,Lawrence Freeman,72,Male,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+515,Thomas Hull,63,Female,Asian,COPD,"shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness associated with COPD."
+516,Robin Frost,85,Female,Asian,Heart Disease,"irregular heartbeat, shortness of breath","Patient presents with symptoms of irregular heartbeat, shortness of breath associated with Heart Disease."
+517,Dennis Davis,54,Female,Caucasian,HIV,"weight loss, fever, fever","Patient presents with symptoms of weight loss, fever, fever associated with HIV."
+518,Meredith Morrison,24,Male,Hispanic,Ulcer,"nausea, nausea, stomach pain, vomiting","Patient presents with symptoms of nausea, nausea, stomach pain, vomiting associated with Ulcer."
+519,Brianna Harris,46,Male,Other,COPD,"shortness of breath, shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, shortness of breath, chest tightness associated with COPD."
+520,Christopher Harmon,35,Male,Caucasian,Typhoid,"abdominal pain, weakness, weakness, rash","Patient presents with symptoms of abdominal pain, weakness, weakness, rash associated with Typhoid."
+521,Claudia Ramos,24,Male,Asian,HIV,"weight loss, swollen lymph nodes, night sweats, night sweats","Patient presents with symptoms of weight loss, swollen lymph nodes, night sweats, night sweats associated with HIV."
+522,Holly Griffin,51,Female,Caucasian,Hypertension,"headache, nosebleeds, shortness of breath, nosebleeds","Patient presents with symptoms of headache, nosebleeds, shortness of breath, nosebleeds associated with Hypertension."
+523,Jerry Hansen,31,Male,Caucasian,HIV,"fever, fever, fever, swollen lymph nodes","Patient presents with symptoms of fever, fever, fever, swollen lymph nodes associated with HIV."
+524,Robert Collins,53,Female,Caucasian,Malaria,"muscle pain, muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+525,Kyle Powers,80,Male,Hispanic,Hypertension,"nosebleeds, nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds, nosebleeds associated with Hypertension."
+526,Melissa Gomez,30,Female,Caucasian,Asthma,"wheezing, shortness of breath, chest tightness, coughing","Patient presents with symptoms of wheezing, shortness of breath, chest tightness, coughing associated with Asthma."
+527,Christopher Myers,79,Female,Hispanic,COPD,"chest tightness, chronic cough, wheezing, wheezing","Patient presents with symptoms of chest tightness, chronic cough, wheezing, wheezing associated with COPD."
+528,Charles Thompson,40,Male,Hispanic,Malaria,"muscle pain, muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain, muscle pain associated with Malaria."
+529,Chad Lopez,68,Male,Asian,Malaria,"chills, muscle pain, chills","Patient presents with symptoms of chills, muscle pain, chills associated with Malaria."
+530,Gina Duran,40,Male,Caucasian,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+531,Mr. Jacob Steele,26,Female,Other,Asthma,"shortness of breath, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness associated with Asthma."
+532,Derek Scott,71,Male,Hispanic,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+533,Richard Church,79,Male,Caucasian,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+534,Tina Moss,88,Male,Other,HIV,"night sweats, fever, weight loss, night sweats","Patient presents with symptoms of night sweats, fever, weight loss, night sweats associated with HIV."
+535,Jeffrey Calhoun,64,Female,African American,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+536,Lee Zamora,58,Male,African American,COPD,"wheezing, chest tightness, chronic cough, wheezing","Patient presents with symptoms of wheezing, chest tightness, chronic cough, wheezing associated with COPD."
+537,Ricky Wells,61,Male,Asian,Diabetes,"blurred vision, blurred vision, fatigue, increased thirst","Patient presents with symptoms of blurred vision, blurred vision, fatigue, increased thirst associated with Diabetes."
+538,Dr. Stacey Nichols,68,Female,Hispanic,COPD,"shortness of breath, chronic cough","Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+539,Angela Perry,79,Female,Hispanic,HIV,"swollen lymph nodes, swollen lymph nodes, night sweats","Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, night sweats associated with HIV."
+540,Robert Walsh,28,Female,African American,Ulcer,"nausea, stomach pain","Patient presents with symptoms of nausea, stomach pain associated with Ulcer."
+541,Jose Powell,46,Male,Caucasian,Asthma,"shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+542,Andrea Lane,73,Female,African American,None,healthy,Patient presents with symptoms of healthy associated with None.
+543,Teresa Lewis,33,Female,Caucasian,Asthma,"chest tightness, chest tightness, chest tightness, chest tightness","Patient presents with symptoms of chest tightness, chest tightness, chest tightness, chest tightness associated with Asthma."
+544,Robin Mccarthy,55,Male,African American,COPD,shortness of breath,Patient presents with symptoms of shortness of breath associated with COPD.
+545,Michael Short,43,Female,Hispanic,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+546,Kevin Edwards,54,Male,Asian,HIV,"weight loss, weight loss","Patient presents with symptoms of weight loss, weight loss associated with HIV."
+547,Thomas Allen,79,Female,Other,Typhoid,"abdominal pain, weakness, rash","Patient presents with symptoms of abdominal pain, weakness, rash associated with Typhoid."
+548,Jeff Robertson,39,Male,African American,HIV,"night sweats, swollen lymph nodes, fever, fever","Patient presents with symptoms of night sweats, swollen lymph nodes, fever, fever associated with HIV."
+549,Christian Wilson,19,Male,Asian,COPD,"wheezing, chest tightness","Patient presents with symptoms of wheezing, chest tightness associated with COPD."
+550,Kevin Barr,68,Female,Asian,COPD,"chronic cough, chest tightness, chronic cough","Patient presents with symptoms of chronic cough, chest tightness, chronic cough associated with COPD."
+551,Sabrina Krueger,85,Male,Asian,COPD,"shortness of breath, shortness of breath, chronic cough","Patient presents with symptoms of shortness of breath, shortness of breath, chronic cough associated with COPD."
+552,Casey James,21,Male,Other,Heart Disease,"shortness of breath, chest pain","Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+553,Michael Harris,81,Female,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+554,Felicia Walls,85,Male,Caucasian,Asthma,"coughing, wheezing, chest tightness","Patient presents with symptoms of coughing, wheezing, chest tightness associated with Asthma."
+555,Robin Booker DVM,48,Male,Caucasian,Typhoid,"fever, weakness","Patient presents with symptoms of fever, weakness associated with Typhoid."
+556,Dan Rodriguez,84,Female,African American,Malaria,"fever, muscle pain","Patient presents with symptoms of fever, muscle pain associated with Malaria."
+557,Catherine Cooper,20,Female,Other,Malaria,"chills, muscle pain","Patient presents with symptoms of chills, muscle pain associated with Malaria."
+558,Kevin Church,31,Male,African American,HIV,"weight loss, fever, night sweats","Patient presents with symptoms of weight loss, fever, night sweats associated with HIV."
+559,Thomas Powell,80,Female,African American,Hypertension,"shortness of breath, headache","Patient presents with symptoms of shortness of breath, headache associated with Hypertension."
+560,Heather Quinn,44,Female,African American,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+561,Tony Fleming,62,Male,Asian,Heart Disease,"fatigue, shortness of breath, chest pain, shortness of breath","Patient presents with symptoms of fatigue, shortness of breath, chest pain, shortness of breath associated with Heart Disease."
+562,Brandon Yoder,59,Female,Hispanic,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+563,Karen White,85,Male,Caucasian,Asthma,"chest tightness, shortness of breath, chest tightness","Patient presents with symptoms of chest tightness, shortness of breath, chest tightness associated with Asthma."
+564,Debra Jenkins,71,Male,African American,Diabetes,"increased thirst, increased thirst, blurred vision","Patient presents with symptoms of increased thirst, increased thirst, blurred vision associated with Diabetes."
+565,Kimberly Taylor,49,Female,African American,Typhoid,"weakness, rash, fever, weakness","Patient presents with symptoms of weakness, rash, fever, weakness associated with Typhoid."
+566,Amber Greene,68,Female,African American,Diabetes,"fatigue, increased thirst, blurred vision, fatigue","Patient presents with symptoms of fatigue, increased thirst, blurred vision, fatigue associated with Diabetes."
+567,Matthew Bird,27,Male,Caucasian,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+568,Rebecca Garrett,26,Male,Asian,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+569,Stephanie Gilbert,50,Male,Other,Heart Disease,"fatigue, shortness of breath, chest pain, chest pain","Patient presents with symptoms of fatigue, shortness of breath, chest pain, chest pain associated with Heart Disease."
+570,James Miller,57,Male,Other,Malaria,"fever, chills","Patient presents with symptoms of fever, chills associated with Malaria."
+571,Joseph Suarez,88,Male,Asian,COPD,"chronic cough, shortness of breath","Patient presents with symptoms of chronic cough, shortness of breath associated with COPD."
+572,Larry Cameron,33,Female,Hispanic,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+573,Mr. Michael Baldwin,18,Female,Other,Asthma,"shortness of breath, chest tightness, chest tightness, shortness of breath","Patient presents with symptoms of shortness of breath, chest tightness, chest tightness, shortness of breath associated with Asthma."
+574,James Combs,80,Female,Caucasian,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+575,Elizabeth Mills,45,Female,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+576,Louis Price MD,32,Female,Caucasian,Malaria,"headache, muscle pain, chills, chills","Patient presents with symptoms of headache, muscle pain, chills, chills associated with Malaria."
+577,Christopher Johnson,51,Female,Hispanic,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+578,Kathleen Everett MD,80,Female,African American,Ulcer,"stomach pain, bloating, vomiting, stomach pain","Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+579,Andrea Davis,44,Male,African American,Hypertension,"shortness of breath, dizziness, headache, headache","Patient presents with symptoms of shortness of breath, dizziness, headache, headache associated with Hypertension."
+580,Carol Morales,21,Female,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+581,John Leonard,75,Male,Hispanic,COPD,"wheezing, wheezing, wheezing, chronic cough","Patient presents with symptoms of wheezing, wheezing, wheezing, chronic cough associated with COPD."
+582,Andrew Mueller,30,Female,Other,Diabetes,fatigue,Patient presents with symptoms of fatigue associated with Diabetes.
+583,David Salas,62,Male,Asian,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+584,Dakota Park,19,Male,Other,HIV,"swollen lymph nodes, swollen lymph nodes, fever","Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, fever associated with HIV."
+585,Rebecca Rowland,23,Female,Other,COPD,"chest tightness, shortness of breath, wheezing, chronic cough","Patient presents with symptoms of chest tightness, shortness of breath, wheezing, chronic cough associated with COPD."
+586,Paul Buchanan,39,Female,African American,Ulcer,"stomach pain, bloating, vomiting, vomiting","Patient presents with symptoms of stomach pain, bloating, vomiting, vomiting associated with Ulcer."
+587,Sean Garcia,19,Male,Hispanic,Asthma,"chest tightness, chest tightness, chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, chest tightness, chest tightness, shortness of breath associated with Asthma."
+588,Ronald Williams,57,Female,African American,Typhoid,"weakness, abdominal pain","Patient presents with symptoms of weakness, abdominal pain associated with Typhoid."
+589,Jesse Wright,67,Male,Caucasian,COPD,chest tightness,Patient presents with symptoms of chest tightness associated with COPD.
+590,Leslie Miller,55,Male,Asian,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+591,Elijah Smith,20,Male,African American,Malaria,"muscle pain, muscle pain, fever","Patient presents with symptoms of muscle pain, muscle pain, fever associated with Malaria."
+592,Catherine Ballard,33,Female,African American,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+593,Nicholas Lopez,68,Female,Hispanic,Typhoid,"rash, rash","Patient presents with symptoms of rash, rash associated with Typhoid."
+594,John Finley,58,Male,African American,Heart Disease,"chest pain, irregular heartbeat","Patient presents with symptoms of chest pain, irregular heartbeat associated with Heart Disease."
+595,Emily Jarvis,84,Male,African American,Heart Disease,"chest pain, irregular heartbeat, irregular heartbeat, irregular heartbeat","Patient presents with symptoms of chest pain, irregular heartbeat, irregular heartbeat, irregular heartbeat associated with Heart Disease."
+596,Joshua Miller,76,Male,Hispanic,Typhoid,"fever, weakness, fever","Patient presents with symptoms of fever, weakness, fever associated with Typhoid."
+597,Patrick Williams,79,Male,Asian,HIV,"swollen lymph nodes, night sweats, swollen lymph nodes, weight loss","Patient presents with symptoms of swollen lymph nodes, night sweats, swollen lymph nodes, weight loss associated with HIV."
+598,Nancy Pollard,82,Female,Asian,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+599,Linda Obrien,28,Male,Other,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+600,Stacey Ramos,80,Female,Other,Typhoid,"abdominal pain, abdominal pain","Patient presents with symptoms of abdominal pain, abdominal pain associated with Typhoid."
+601,Charles Krause,53,Male,Other,Diabetes,"blurred vision, frequent urination","Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+602,Felicia Martinez,66,Female,African American,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+603,Jon Turner,60,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+604,Crystal Johnson,50,Female,Hispanic,Heart Disease,"fatigue, fatigue, irregular heartbeat, shortness of breath","Patient presents with symptoms of fatigue, fatigue, irregular heartbeat, shortness of breath associated with Heart Disease."
+605,Robert Khan,65,Male,Hispanic,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+606,Brittany Potter,61,Female,Caucasian,COPD,"shortness of breath, wheezing, chronic cough","Patient presents with symptoms of shortness of breath, wheezing, chronic cough associated with COPD."
+607,Erika Wiggins,29,Male,Other,Typhoid,"weakness, fever","Patient presents with symptoms of weakness, fever associated with Typhoid."
+608,Ronnie Smith,45,Male,African American,Malaria,"fever, fever","Patient presents with symptoms of fever, fever associated with Malaria."
+609,Kevin Carr,84,Male,African American,Ulcer,"vomiting, vomiting, bloating, nausea","Patient presents with symptoms of vomiting, vomiting, bloating, nausea associated with Ulcer."
+610,Vickie Robinson,66,Male,Caucasian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+611,Michaela Jones,83,Female,Hispanic,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+612,Terri Wilkins,43,Female,Other,Typhoid,"abdominal pain, fever","Patient presents with symptoms of abdominal pain, fever associated with Typhoid."
+613,Andrew Banks,18,Male,Caucasian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+614,Keith Harris,51,Female,Other,Ulcer,"stomach pain, bloating","Patient presents with symptoms of stomach pain, bloating associated with Ulcer."
+615,Michael Downs,22,Male,Caucasian,Ulcer,"stomach pain, vomiting, bloating, vomiting","Patient presents with symptoms of stomach pain, vomiting, bloating, vomiting associated with Ulcer."
+616,David Black,57,Female,Asian,COPD,"chest tightness, chronic cough","Patient presents with symptoms of chest tightness, chronic cough associated with COPD."
+617,Guy Richardson,72,Female,Asian,Ulcer,"nausea, bloating, bloating","Patient presents with symptoms of nausea, bloating, bloating associated with Ulcer."
+618,Rachel Turner,77,Male,African American,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+619,Brian Jackson,64,Male,African American,HIV,"fever, fever, weight loss","Patient presents with symptoms of fever, fever, weight loss associated with HIV."
+620,Austin Brown,28,Male,Asian,Malaria,"chills, headache","Patient presents with symptoms of chills, headache associated with Malaria."
+621,Samantha Price,48,Male,African American,COPD,"chest tightness, wheezing, chest tightness, wheezing","Patient presents with symptoms of chest tightness, wheezing, chest tightness, wheezing associated with COPD."
+622,John Lee,84,Male,African American,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+623,Jay Pollard,55,Male,Asian,Hypertension,"nosebleeds, dizziness, headache, headache","Patient presents with symptoms of nosebleeds, dizziness, headache, headache associated with Hypertension."
+624,Ashley Romero,77,Male,Caucasian,HIV,"fever, night sweats, weight loss","Patient presents with symptoms of fever, night sweats, weight loss associated with HIV."
+625,Sarah Smith,27,Female,Caucasian,Malaria,muscle pain,Patient presents with symptoms of muscle pain associated with Malaria.
+626,Dale Yu,50,Female,Asian,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+627,Gregory Acosta,53,Male,Asian,Diabetes,"increased thirst, frequent urination, increased thirst","Patient presents with symptoms of increased thirst, frequent urination, increased thirst associated with Diabetes."
+628,Cody Mooney,62,Male,Hispanic,Malaria,"headache, chills","Patient presents with symptoms of headache, chills associated with Malaria."
+629,William Higgins,33,Female,Asian,Asthma,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with Asthma."
+630,Kylie Hebert,84,Female,Asian,COPD,"shortness of breath, chronic cough, shortness of breath","Patient presents with symptoms of shortness of breath, chronic cough, shortness of breath associated with COPD."
+631,Jason Castro,73,Female,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+632,Andrew Hoffman,71,Female,Hispanic,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+633,Rebecca Gonzales,58,Female,Hispanic,Hypertension,"nosebleeds, shortness of breath, headache","Patient presents with symptoms of nosebleeds, shortness of breath, headache associated with Hypertension."
+634,Sandra Mitchell,62,Female,Asian,Ulcer,"bloating, vomiting","Patient presents with symptoms of bloating, vomiting associated with Ulcer."
+635,Richard White,72,Female,Other,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+636,Jason Stephenson,90,Female,Other,Hypertension,"shortness of breath, headache","Patient presents with symptoms of shortness of breath, headache associated with Hypertension."
+637,Grant Moore,23,Male,African American,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+638,John Perez,43,Male,Other,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+639,Janice Hogan,37,Female,Hispanic,Typhoid,"fever, weakness, abdominal pain","Patient presents with symptoms of fever, weakness, abdominal pain associated with Typhoid."
+640,Craig Colon,81,Female,Caucasian,Hypertension,"nosebleeds, shortness of breath, shortness of breath","Patient presents with symptoms of nosebleeds, shortness of breath, shortness of breath associated with Hypertension."
+641,Benjamin Fitzgerald,60,Male,Asian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+642,Patrick Burnett,74,Male,Other,COPD,"shortness of breath, chest tightness, chest tightness","Patient presents with symptoms of shortness of breath, chest tightness, chest tightness associated with COPD."
+643,Clayton Garcia,46,Female,Other,HIV,"weight loss, swollen lymph nodes, swollen lymph nodes, swollen lymph nodes","Patient presents with symptoms of weight loss, swollen lymph nodes, swollen lymph nodes, swollen lymph nodes associated with HIV."
+644,Shelby Lewis,79,Male,Caucasian,Heart Disease,"irregular heartbeat, fatigue, chest pain, chest pain","Patient presents with symptoms of irregular heartbeat, fatigue, chest pain, chest pain associated with Heart Disease."
+645,Michael Bennett,78,Male,African American,Hypertension,"nosebleeds, headache, headache, headache","Patient presents with symptoms of nosebleeds, headache, headache, headache associated with Hypertension."
+646,Gabriel Dixon,49,Male,Asian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+647,Evelyn Rodriguez,36,Female,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+648,Stephanie Edwards,88,Female,Caucasian,Ulcer,"bloating, vomiting, vomiting","Patient presents with symptoms of bloating, vomiting, vomiting associated with Ulcer."
+649,Natalie Curtis,34,Male,African American,Hypertension,"nosebleeds, dizziness, nosebleeds","Patient presents with symptoms of nosebleeds, dizziness, nosebleeds associated with Hypertension."
+650,Kathleen Trujillo,25,Male,Caucasian,COPD,"shortness of breath, chronic cough, chest tightness","Patient presents with symptoms of shortness of breath, chronic cough, chest tightness associated with COPD."
+651,James Taylor,82,Female,African American,HIV,"night sweats, swollen lymph nodes, night sweats, fever","Patient presents with symptoms of night sweats, swollen lymph nodes, night sweats, fever associated with HIV."
+652,Alexis Morgan,28,Female,Hispanic,Malaria,"headache, fever, muscle pain","Patient presents with symptoms of headache, fever, muscle pain associated with Malaria."
+653,Benjamin Ross,65,Male,Asian,Heart Disease,"shortness of breath, chest pain","Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+654,Charles Perez,35,Male,African American,Typhoid,"abdominal pain, fever","Patient presents with symptoms of abdominal pain, fever associated with Typhoid."
+655,Eugene Wright,45,Male,Hispanic,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+656,Kathleen Eaton,84,Male,Asian,None,healthy,Patient presents with symptoms of healthy associated with None.
+657,Robin Wallace,20,Male,Asian,Asthma,"wheezing, chest tightness, shortness of breath, chest tightness","Patient presents with symptoms of wheezing, chest tightness, shortness of breath, chest tightness associated with Asthma."
+658,Valerie Anthony,65,Female,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+659,Danielle Mendoza,41,Male,Caucasian,COPD,"shortness of breath, shortness of breath, shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath, wheezing associated with COPD."
+660,Emily Walker,33,Male,African American,None,healthy,Patient presents with symptoms of healthy associated with None.
+661,Joshua Owens,67,Female,Hispanic,Malaria,"headache, headache","Patient presents with symptoms of headache, headache associated with Malaria."
+662,Crystal Martinez,64,Male,Asian,COPD,"shortness of breath, chronic cough, shortness of breath","Patient presents with symptoms of shortness of breath, chronic cough, shortness of breath associated with COPD."
+663,Daniel Wright,20,Female,Other,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+664,Mrs. Stephanie Sims,52,Male,Hispanic,Malaria,"chills, headache, chills, chills","Patient presents with symptoms of chills, headache, chills, chills associated with Malaria."
+665,Robin Vargas,77,Female,Caucasian,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+666,David Gardner,62,Female,Other,Diabetes,"blurred vision, increased thirst","Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+667,Samantha Robinson,51,Male,Caucasian,Typhoid,"rash, fever","Patient presents with symptoms of rash, fever associated with Typhoid."
+668,Taylor Peters,18,Female,Caucasian,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+669,Walter Chapman,72,Male,Caucasian,Diabetes,"blurred vision, frequent urination","Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+670,Kara Miller,26,Male,African American,Ulcer,"stomach pain, nausea, stomach pain, bloating","Patient presents with symptoms of stomach pain, nausea, stomach pain, bloating associated with Ulcer."
+671,Jennifer Owens,38,Male,Caucasian,HIV,"weight loss, night sweats, swollen lymph nodes, night sweats","Patient presents with symptoms of weight loss, night sweats, swollen lymph nodes, night sweats associated with HIV."
+672,Katherine Wyatt,83,Female,African American,Asthma,"wheezing, chest tightness, coughing, chest tightness","Patient presents with symptoms of wheezing, chest tightness, coughing, chest tightness associated with Asthma."
+673,Anthony Neal,61,Female,African American,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+674,Daniel Valentine,84,Female,Asian,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+675,Jeffery Hudson,52,Male,Asian,Hypertension,"dizziness, nosebleeds","Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+676,Robert Brown,23,Male,Hispanic,Ulcer,"stomach pain, stomach pain","Patient presents with symptoms of stomach pain, stomach pain associated with Ulcer."
+677,Amy Jones,39,Female,Asian,HIV,"fever, swollen lymph nodes","Patient presents with symptoms of fever, swollen lymph nodes associated with HIV."
+678,Matthew Murillo,66,Male,Asian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+679,Colleen Hall,35,Female,African American,Heart Disease,"chest pain, chest pain, irregular heartbeat, fatigue","Patient presents with symptoms of chest pain, chest pain, irregular heartbeat, fatigue associated with Heart Disease."
+680,Jessica Woods,87,Male,Caucasian,Diabetes,"fatigue, frequent urination, blurred vision, blurred vision","Patient presents with symptoms of fatigue, frequent urination, blurred vision, blurred vision associated with Diabetes."
+681,Audrey Reeves,63,Male,African American,Ulcer,"stomach pain, bloating, vomiting, stomach pain","Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+682,Crystal Swanson,39,Male,Other,HIV,"swollen lymph nodes, fever","Patient presents with symptoms of swollen lymph nodes, fever associated with HIV."
+683,Kathryn White,53,Male,Asian,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+684,Thomas Taylor,86,Male,African American,HIV,"weight loss, night sweats, fever, fever","Patient presents with symptoms of weight loss, night sweats, fever, fever associated with HIV."
+685,Gregory Bishop,54,Male,African American,Asthma,"wheezing, shortness of breath","Patient presents with symptoms of wheezing, shortness of breath associated with Asthma."
+686,Mrs. Jamie Dickson,41,Male,Caucasian,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+687,Joseph Aguilar,65,Male,African American,Asthma,"chest tightness, coughing, chest tightness","Patient presents with symptoms of chest tightness, coughing, chest tightness associated with Asthma."
+688,Craig Buchanan,54,Female,Other,Hypertension,"dizziness, shortness of breath, dizziness, nosebleeds","Patient presents with symptoms of dizziness, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+689,Christina Clay,19,Male,Caucasian,Hypertension,"headache, headache","Patient presents with symptoms of headache, headache associated with Hypertension."
+690,Kathleen Fisher,23,Female,Caucasian,Diabetes,"increased thirst, increased thirst, blurred vision, blurred vision","Patient presents with symptoms of increased thirst, increased thirst, blurred vision, blurred vision associated with Diabetes."
+691,Dana Rodriguez,88,Male,Asian,Malaria,"muscle pain, chills, muscle pain","Patient presents with symptoms of muscle pain, chills, muscle pain associated with Malaria."
+692,Kaitlyn Carlson,59,Male,Asian,Heart Disease,"chest pain, shortness of breath, chest pain","Patient presents with symptoms of chest pain, shortness of breath, chest pain associated with Heart Disease."
+693,Gilbert Rodgers,87,Male,Caucasian,Heart Disease,"shortness of breath, irregular heartbeat, irregular heartbeat, fatigue","Patient presents with symptoms of shortness of breath, irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+694,Cassandra Taylor,70,Female,Asian,None,healthy,Patient presents with symptoms of healthy associated with None.
+695,Dawn Kerr,65,Male,Other,Asthma,"chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+696,Bruce Tanner,78,Female,Hispanic,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+697,Ronald Conner,39,Female,Hispanic,Heart Disease,"chest pain, fatigue, irregular heartbeat","Patient presents with symptoms of chest pain, fatigue, irregular heartbeat associated with Heart Disease."
+698,John Kane,48,Female,Hispanic,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+699,Joyce Raymond,87,Female,African American,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+700,Courtney Hardin,87,Male,Caucasian,COPD,"chest tightness, wheezing","Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+701,James Ramos,88,Male,Hispanic,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+702,Dennis Jones,74,Male,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+703,Wendy Aguilar,81,Male,African American,HIV,"night sweats, night sweats","Patient presents with symptoms of night sweats, night sweats associated with HIV."
+704,Justin Peterson,44,Male,Other,Malaria,"muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+705,Dawn Williams,43,Male,Asian,HIV,"weight loss, fever","Patient presents with symptoms of weight loss, fever associated with HIV."
+706,Jared Clark,26,Male,Asian,Hypertension,"dizziness, dizziness, nosebleeds","Patient presents with symptoms of dizziness, dizziness, nosebleeds associated with Hypertension."
+707,David Pollard,66,Female,Caucasian,Asthma,wheezing,Patient presents with symptoms of wheezing associated with Asthma.
+708,Lindsay Robertson,61,Female,African American,Heart Disease,"shortness of breath, shortness of breath, shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath, shortness of breath associated with Heart Disease."
+709,Seth Mason,34,Male,Caucasian,Malaria,"chills, chills, chills, chills","Patient presents with symptoms of chills, chills, chills, chills associated with Malaria."
+710,Jamie Gomez,43,Male,Asian,Heart Disease,"shortness of breath, irregular heartbeat, shortness of breath, irregular heartbeat","Patient presents with symptoms of shortness of breath, irregular heartbeat, shortness of breath, irregular heartbeat associated with Heart Disease."
+711,Jessica Vega,74,Male,Other,Asthma,coughing,Patient presents with symptoms of coughing associated with Asthma.
+712,Scott Thompson,36,Male,Caucasian,Asthma,"shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, wheezing associated with Asthma."
+713,Andrew Briggs,20,Male,Other,Ulcer,"nausea, nausea","Patient presents with symptoms of nausea, nausea associated with Ulcer."
+714,Miguel Kirk,88,Female,Caucasian,Ulcer,"nausea, nausea","Patient presents with symptoms of nausea, nausea associated with Ulcer."
+715,Christian Parks,29,Male,Other,HIV,"night sweats, weight loss, swollen lymph nodes","Patient presents with symptoms of night sweats, weight loss, swollen lymph nodes associated with HIV."
+716,Crystal Nicholson,27,Female,Caucasian,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+717,David Brown,85,Male,Hispanic,Ulcer,"nausea, bloating","Patient presents with symptoms of nausea, bloating associated with Ulcer."
+718,Rebekah Allen,62,Female,Hispanic,Diabetes,"frequent urination, increased thirst, fatigue, increased thirst","Patient presents with symptoms of frequent urination, increased thirst, fatigue, increased thirst associated with Diabetes."
+719,Lori Lane,68,Male,Asian,Diabetes,"frequent urination, blurred vision, blurred vision, fatigue","Patient presents with symptoms of frequent urination, blurred vision, blurred vision, fatigue associated with Diabetes."
+720,Melinda Brown,69,Female,Caucasian,Hypertension,"dizziness, dizziness, shortness of breath","Patient presents with symptoms of dizziness, dizziness, shortness of breath associated with Hypertension."
+721,Krystal Adams,79,Male,African American,Ulcer,"nausea, stomach pain, nausea, bloating","Patient presents with symptoms of nausea, stomach pain, nausea, bloating associated with Ulcer."
+722,Dustin Marsh,77,Female,African American,Asthma,"coughing, wheezing, wheezing, chest tightness","Patient presents with symptoms of coughing, wheezing, wheezing, chest tightness associated with Asthma."
+723,Kristen Avila,61,Female,Asian,Malaria,"headache, muscle pain, muscle pain, chills","Patient presents with symptoms of headache, muscle pain, muscle pain, chills associated with Malaria."
+724,Veronica Vasquez,88,Female,Caucasian,COPD,shortness of breath,Patient presents with symptoms of shortness of breath associated with COPD.
+725,Heather Sullivan,19,Female,Other,Heart Disease,"chest pain, shortness of breath, chest pain","Patient presents with symptoms of chest pain, shortness of breath, chest pain associated with Heart Disease."
+726,Richard Nelson,71,Male,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+727,Alexis Lynch,78,Male,Asian,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+728,Mr. James Carey Jr.,80,Male,African American,Asthma,"wheezing, coughing","Patient presents with symptoms of wheezing, coughing associated with Asthma."
+729,Tara Smith,62,Male,Other,Diabetes,"frequent urination, fatigue, frequent urination, blurred vision","Patient presents with symptoms of frequent urination, fatigue, frequent urination, blurred vision associated with Diabetes."
+730,Nicholas Hall,69,Male,Hispanic,Malaria,"headache, chills, chills, headache","Patient presents with symptoms of headache, chills, chills, headache associated with Malaria."
+731,George Hill,43,Male,Other,Ulcer,"stomach pain, nausea","Patient presents with symptoms of stomach pain, nausea associated with Ulcer."
+732,Sean Dunn,66,Male,Asian,Malaria,"muscle pain, muscle pain, headache, headache","Patient presents with symptoms of muscle pain, muscle pain, headache, headache associated with Malaria."
+733,Joy Hill DVM,49,Male,Caucasian,Ulcer,"bloating, stomach pain, nausea","Patient presents with symptoms of bloating, stomach pain, nausea associated with Ulcer."
+734,Kimberly Hendricks,72,Female,Other,Diabetes,"blurred vision, increased thirst, blurred vision","Patient presents with symptoms of blurred vision, increased thirst, blurred vision associated with Diabetes."
+735,Brooke Mullen,64,Female,Asian,COPD,"chronic cough, shortness of breath, chronic cough","Patient presents with symptoms of chronic cough, shortness of breath, chronic cough associated with COPD."
+736,Tricia Mcdonald,79,Female,Other,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+737,Lauren Delacruz,42,Female,Caucasian,Ulcer,"nausea, nausea, vomiting, bloating","Patient presents with symptoms of nausea, nausea, vomiting, bloating associated with Ulcer."
+738,Cassandra Taylor,84,Female,Other,Malaria,"chills, chills, muscle pain, muscle pain","Patient presents with symptoms of chills, chills, muscle pain, muscle pain associated with Malaria."
+739,Anthony Mcdonald,29,Female,African American,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+740,Mark Andersen,35,Male,Other,Diabetes,"increased thirst, increased thirst","Patient presents with symptoms of increased thirst, increased thirst associated with Diabetes."
+741,Brandon Garrett,45,Male,Other,Diabetes,"fatigue, fatigue","Patient presents with symptoms of fatigue, fatigue associated with Diabetes."
+742,Judith Howell,34,Female,Caucasian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+743,Shawn Maxwell,80,Female,Asian,Diabetes,fatigue,Patient presents with symptoms of fatigue associated with Diabetes.
+744,Jamie Combs,22,Male,Caucasian,Diabetes,"blurred vision, blurred vision","Patient presents with symptoms of blurred vision, blurred vision associated with Diabetes."
+745,Jacob Singh,65,Male,Asian,HIV,"fever, weight loss","Patient presents with symptoms of fever, weight loss associated with HIV."
+746,Richard Perez,62,Female,Caucasian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+747,Christopher Smith,51,Male,African American,Ulcer,"bloating, stomach pain","Patient presents with symptoms of bloating, stomach pain associated with Ulcer."
+748,Kimberly Hill,18,Female,African American,Ulcer,"nausea, nausea, nausea","Patient presents with symptoms of nausea, nausea, nausea associated with Ulcer."
+749,Dawn Gonzalez,70,Male,Hispanic,Malaria,"headache, chills, muscle pain","Patient presents with symptoms of headache, chills, muscle pain associated with Malaria."
+750,Mark Young,42,Male,African American,Typhoid,"abdominal pain, abdominal pain","Patient presents with symptoms of abdominal pain, abdominal pain associated with Typhoid."
+751,Carly Crosby,89,Female,African American,Heart Disease,"fatigue, irregular heartbeat, fatigue","Patient presents with symptoms of fatigue, irregular heartbeat, fatigue associated with Heart Disease."
+752,Randall Armstrong,39,Male,Asian,Diabetes,frequent urination,Patient presents with symptoms of frequent urination associated with Diabetes.
+753,Ricky Brown,33,Female,Caucasian,HIV,"fever, weight loss","Patient presents with symptoms of fever, weight loss associated with HIV."
+754,Danielle Hamilton,73,Female,African American,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+755,Bill Harris,18,Female,Asian,COPD,"chest tightness, chest tightness, shortness of breath, shortness of breath","Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with COPD."
+756,Melanie King,37,Male,Asian,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+757,Jennifer Stevens,69,Male,Hispanic,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+758,Katrina Nelson,19,Male,African American,Hypertension,dizziness,Patient presents with symptoms of dizziness associated with Hypertension.
+759,Michael Brown,55,Female,Asian,Heart Disease,chest pain,Patient presents with symptoms of chest pain associated with Heart Disease.
+760,Ashley Warren,77,Female,Other,Diabetes,"frequent urination, blurred vision, fatigue","Patient presents with symptoms of frequent urination, blurred vision, fatigue associated with Diabetes."
+761,James Mcdonald,26,Female,African American,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+762,Allison King,67,Male,Hispanic,COPD,"shortness of breath, chronic cough, chest tightness, chest tightness","Patient presents with symptoms of shortness of breath, chronic cough, chest tightness, chest tightness associated with COPD."
+763,Katelyn Wright,64,Female,Asian,Ulcer,vomiting,Patient presents with symptoms of vomiting associated with Ulcer.
+764,Thomas Smith,69,Male,African American,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+765,Emma Peterson,68,Male,African American,Typhoid,"rash, rash, rash","Patient presents with symptoms of rash, rash, rash associated with Typhoid."
+766,Kevin Bailey,58,Male,African American,Ulcer,"vomiting, nausea","Patient presents with symptoms of vomiting, nausea associated with Ulcer."
+767,John Carroll,57,Female,Caucasian,COPD,"chest tightness, chronic cough, chest tightness","Patient presents with symptoms of chest tightness, chronic cough, chest tightness associated with COPD."
+768,Benjamin Hicks,44,Male,Asian,HIV,"fever, weight loss","Patient presents with symptoms of fever, weight loss associated with HIV."
+769,Kevin Lewis,51,Female,African American,Hypertension,"shortness of breath, nosebleeds, nosebleeds","Patient presents with symptoms of shortness of breath, nosebleeds, nosebleeds associated with Hypertension."
+770,Melissa Brown,44,Male,Caucasian,None,healthy,Patient presents with symptoms of healthy associated with None.
+771,Kristen Gilbert,51,Female,Other,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+772,David Dorsey,42,Female,Other,HIV,swollen lymph nodes,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+773,Thomas Lopez,55,Male,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+774,Miss Laura Montgomery,53,Female,Hispanic,Hypertension,"dizziness, dizziness","Patient presents with symptoms of dizziness, dizziness associated with Hypertension."
+775,Molly Golden,36,Male,Hispanic,Malaria,fever,Patient presents with symptoms of fever associated with Malaria.
+776,Leah Diaz,41,Female,African American,Ulcer,"stomach pain, nausea","Patient presents with symptoms of stomach pain, nausea associated with Ulcer."
+777,Meghan Johnson,24,Female,African American,Asthma,"chest tightness, chest tightness, shortness of breath, shortness of breath","Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+778,David Franklin,80,Female,Asian,Malaria,headache,Patient presents with symptoms of headache associated with Malaria.
+779,Bruce Taylor,32,Female,Hispanic,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+780,Jacqueline Hawkins,78,Male,Other,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+781,Richard Rivera,85,Female,Caucasian,COPD,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+782,Terry Hinton,86,Female,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+783,Leslie Owens,85,Male,Hispanic,Malaria,"headache, muscle pain, headache, fever","Patient presents with symptoms of headache, muscle pain, headache, fever associated with Malaria."
+784,John Day,55,Male,Caucasian,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+785,Elizabeth Hahn,73,Female,Other,Malaria,"fever, fever, muscle pain","Patient presents with symptoms of fever, fever, muscle pain associated with Malaria."
+786,Darius Wood,61,Female,Other,Diabetes,"increased thirst, frequent urination, increased thirst, fatigue","Patient presents with symptoms of increased thirst, frequent urination, increased thirst, fatigue associated with Diabetes."
+787,Sandra Chandler,61,Female,Other,Diabetes,fatigue,Patient presents with symptoms of fatigue associated with Diabetes.
+788,Susan Johnson,72,Male,Other,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+789,Jessica Hoffman,66,Male,Asian,Typhoid,"fever, fever, abdominal pain","Patient presents with symptoms of fever, fever, abdominal pain associated with Typhoid."
+790,Mark Walker,50,Male,Hispanic,Hypertension,"nosebleeds, dizziness","Patient presents with symptoms of nosebleeds, dizziness associated with Hypertension."
+791,Jose Hinton,26,Male,Caucasian,COPD,"wheezing, shortness of breath, chronic cough","Patient presents with symptoms of wheezing, shortness of breath, chronic cough associated with COPD."
+792,Jeremy Lopez,62,Male,Asian,Heart Disease,"fatigue, chest pain, chest pain, chest pain","Patient presents with symptoms of fatigue, chest pain, chest pain, chest pain associated with Heart Disease."
+793,Johnathan Nunez,35,Male,Caucasian,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+794,Heidi Young,26,Male,Other,HIV,"night sweats, fever, night sweats, weight loss","Patient presents with symptoms of night sweats, fever, night sweats, weight loss associated with HIV."
+795,Robert Cruz,61,Male,African American,Diabetes,"fatigue, increased thirst","Patient presents with symptoms of fatigue, increased thirst associated with Diabetes."
+796,Richard Long,25,Female,African American,Asthma,"coughing, chest tightness, shortness of breath","Patient presents with symptoms of coughing, chest tightness, shortness of breath associated with Asthma."
+797,Jason Miller,89,Female,African American,Ulcer,"vomiting, bloating, bloating, bloating","Patient presents with symptoms of vomiting, bloating, bloating, bloating associated with Ulcer."
+798,Andrea Anderson,69,Male,African American,Heart Disease,"shortness of breath, fatigue, irregular heartbeat, chest pain","Patient presents with symptoms of shortness of breath, fatigue, irregular heartbeat, chest pain associated with Heart Disease."
+799,Sandra Wilson,88,Male,Caucasian,Typhoid,"weakness, abdominal pain, rash, weakness","Patient presents with symptoms of weakness, abdominal pain, rash, weakness associated with Typhoid."
+800,James Miller,56,Male,Asian,Asthma,"chest tightness, chest tightness, shortness of breath, shortness of breath","Patient presents with symptoms of chest tightness, chest tightness, shortness of breath, shortness of breath associated with Asthma."
+801,Joseph Jackson,81,Female,African American,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+802,Harold Duncan,78,Female,Caucasian,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+803,Alice Lopez,49,Male,Asian,COPD,"chest tightness, wheezing","Patient presents with symptoms of chest tightness, wheezing associated with COPD."
+804,Phillip Smith,84,Female,Other,Diabetes,"increased thirst, blurred vision, blurred vision","Patient presents with symptoms of increased thirst, blurred vision, blurred vision associated with Diabetes."
+805,Stephanie Webb,64,Female,Caucasian,Diabetes,"fatigue, frequent urination, increased thirst","Patient presents with symptoms of fatigue, frequent urination, increased thirst associated with Diabetes."
+806,Hannah Beck,71,Male,Caucasian,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+807,Kim Smith,64,Female,Asian,COPD,chronic cough,Patient presents with symptoms of chronic cough associated with COPD.
+808,Aaron Tucker,36,Female,Asian,HIV,"night sweats, swollen lymph nodes, night sweats, fever","Patient presents with symptoms of night sweats, swollen lymph nodes, night sweats, fever associated with HIV."
+809,Christopher Hart,48,Male,Asian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+810,Benjamin Wolf,21,Male,Hispanic,Typhoid,"rash, fever","Patient presents with symptoms of rash, fever associated with Typhoid."
+811,Abigail Dalton,88,Male,Hispanic,Typhoid,"abdominal pain, abdominal pain, weakness","Patient presents with symptoms of abdominal pain, abdominal pain, weakness associated with Typhoid."
+812,Sharon White,74,Male,Asian,HIV,"fever, fever","Patient presents with symptoms of fever, fever associated with HIV."
+813,Sarah Francis,31,Female,African American,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+814,Amanda Johnson,46,Female,Caucasian,COPD,"shortness of breath, chronic cough","Patient presents with symptoms of shortness of breath, chronic cough associated with COPD."
+815,Jessica Callahan,88,Male,African American,Hypertension,"dizziness, dizziness, nosebleeds","Patient presents with symptoms of dizziness, dizziness, nosebleeds associated with Hypertension."
+816,Scott Young,20,Male,Other,Asthma,"shortness of breath, coughing, wheezing, wheezing","Patient presents with symptoms of shortness of breath, coughing, wheezing, wheezing associated with Asthma."
+817,Yolanda Nguyen,38,Female,Hispanic,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+818,Gregory Mann,28,Male,Caucasian,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+819,Lauren Sutton,70,Male,Hispanic,COPD,"chest tightness, wheezing, wheezing, chronic cough","Patient presents with symptoms of chest tightness, wheezing, wheezing, chronic cough associated with COPD."
+820,Patricia Freeman,32,Female,Hispanic,HIV,"fever, fever, fever, swollen lymph nodes","Patient presents with symptoms of fever, fever, fever, swollen lymph nodes associated with HIV."
+821,Lisa Johnson,31,Male,Asian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+822,Robert Smith,60,Female,Caucasian,Ulcer,"vomiting, nausea, vomiting","Patient presents with symptoms of vomiting, nausea, vomiting associated with Ulcer."
+823,Joanna Carlson,23,Female,Asian,Asthma,"coughing, shortness of breath, coughing, wheezing","Patient presents with symptoms of coughing, shortness of breath, coughing, wheezing associated with Asthma."
+824,Thomas Morton,50,Male,African American,Asthma,"wheezing, coughing","Patient presents with symptoms of wheezing, coughing associated with Asthma."
+825,Joanne Robinson,38,Female,Caucasian,Heart Disease,"fatigue, chest pain, fatigue, irregular heartbeat","Patient presents with symptoms of fatigue, chest pain, fatigue, irregular heartbeat associated with Heart Disease."
+826,Christopher Fitzgerald,41,Male,African American,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+827,Karen Wiley,18,Female,Hispanic,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+828,James Lopez,40,Male,Hispanic,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+829,Brittney Castillo,59,Female,Other,Diabetes,"blurred vision, increased thirst","Patient presents with symptoms of blurred vision, increased thirst associated with Diabetes."
+830,Joshua Lowe,54,Female,Caucasian,Typhoid,"fever, weakness, rash, weakness","Patient presents with symptoms of fever, weakness, rash, weakness associated with Typhoid."
+831,Jose Juarez,80,Female,Other,Hypertension,dizziness,Patient presents with symptoms of dizziness associated with Hypertension.
+832,Michael Ellis,85,Male,Hispanic,Ulcer,"stomach pain, nausea, stomach pain","Patient presents with symptoms of stomach pain, nausea, stomach pain associated with Ulcer."
+833,David Ingram,37,Female,Asian,Hypertension,headache,Patient presents with symptoms of headache associated with Hypertension.
+834,Michael Elliott,63,Male,Other,Hypertension,shortness of breath,Patient presents with symptoms of shortness of breath associated with Hypertension.
+835,Jocelyn Ramirez,55,Male,African American,Diabetes,"frequent urination, fatigue, blurred vision","Patient presents with symptoms of frequent urination, fatigue, blurred vision associated with Diabetes."
+836,Molly Green,29,Male,Caucasian,Heart Disease,"chest pain, fatigue","Patient presents with symptoms of chest pain, fatigue associated with Heart Disease."
+837,Deborah Bishop,52,Female,Hispanic,Typhoid,"fever, abdominal pain, rash","Patient presents with symptoms of fever, abdominal pain, rash associated with Typhoid."
+838,Robin Edwards,49,Female,Caucasian,COPD,"wheezing, chronic cough, shortness of breath, shortness of breath","Patient presents with symptoms of wheezing, chronic cough, shortness of breath, shortness of breath associated with COPD."
+839,Kyle Huang,55,Male,Hispanic,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+840,Rebecca Ritter,32,Female,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+841,Ms. Veronica Clay,83,Male,Hispanic,Typhoid,"weakness, rash","Patient presents with symptoms of weakness, rash associated with Typhoid."
+842,Sarah Gutierrez,56,Male,Hispanic,COPD,wheezing,Patient presents with symptoms of wheezing associated with COPD.
+843,Alyssa Adams,47,Male,Other,Hypertension,"headache, nosebleeds","Patient presents with symptoms of headache, nosebleeds associated with Hypertension."
+844,Jamie Cooper,39,Female,Other,HIV,"fever, night sweats","Patient presents with symptoms of fever, night sweats associated with HIV."
+845,Joseph Quinn,63,Female,Asian,Malaria,muscle pain,Patient presents with symptoms of muscle pain associated with Malaria.
+846,Dennis Barrett,29,Male,African American,Diabetes,"blurred vision, frequent urination","Patient presents with symptoms of blurred vision, frequent urination associated with Diabetes."
+847,Laura Johnson,73,Female,African American,Malaria,"muscle pain, chills","Patient presents with symptoms of muscle pain, chills associated with Malaria."
+848,Christopher Williams,21,Male,Hispanic,Diabetes,frequent urination,Patient presents with symptoms of frequent urination associated with Diabetes.
+849,Vanessa Watson,50,Male,Hispanic,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+850,Elizabeth Fischer,54,Female,Hispanic,Malaria,"headache, muscle pain, muscle pain, muscle pain","Patient presents with symptoms of headache, muscle pain, muscle pain, muscle pain associated with Malaria."
+851,Robert Rose,26,Male,Asian,Ulcer,"stomach pain, stomach pain, nausea, stomach pain","Patient presents with symptoms of stomach pain, stomach pain, nausea, stomach pain associated with Ulcer."
+852,Maria Buck,69,Male,African American,Typhoid,"rash, fever, abdominal pain","Patient presents with symptoms of rash, fever, abdominal pain associated with Typhoid."
+853,Scott Page,51,Female,Hispanic,Ulcer,"bloating, vomiting, nausea, nausea","Patient presents with symptoms of bloating, vomiting, nausea, nausea associated with Ulcer."
+854,Michelle Gross,74,Male,African American,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+855,Ryan Rollins,80,Female,Other,Diabetes,"blurred vision, blurred vision, frequent urination, increased thirst","Patient presents with symptoms of blurred vision, blurred vision, frequent urination, increased thirst associated with Diabetes."
+856,William Santiago,83,Female,Other,COPD,"shortness of breath, chronic cough, chest tightness","Patient presents with symptoms of shortness of breath, chronic cough, chest tightness associated with COPD."
+857,Taylor Pierce,45,Female,Other,Hypertension,"shortness of breath, nosebleeds","Patient presents with symptoms of shortness of breath, nosebleeds associated with Hypertension."
+858,Christopher Cohen,29,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+859,William Pugh,30,Female,Hispanic,Asthma,shortness of breath,Patient presents with symptoms of shortness of breath associated with Asthma.
+860,Adam Hanson,51,Male,Hispanic,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+861,Lauren English,57,Male,Caucasian,Diabetes,blurred vision,Patient presents with symptoms of blurred vision associated with Diabetes.
+862,Heidi Hicks,53,Male,African American,Heart Disease,"shortness of breath, shortness of breath, chest pain","Patient presents with symptoms of shortness of breath, shortness of breath, chest pain associated with Heart Disease."
+863,Daniel Arnold,41,Male,Asian,HIV,"swollen lymph nodes, night sweats, swollen lymph nodes","Patient presents with symptoms of swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+864,Linda Cooper,24,Male,African American,Heart Disease,fatigue,Patient presents with symptoms of fatigue associated with Heart Disease.
+865,James Chandler,38,Male,African American,HIV,"night sweats, swollen lymph nodes","Patient presents with symptoms of night sweats, swollen lymph nodes associated with HIV."
+866,Danielle Farmer,56,Female,African American,None,"no symptoms, no symptoms","Patient presents with symptoms of no symptoms, no symptoms associated with None."
+867,Christian Ramos,25,Female,Hispanic,Diabetes,frequent urination,Patient presents with symptoms of frequent urination associated with Diabetes.
+868,Jacob Davila,20,Female,Caucasian,Typhoid,weakness,Patient presents with symptoms of weakness associated with Typhoid.
+869,Richard Rodriguez,53,Female,Other,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+870,Guy Davis,79,Male,Asian,Diabetes,"frequent urination, increased thirst, fatigue, blurred vision","Patient presents with symptoms of frequent urination, increased thirst, fatigue, blurred vision associated with Diabetes."
+871,Jon Mccann,26,Female,African American,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+872,Susan Owen,54,Male,Asian,Hypertension,"shortness of breath, shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath, shortness of breath associated with Hypertension."
+873,Gary Roberts,82,Male,Caucasian,Hypertension,"dizziness, nosebleeds","Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+874,Virginia Macias,67,Female,Hispanic,Diabetes,"increased thirst, blurred vision, fatigue","Patient presents with symptoms of increased thirst, blurred vision, fatigue associated with Diabetes."
+875,Jacob Rhodes,27,Female,Hispanic,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+876,Steven Juarez,68,Female,Caucasian,Hypertension,"nosebleeds, shortness of breath, dizziness, nosebleeds","Patient presents with symptoms of nosebleeds, shortness of breath, dizziness, nosebleeds associated with Hypertension."
+877,Heather Stokes,29,Male,Caucasian,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+878,Alexandra Sullivan,85,Male,Other,Typhoid,"weakness, weakness, fever, abdominal pain","Patient presents with symptoms of weakness, weakness, fever, abdominal pain associated with Typhoid."
+879,Keith Walker,22,Female,Asian,Ulcer,"nausea, vomiting, nausea","Patient presents with symptoms of nausea, vomiting, nausea associated with Ulcer."
+880,Steve Johnson,28,Male,Asian,Hypertension,"nosebleeds, shortness of breath, dizziness","Patient presents with symptoms of nosebleeds, shortness of breath, dizziness associated with Hypertension."
+881,Heather Mercer,84,Female,Other,Asthma,"chest tightness, shortness of breath","Patient presents with symptoms of chest tightness, shortness of breath associated with Asthma."
+882,Jennifer Mcdaniel,60,Female,Asian,Diabetes,"increased thirst, frequent urination","Patient presents with symptoms of increased thirst, frequent urination associated with Diabetes."
+883,Brian Wilson,49,Female,Caucasian,Heart Disease,"shortness of breath, fatigue","Patient presents with symptoms of shortness of breath, fatigue associated with Heart Disease."
+884,Michael Sosa,64,Male,African American,None,healthy,Patient presents with symptoms of healthy associated with None.
+885,Adam Anderson,65,Male,Hispanic,Diabetes,"increased thirst, blurred vision","Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+886,Emily Green,43,Male,African American,Asthma,"wheezing, wheezing","Patient presents with symptoms of wheezing, wheezing associated with Asthma."
+887,Jennifer Davis,75,Female,Caucasian,Typhoid,"fever, rash, rash","Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+888,Larry Cooper,80,Female,Asian,Malaria,"chills, chills, chills, fever","Patient presents with symptoms of chills, chills, chills, fever associated with Malaria."
+889,Crystal Carroll,28,Male,Caucasian,Ulcer,"nausea, bloating, nausea, bloating","Patient presents with symptoms of nausea, bloating, nausea, bloating associated with Ulcer."
+890,Thomas Richards,41,Female,Hispanic,Ulcer,stomach pain,Patient presents with symptoms of stomach pain associated with Ulcer.
+891,Kenneth Sanders,58,Male,Caucasian,Diabetes,"fatigue, blurred vision","Patient presents with symptoms of fatigue, blurred vision associated with Diabetes."
+892,John Turner,56,Female,Caucasian,HIV,night sweats,Patient presents with symptoms of night sweats associated with HIV.
+893,Elizabeth Bennett,73,Female,Caucasian,Asthma,"wheezing, coughing, coughing","Patient presents with symptoms of wheezing, coughing, coughing associated with Asthma."
+894,Robert Garcia,43,Male,Other,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+895,Melissa Strong,65,Male,Caucasian,Malaria,"muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+896,Joyce Carroll,22,Female,Hispanic,Asthma,"wheezing, shortness of breath, wheezing, coughing","Patient presents with symptoms of wheezing, shortness of breath, wheezing, coughing associated with Asthma."
+897,Russell Bishop,62,Female,Other,Ulcer,bloating,Patient presents with symptoms of bloating associated with Ulcer.
+898,Jessica Murphy,27,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+899,Dale Lozano,71,Male,Other,Ulcer,"stomach pain, vomiting","Patient presents with symptoms of stomach pain, vomiting associated with Ulcer."
+900,Marcus Franklin,27,Male,Caucasian,COPD,"shortness of breath, wheezing","Patient presents with symptoms of shortness of breath, wheezing associated with COPD."
+901,Mary Davis,34,Female,Asian,Heart Disease,"fatigue, chest pain, irregular heartbeat, chest pain","Patient presents with symptoms of fatigue, chest pain, irregular heartbeat, chest pain associated with Heart Disease."
+902,Austin Nunez,54,Female,Other,Heart Disease,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with Heart Disease."
+903,Patrick Padilla,51,Female,Hispanic,HIV,"night sweats, swollen lymph nodes, fever, fever","Patient presents with symptoms of night sweats, swollen lymph nodes, fever, fever associated with HIV."
+904,Samuel Roberts,62,Male,Hispanic,Ulcer,"vomiting, stomach pain","Patient presents with symptoms of vomiting, stomach pain associated with Ulcer."
+905,Brian Rodriguez,31,Male,Caucasian,Hypertension,"dizziness, headache, dizziness, nosebleeds","Patient presents with symptoms of dizziness, headache, dizziness, nosebleeds associated with Hypertension."
+906,Jennifer Larsen,45,Male,Hispanic,HIV,weight loss,Patient presents with symptoms of weight loss associated with HIV.
+907,Colin Jackson,60,Male,Hispanic,Hypertension,"dizziness, nosebleeds, headache, shortness of breath","Patient presents with symptoms of dizziness, nosebleeds, headache, shortness of breath associated with Hypertension."
+908,Colleen Harrington,86,Male,Caucasian,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+909,Margaret Martinez,77,Female,African American,Malaria,"headache, fever, muscle pain, chills","Patient presents with symptoms of headache, fever, muscle pain, chills associated with Malaria."
+910,Robert Walter,71,Female,African American,HIV,"swollen lymph nodes, swollen lymph nodes, night sweats, swollen lymph nodes","Patient presents with symptoms of swollen lymph nodes, swollen lymph nodes, night sweats, swollen lymph nodes associated with HIV."
+911,Michelle Graham,29,Female,African American,COPD,"chronic cough, shortness of breath, shortness of breath, wheezing","Patient presents with symptoms of chronic cough, shortness of breath, shortness of breath, wheezing associated with COPD."
+912,Erica Johnson,61,Male,Asian,HIV,"fever, weight loss","Patient presents with symptoms of fever, weight loss associated with HIV."
+913,Jonathon Cabrera,71,Female,Caucasian,Typhoid,"abdominal pain, abdominal pain, weakness","Patient presents with symptoms of abdominal pain, abdominal pain, weakness associated with Typhoid."
+914,Sally Young,39,Female,Hispanic,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+915,Sheila Roberts,70,Female,Asian,Malaria,chills,Patient presents with symptoms of chills associated with Malaria.
+916,Crystal Blanchard,31,Female,Asian,COPD,"chronic cough, chronic cough","Patient presents with symptoms of chronic cough, chronic cough associated with COPD."
+917,Jennifer Wong,44,Female,Caucasian,None,"healthy, no symptoms","Patient presents with symptoms of healthy, no symptoms associated with None."
+918,Derek Aguirre,89,Male,Hispanic,Diabetes,"blurred vision, increased thirst, fatigue","Patient presents with symptoms of blurred vision, increased thirst, fatigue associated with Diabetes."
+919,Yolanda Jackson,63,Male,Caucasian,Ulcer,"bloating, vomiting, vomiting, nausea","Patient presents with symptoms of bloating, vomiting, vomiting, nausea associated with Ulcer."
+920,Douglas Ellison,76,Female,Asian,Ulcer,nausea,Patient presents with symptoms of nausea associated with Ulcer.
+921,David Cunningham,86,Female,Other,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+922,Ana Griffin,41,Male,Other,None,healthy,Patient presents with symptoms of healthy associated with None.
+923,Christopher Sullivan,45,Female,Caucasian,Asthma,"coughing, coughing, shortness of breath, coughing","Patient presents with symptoms of coughing, coughing, shortness of breath, coughing associated with Asthma."
+924,Michael Bishop,78,Male,Asian,Hypertension,"headache, headache, nosebleeds, nosebleeds","Patient presents with symptoms of headache, headache, nosebleeds, nosebleeds associated with Hypertension."
+925,Kristy Green,74,Male,African American,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+926,Brian Medina,64,Male,Caucasian,Ulcer,"stomach pain, bloating, stomach pain","Patient presents with symptoms of stomach pain, bloating, stomach pain associated with Ulcer."
+927,Shelby Lambert,53,Male,Other,Asthma,"coughing, shortness of breath, wheezing, wheezing","Patient presents with symptoms of coughing, shortness of breath, wheezing, wheezing associated with Asthma."
+928,Tammy Wilkinson,59,Female,Other,Typhoid,rash,Patient presents with symptoms of rash associated with Typhoid.
+929,Anna Yu,87,Female,Caucasian,Diabetes,"blurred vision, fatigue, frequent urination","Patient presents with symptoms of blurred vision, fatigue, frequent urination associated with Diabetes."
+930,Jeffrey Anderson,50,Female,Other,Heart Disease,"shortness of breath, fatigue, shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, fatigue, shortness of breath, shortness of breath associated with Heart Disease."
+931,Peter Barnes,83,Male,Hispanic,Asthma,"chest tightness, coughing, shortness of breath","Patient presents with symptoms of chest tightness, coughing, shortness of breath associated with Asthma."
+932,Angela Joseph,55,Female,Asian,Malaria,"headache, chills, fever","Patient presents with symptoms of headache, chills, fever associated with Malaria."
+933,David Jones,40,Male,Other,Heart Disease,"fatigue, irregular heartbeat","Patient presents with symptoms of fatigue, irregular heartbeat associated with Heart Disease."
+934,Christine Mcdonald,69,Female,Caucasian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+935,Peter Morrison,71,Male,African American,Hypertension,"shortness of breath, nosebleeds","Patient presents with symptoms of shortness of breath, nosebleeds associated with Hypertension."
+936,Roberta Robinson,39,Male,Asian,Diabetes,frequent urination,Patient presents with symptoms of frequent urination associated with Diabetes.
+937,Jackson Davis,48,Male,Caucasian,HIV,"weight loss, night sweats, night sweats","Patient presents with symptoms of weight loss, night sweats, night sweats associated with HIV."
+938,Michael Fuller,89,Male,Caucasian,Malaria,"headache, muscle pain","Patient presents with symptoms of headache, muscle pain associated with Malaria."
+939,Ashley Simmons,66,Female,Other,Heart Disease,"chest pain, irregular heartbeat, fatigue","Patient presents with symptoms of chest pain, irregular heartbeat, fatigue associated with Heart Disease."
+940,Zachary Jackson,45,Male,African American,Heart Disease,"irregular heartbeat, shortness of breath","Patient presents with symptoms of irregular heartbeat, shortness of breath associated with Heart Disease."
+941,Andrew Snyder,51,Male,Caucasian,COPD,chest tightness,Patient presents with symptoms of chest tightness associated with COPD.
+942,Johnathan Castillo,45,Female,Caucasian,Malaria,"muscle pain, muscle pain","Patient presents with symptoms of muscle pain, muscle pain associated with Malaria."
+943,Ariel Smith,24,Female,Asian,HIV,swollen lymph nodes,Patient presents with symptoms of swollen lymph nodes associated with HIV.
+944,Matthew Young,61,Male,Asian,Hypertension,shortness of breath,Patient presents with symptoms of shortness of breath associated with Hypertension.
+945,Taylor Simmons,72,Female,African American,HIV,"fever, swollen lymph nodes, swollen lymph nodes, weight loss","Patient presents with symptoms of fever, swollen lymph nodes, swollen lymph nodes, weight loss associated with HIV."
+946,Chad Torres,26,Male,Caucasian,Malaria,"chills, chills, fever, fever","Patient presents with symptoms of chills, chills, fever, fever associated with Malaria."
+947,John Ayala,79,Male,Caucasian,Asthma,"shortness of breath, coughing","Patient presents with symptoms of shortness of breath, coughing associated with Asthma."
+948,Penny Griffin,66,Female,Other,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+949,Sarah Jones,81,Female,Hispanic,Heart Disease,"irregular heartbeat, irregular heartbeat, fatigue","Patient presents with symptoms of irregular heartbeat, irregular heartbeat, fatigue associated with Heart Disease."
+950,Jose Pierce,18,Female,Other,HIV,fever,Patient presents with symptoms of fever associated with HIV.
+951,Julie Grimes,86,Male,Hispanic,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+952,Miss Shannon Carlson,36,Female,African American,COPD,"shortness of breath, shortness of breath","Patient presents with symptoms of shortness of breath, shortness of breath associated with COPD."
+953,Timothy Dixon,39,Male,Hispanic,Diabetes,"frequent urination, blurred vision","Patient presents with symptoms of frequent urination, blurred vision associated with Diabetes."
+954,Daniel Hale,35,Male,Caucasian,None,no symptoms,Patient presents with symptoms of no symptoms associated with None.
+955,Patrick Phillips,71,Male,Other,Hypertension,"headache, headache, nosebleeds, nosebleeds","Patient presents with symptoms of headache, headache, nosebleeds, nosebleeds associated with Hypertension."
+956,Alexis Shah,49,Female,Hispanic,Malaria,"chills, muscle pain","Patient presents with symptoms of chills, muscle pain associated with Malaria."
+957,Jennifer Gregory,59,Male,Hispanic,Asthma,"coughing, coughing, chest tightness, coughing","Patient presents with symptoms of coughing, coughing, chest tightness, coughing associated with Asthma."
+958,Joseph Williams,39,Male,African American,Malaria,"headache, fever","Patient presents with symptoms of headache, fever associated with Malaria."
+959,Cody Green,48,Male,Hispanic,Ulcer,"bloating, bloating, vomiting","Patient presents with symptoms of bloating, bloating, vomiting associated with Ulcer."
+960,Nicole Johnson,36,Female,Hispanic,Heart Disease,shortness of breath,Patient presents with symptoms of shortness of breath associated with Heart Disease.
+961,Charles Norton,78,Female,Caucasian,Malaria,"headache, headache","Patient presents with symptoms of headache, headache associated with Malaria."
+962,Tina Payne,68,Male,Asian,HIV,"weight loss, fever, weight loss","Patient presents with symptoms of weight loss, fever, weight loss associated with HIV."
+963,Andrew Short,39,Female,Other,Asthma,"coughing, chest tightness","Patient presents with symptoms of coughing, chest tightness associated with Asthma."
+964,Anthony Chen,20,Male,Other,Typhoid,abdominal pain,Patient presents with symptoms of abdominal pain associated with Typhoid.
+965,Alyssa Green,23,Male,Other,Ulcer,"stomach pain, bloating, vomiting, stomach pain","Patient presents with symptoms of stomach pain, bloating, vomiting, stomach pain associated with Ulcer."
+966,Joseph Reyes,34,Female,Asian,Malaria,"headache, fever, fever, chills","Patient presents with symptoms of headache, fever, fever, chills associated with Malaria."
+967,Megan Weber,38,Male,Caucasian,HIV,"night sweats, weight loss, weight loss, swollen lymph nodes","Patient presents with symptoms of night sweats, weight loss, weight loss, swollen lymph nodes associated with HIV."
+968,Marcus Vega,54,Female,Asian,Typhoid,"abdominal pain, rash, rash, abdominal pain","Patient presents with symptoms of abdominal pain, rash, rash, abdominal pain associated with Typhoid."
+969,Megan Wright,47,Male,Caucasian,Heart Disease,"shortness of breath, chest pain","Patient presents with symptoms of shortness of breath, chest pain associated with Heart Disease."
+970,Ann Colon,29,Female,Other,HIV,"swollen lymph nodes, night sweats","Patient presents with symptoms of swollen lymph nodes, night sweats associated with HIV."
+971,Danielle Pace,30,Male,Caucasian,Hypertension,"dizziness, nosebleeds","Patient presents with symptoms of dizziness, nosebleeds associated with Hypertension."
+972,Christopher Huynh,51,Male,Other,COPD,"wheezing, chest tightness, chest tightness, chest tightness","Patient presents with symptoms of wheezing, chest tightness, chest tightness, chest tightness associated with COPD."
+973,Edward Nelson,63,Male,Other,None,"no symptoms, healthy","Patient presents with symptoms of no symptoms, healthy associated with None."
+974,Kyle Sims,64,Female,Hispanic,Heart Disease,"fatigue, fatigue, shortness of breath, irregular heartbeat","Patient presents with symptoms of fatigue, fatigue, shortness of breath, irregular heartbeat associated with Heart Disease."
+975,Laura Hart,88,Female,Hispanic,HIV,"weight loss, swollen lymph nodes","Patient presents with symptoms of weight loss, swollen lymph nodes associated with HIV."
+976,Ryan Foster,78,Female,Caucasian,None,"healthy, healthy","Patient presents with symptoms of healthy, healthy associated with None."
+977,Robyn Brown,67,Male,Asian,Typhoid,"fever, rash, rash","Patient presents with symptoms of fever, rash, rash associated with Typhoid."
+978,Timothy Johnson,63,Female,Other,Asthma,"wheezing, shortness of breath, wheezing, wheezing","Patient presents with symptoms of wheezing, shortness of breath, wheezing, wheezing associated with Asthma."
+979,Joshua Bailey,51,Female,Caucasian,Diabetes,"increased thirst, blurred vision","Patient presents with symptoms of increased thirst, blurred vision associated with Diabetes."
+980,Raymond Richardson,31,Male,Caucasian,Diabetes,increased thirst,Patient presents with symptoms of increased thirst associated with Diabetes.
+981,Katrina Zimmerman,64,Male,Caucasian,Hypertension,nosebleeds,Patient presents with symptoms of nosebleeds associated with Hypertension.
+982,Matthew Smith,43,Female,Caucasian,Heart Disease,irregular heartbeat,Patient presents with symptoms of irregular heartbeat associated with Heart Disease.
+983,Joyce Church,89,Male,Asian,None,healthy,Patient presents with symptoms of healthy associated with None.
+984,Meghan Walters,75,Male,Asian,Typhoid,"rash, fever, abdominal pain","Patient presents with symptoms of rash, fever, abdominal pain associated with Typhoid."
+985,Spencer Chapman,35,Male,Asian,Hypertension,"shortness of breath, dizziness","Patient presents with symptoms of shortness of breath, dizziness associated with Hypertension."
+986,Ashley Webb,58,Male,Asian,Typhoid,fever,Patient presents with symptoms of fever associated with Typhoid.
+987,Rebecca Griffin,70,Male,Hispanic,Typhoid,"fever, rash","Patient presents with symptoms of fever, rash associated with Typhoid."
+988,Steven Nguyen,25,Male,Hispanic,Hypertension,"nosebleeds, nosebleeds, dizziness","Patient presents with symptoms of nosebleeds, nosebleeds, dizziness associated with Hypertension."
+989,Andrew Hayes,45,Male,Caucasian,Heart Disease,"fatigue, irregular heartbeat, irregular heartbeat, chest pain","Patient presents with symptoms of fatigue, irregular heartbeat, irregular heartbeat, chest pain associated with Heart Disease."
+990,Donna Rich,25,Male,Other,Malaria,"headache, muscle pain, headache, muscle pain","Patient presents with symptoms of headache, muscle pain, headache, muscle pain associated with Malaria."
+991,Leslie Ballard,75,Male,Asian,Malaria,"chills, fever","Patient presents with symptoms of chills, fever associated with Malaria."
+992,Sharon Miller,44,Male,Hispanic,Typhoid,"weakness, abdominal pain","Patient presents with symptoms of weakness, abdominal pain associated with Typhoid."
+993,Richard Roberts,21,Female,Caucasian,Hypertension,"nosebleeds, nosebleeds","Patient presents with symptoms of nosebleeds, nosebleeds associated with Hypertension."
+994,James Taylor,23,Female,Asian,Typhoid,"rash, fever, fever, rash","Patient presents with symptoms of rash, fever, fever, rash associated with Typhoid."
+995,Wendy Greene,29,Male,African American,COPD,"chronic cough, chest tightness","Patient presents with symptoms of chronic cough, chest tightness associated with COPD."
+996,Jonathan Yang,70,Male,African American,HIV,"weight loss, swollen lymph nodes, swollen lymph nodes","Patient presents with symptoms of weight loss, swollen lymph nodes, swollen lymph nodes associated with HIV."
+997,Cindy Melton,43,Male,Hispanic,Diabetes,"frequent urination, frequent urination","Patient presents with symptoms of frequent urination, frequent urination associated with Diabetes."
+998,Michael Martinez,32,Male,Other,Malaria,"headache, muscle pain, chills, fever","Patient presents with symptoms of headache, muscle pain, chills, fever associated with Malaria."
+999,Joseph Robertson,36,Male,Other,Malaria,"muscle pain, headache, headache, chills","Patient presents with symptoms of muscle pain, headache, headache, chills associated with Malaria."
+1000,Robin Johnson,48,Female,Hispanic,Malaria,"muscle pain, muscle pain, muscle pain, chills","Patient presents with symptoms of muscle pain, muscle pain, muscle pain, chills associated with Malaria."
